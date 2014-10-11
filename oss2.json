@@ -153,7 +153,7 @@
         {"name": "Reference management software"},
         {"name": "Science", "children": 
           []
-        }
+        },
         {"name": "Bioinformatics", "children": 
           [
             {"name": ".NET Bio	A language-neutral bioinformatics toolkit built using the Microsoft 4.0 .NET Framework to help developers, researchers, and scientists.	.NET Framework	Apache License	Collaborative project"},
