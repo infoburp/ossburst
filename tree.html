@@ -105,7 +105,7 @@ function update(source) {
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
 
   nodeUpdate.select("circle")
-      .attr("r", 8)
+      .attr("r", 2)
       .style("fill", function(d) { return d._children ? "#00CC00" : "#006600"; });
 
   nodeUpdate.select("text")
