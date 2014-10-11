@@ -10,20 +10,18 @@ color:white;
 }
 
 .node circle {
-  fill: #424242;
-  stroke: #424242
+  fill: #006600;
+  stroke: #006600;
   stroke-width: 4px;
 }
 
 .node text {
   font: 10px sans-serif;
-  color:white;
-  text-color:white;
 }
 
 .link {
   fill: none;
-  stroke: #424242;
+  stroke: #003300;
   stroke-width: 4px;
 }
 
@@ -92,7 +90,7 @@ function update(source) {
 
   nodeEnter.append("circle")
       .attr("r", 1e-6)
-      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+      .style("fill", function(d) { return d._children ? "#00CC00" : "#006600"; });
 
   nodeEnter.append("text")
       .attr("x", function(d) { return d.children || d._children ? -10 : 10; })
@@ -108,7 +106,7 @@ function update(source) {
 
   nodeUpdate.select("circle")
       .attr("r", 8)
-      .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
+      .style("fill", function(d) { return d._children ? "#00CC00" : "#006600"; });
 
   nodeUpdate.select("text")
       .style("fill-opacity", 1);
