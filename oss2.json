@@ -1,0 +1,199 @@
+{
+  "name":"free and open-source software packages",
+  "children": [
+    {
+      "name": "Applied fields",
+      "children": [
+        {"name": "Artificial intelligence", "children":
+          [
+            {"name": "General", "children": 
+              [
+                {"name": "OpenCog A project that aims to build an artificial general intelligence (AGI) framework. OpenCog Prime is a specific set of interacting components designed to give rise to human-equivalent artificial general intelligence."}
+              ]
+            }
+            {"name": "Computer Vision", "children":
+              [
+                {"name": "AForge.NET Computer Vision, Artificial Intelligence and Robotics library for the .NET Framework"},
+                {"name": "OpenCV Computer Vision Library in C++"}
+              ]
+            }
+            {"name": "Machine Learning", "children":
+              [
+                {"name": "See Data Mining below"},
+                {"name": "See R programming language—packages of statistical learning and analysis tools"}
+              ]
+            {"name": "Planning", "children":
+              [
+                {"name": "TREX Reactive planning"}
+              ]
+            {"name": "Robotics", "children":
+              [
+                {"name": "ROS Robot Operating System"}
+              ]
+            }
+          ]
+        },
+        {"name": "CAD", "children": 
+          [
+            {"name": "Electronic design automation (EDA)"}
+          ]},
+        {"name": "Computer simulation"},
+        {"name": "Finance"},
+        {"name": "Integrated Library Management Software"},
+        {"name": "Image editor"},
+        {"name": "Mathematics"},
+        {"name": "Reference management software"},
+        {"name": "Science", "children": 
+          [
+            {"name": "Bioinformatics"},
+            {"name": "Cheminformatics"},
+            {"name": "Geographic Information Systems"},
+            {"name": "Microscope image processing"},
+            {"name": "Molecular dynamics"},
+            {"name": "Molecule viewer"},
+            {"name": "Nanotechnology"},
+            {"name": "Plotting"}
+          ]},
+
+        {"name": "Statistics"},
+        {"name": "Surveys"}
+      ]
+    },
+    {"name": "Assistive technology", "children":
+      [
+        {"name": "Speech (synthesis and recognition)"},
+        {"name": "Other assistive technology"}
+      ]
+    },
+    {"name": "Data storage and management", "children":
+      [
+        {"name": "Backup software"},
+        {"name": "Database management systems (including administration)"},
+        {"name": "Data mining"},
+        {"name": "Data Visualization Components"},
+        {"name": "Digital Asset Management software"},
+        {"name": "Disk partitioning software"},
+        {"name": "Enterprise search engines"},
+        {"name": "ETLs (Extract Transform Load)"},
+        {"name": "File archivers"},
+        {"name": "File Systems"}
+      ]
+    },
+    {"name": "Networking and Internet", "children":
+      [
+        {"name": "Advertising"},
+        {"name": "Communication-related"},
+        {"name": "E-mail"},
+        {"name": "File transfer"},
+        {"name": "Instant messaging"},
+        {"name": "IRC Clients"},
+        {"name": "Middleware"},
+        {"name": "RSS/Atom readers/aggregators"},
+        {"name": "Peer-to-peer file sharing"},
+        {"name": "Portal Server"},
+        {"name": "Remote access and management"},
+        {"name": "Routing software"},
+        {"name": "Web browsers"},
+        {"name": "Webcam"},
+        {"name": "Webgrabber"},
+        {"name": "Web-related"},
+        {"name": "Other networking programs"}
+      ]
+    },
+    {"name": "Educational", "children":
+      [
+        {"name": "Educational suites"},
+        {"name": "Geography"},
+        {"name": "Learning support"},
+        {"name": "Language"},
+        {"name": "Typing"},
+        {"name": "Other educational programs"}
+      ]
+    },
+    {"name": "File managers"},
+    {"name": "Games", "children":
+      [
+        {"name": "Application layer"}
+      ]
+    },
+    {"name": "Genealogy"},
+    {"name": "Graphical user interface", "children":
+      [
+        {"name": "Desktop environments"},
+        {"name": "Window managers"},
+        {"name": "Windowing system"}
+      ]
+    },
+    {"name": "Groupware", "children":
+      [
+        {"name": "Content management systems"},
+        {"name": "Wiki software"}
+      ]
+    },
+    {"name": "Healthcare software"},
+    {"name": "Media", "children":
+      [
+        {"name": "2D animation"},
+        {"name": "3D animation"},
+        {"name": "Audio editors / audio management"},
+        {"name": "CD/USB-writing software"},
+        {"name": "Flash animation"},
+        {"name": "Graphics"},
+        {"name": "Image galleries"},
+        {"name": "Image viewers"},
+        {"name": "Multimedia codecs / containers / splitters"},
+        {"name": "Television"},
+        {"name": "Video converters"},
+        {"name": "Video editing"},
+        {"name": "Video encoders"},
+        {"name": "Video players"},
+        {"name": "Other media packages"}
+      ]
+    },
+    {"name": "Operating systems", "children":
+      [
+        {"name": "Emulation and Virtualisation"}
+      ]
+    },
+    {"name": "Password management"},
+    {"name": "Personal information managers"},
+    {"name": "Programming language support", "children":
+      [
+        {"name": "Bug trackers"},
+        {"name": "Code generators"},
+        {"name": "Configuration software"},
+        {"name": "Debuggers (for testing and trouble-shooting)"},
+        {"name": "Integrated development environments"},
+        {"name": "Version control systems"}
+      ]
+    },
+    {"name": "Screensavers"},
+    {"name": "Security", "children":
+      [
+        {"name": "Anti-virus"},
+        {"name": "Data loss prevention"},
+        {"name": "Data recovery","children":
+          [
+            {"name": "Forensics"}
+          ]
+        },
+        {"name": "Disk erasing"},
+        {"name": "Encryption","children":
+          [
+            {"name": "Disk encryption"}
+          ]
+        },
+        {"name": "Firewall"},
+        {"name": "Network and security monitoring"},
+        {"name": "Secure Shell (ssh)"},
+        {"name": "Other security programs"}
+      ]
+    },
+    {"name": "Theology", "children":
+      [
+        {"name": "Bible study tools"}
+      ]
+    },
+    {"name": "Typesetting"}
+  ]
+}
