@@ -10,22 +10,24 @@
               [
                 {"name": "OpenCog A project that aims to build an artificial general intelligence (AGI) framework. OpenCog Prime is a specific set of interacting components designed to give rise to human-equivalent artificial general intelligence."}
               ]
-            }
+            },
             {"name": "Computer Vision", "children":
               [
                 {"name": "AForge.NET Computer Vision, Artificial Intelligence and Robotics library for the .NET Framework"},
                 {"name": "OpenCV Computer Vision Library in C++"}
               ]
-            }
+            },
             {"name": "Machine Learning", "children":
               [
                 {"name": "See Data Mining below"},
                 {"name": "See R programming language—packages of statistical learning and analysis tools"}
               ]
+            },
             {"name": "Planning", "children":
               [
                 {"name": "TREX Reactive planning"}
               ]
+            },
             {"name": "Robotics", "children":
               [
                 {"name": "ROS Robot Operating System"}
