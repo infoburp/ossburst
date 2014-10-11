@@ -2271,58 +2271,850 @@ Kphotoalbum
 Opticks
         },
         {"name": "Multimedia codecs / containers / splitters"},
-        {"name": "Television"},
-        {"name": "Video converters"},
-        {"name": "Video editing"},
-        {"name": "Video encoders"},
-        {"name": "Video players"},
-        {"name": "Other media packages"}
+        {"name": "Television"
+          Aegisub
+Boxee
+Fxtv
+GeeXboX
+Kdetv
+LinHES
+LinuxMCE
+LinuxTV
+MediaPortal
+Mythbuntu
+MythDora
+MythTV
+Sabbu
+SubRip
+Tvtime
+Xawtv
+ZoneMinder
+        },
+        {"name": "Video converters"
+          D
+Dr. DivX
+F
+FFmpeg
+G
+GPAC Project on Advanced Content
+H
+HandBrake
+L
+Libav
+Libdash
+M
+MEncoder
+O
+OggConvert
+S
+StaxRip
+T
+Transcode (software)
+        },
+        {"name": "Video editing"
+          Avidemux
+AviSynth
+Blender
+Cinelerra
+DScaler
+DVD Flick
+Kaltura
+Kdenlive
+Kino
+LiVES
+OpenShot Video Editor
+Pitivi
+VirtualDub
+VirtualDubMod
+VideoLAN Movie Creator — VLMC is a non-linear editing software for video creation based on libVLC and running on Windows, Linux and Mac OS X.
+        },
+        {"name": "Video encoders"
+          Avidemux
+HandBrake
+        },
+        {"name": "Video players"
+          VLC
+Media Player Classic
+        },
+        {"name": "Other media packages"
+          Celtx — Media Pre-production Software
+Gnome Subtitles
+        }
       ]
     },
     {"name": "Operating systems", "children":
-      [
-        {"name": "Emulation and Virtualisation"}
-      ]
+      
+        {"name": "Emulation"
+          
+1964 (emulator)
+A
+AppleWin
+B
+Basilisk II
+Bnetd
+Bochs
+C
+ConEmu
+Cygwin
+D
+DOSBox
+F
+Fuse (emulator)
+G
+GNOME Boxes
+GNS3
+GXemul
+H
+Hatari (emulator)
+H cont.
+Hercules (emulator)
+Higan (emulator)
+J
+JPC (emulator)
+K
+Kernel-based Virtual Machine
+M
+Mac-on-Linux
+Mac-on-Mac
+Mupen64Plus
+O
+OpenEmulator
+OpenMSX
+P
+PCSX2
+PearPC
+Play!
+PPSSPP
+P cont.
+Previous (emulator)
+PvPGN
+Q
+QEMU
+R
+RPCS3
+S
+SheepShaver
+SIMH
+T
+TiEmu
+U
+UAE (emulator)
+V
+VICE
+VirtualBox
+VisualBoyAdvance
+X
+Xenia (emulator)
+Z
+ZSNES
+        },
+        {"name": "Virtualisation"B
+Bhyve
+C
+Chroot
+Cooperative Linux
+E
+EmbeddedXEN
+F
+Free Java implementations
+FreeBSD jail
+G
+GNOME Boxes
+K
+Kernel-based Virtual Machine
+L
+Lguest
+L cont.
+Libguestfs
+Libvirt
+Linux-VServer
+LXC
+LynxSecure
+M
+Marionnet
+O
+OpenJDK
+OpenVZ
+Q
+QEMU
+R
+ResidualVM
+S
+ScummVM
+U
+Ulteo Open Virtual Desktop
+User-mode Linux
+V
+Virtual Machine Manager
+VirtualBox
+X
+Xen
+XtratuM
+Z
+ZeroVM
+}
+      3
+386BSD
+A
+Arch BSD
+Arch Hurd
+AROS Research Operating System
+AtheOS
+B
+BareMetal
+Berkeley Software Distribution
+BeRTOS
+Bluebottle OS
+C
+Caldera OpenDOS
+CapROS
+ChibiOS/RT
+Concurrent CP/M
+Concurrent CP/M-68K
+Concurrent CP/M-86
+Contiki
+Cosmos (operating system)
+CP/M
+CP/M-86
+CP/M 8-16
+CP/M Plus
+CP/M-68K
+CP/M-80
+CP/M-8000
+CP/M-86 Plus
+CP/M-86/80
+D
+Darwin (operating system)
+DexOS
+DragonFly BSD
+DuinOS
+E
+ECos
+EmuTOS
+Es (operating system)
+E cont.
+Ethernut
+F
+FMI/OS
+Free-DOS
+FreeDOS
+FreeRTOS
+G
+GeckOS
+GNU
+GNU variants
+H
+Haiku (operating system)
+HDOS
+HelenOS
+House (operating system)
+I
+ILIOS
+J
+JX (operating system)
+K
+K42
+KolibriOS
+L
+LINX (IPC)
+LiteOS
+LSE/OS
+LUnix
+M
+Managed Operation System Alliance
+MenuetOS
+MINIX
+MINIX 3
+Minix-vmd
+MiNT
+MonaOS
+Movitz
+MP/M
+MP/M 8-16
+MP/M II
+MP/M-286
+MP/M-80
+MP/M-86
+M cont.
+MS/8
+Multics
+N
+Nano-RK
+Nemesis (operating system)
+O
+Oberon (operating system)
+OpenDOS
+OS/VX
+P
+PD-DOS
+Personal CP/M
+Personal CP/M-80
+Personal CP/M-86
+Phantom OS
+Phoenix-RTOS
+Pintos
+Prex
+Q
+QP (framework)
+R
+ReactOS
+Robot Operating System
+S
+Sanos
+SHARE Operating System
+SharpOS (operating system)
+Soft Hard Real-Time Kernel
+SPIN (operating system)
+Syllable Desktop
+SymbOS
+T
+Tinix
+Trix (operating system)
+TUD:OS
+V
+VA Kernel
+Version 6 Unix
+Version 7 Unix
+VSTa
+W
+Whitix
+X
+Xv6
+]
     },
-    {"name": "Password management"},
-    {"name": "Personal information managers"},
+    {"name": "Password management"
+      KeePass
+Password Safe
+Mitro
+
+    },
+    {"name": "Personal information managers"
+      Chandler — developed by the OSAF.
+KAddressBook
+Kontact
+KOrganizer
+Mozilla Calendar — A Mozilla-based, multiplatform calendar program.
+Novell Evolution
+OpenSync (software)
+Project.net — Commercial Project Management
+TeamLab — Platform for project management and collaboration
+    },
     {"name": "Programming language support", "children":
       [
-        {"name": "Bug trackers"},
-        {"name": "Code generators"},
-        {"name": "Configuration software"},
-        {"name": "Debuggers (for testing and trouble-shooting)"},
-        {"name": "Integrated development environments"},
-        {"name": "Version control systems"}
+        {"name": "Bug trackers"
+          Bugzilla
+Mantis
+Mindquarry
+Redmine
+Trac
+        },
+        {"name": "Code generators"
+          Bison
+CodeSynthesis XSD — XML Data Binding compiler for C++
+CodeSynthesis XSD/e — Validating XML parser/serializer and C++ XML Data Binding generator for mobile and embedded systems
+Flex lexical analyser
+Kodos
+Open Scene Graph — 3D graphics application programming interface
+OpenSCDP — Open Smart Card Development Platform
+phpCodeGenie
+SableCC — parser generator for Java and .Net
+SWIG — Simplified Wrapper and Interface Generator for several languages
+^txt2regex$
+xmlbeansxx — XML Data Binding code generator for C++
+YAKINDU Statechart Tools statechart code generator for C++ and Java
+        },
+        {"name": "Configuration software"
+          Autoconf
+Automake
+CMake
+
+        },
+        {"name": "Debuggers (for testing and trouble-shooting)"
+          GNU Debugger — "works for many programming languages [...]"
+Memtest86 — Stress-tests RAM on x86 machines
+Xnee — Record and replay tests
+        },
+        {"name": "Integrated development environments"
+          A
+Android Studio
+Anjuta
+Apache Flex
+AppFlower
+Aptana
+B
+Basic For Qt
+Bluefish (software)
+BlueJ
+C
+Cameleon (software)
+Climacs
+Cloud9 IDE
+Code::Blocks
+CodeLite
+CWEB
+D
+Dev-C++
+Dev-Pascal
+DJGCC
+DJGPP
+DogmaModeler
+E
+EasyEclipse
+Eclipse (software)
+EiffelStudio
+Emacs
+Eric Python IDE
+F
+FlashDevelop
+Fresh (IDE)
+G
+Gambas
+Geany
+General Architecture for Text Engineering
+GNAT Programming Studio
+GNAVI
+GNU Emacs
+GNU MIX Development Kit
+Greenfoot
+H
+HBasic
+I
+IcyOwl
+IDLE (Python)
+IntelliJ IDEA
+J
+JUDO (computer programming environment)
+K
+KDevelop
+Komodo Edit
+Kuzya
+L
+Lava (programming language)
+Lazarus (IDE)
+M
+MCU 8051 IDE
+Megido (Free Pascal)
+MonoDevelop
+N
+NeOn Toolkit
+NetBeans
+Ninja-IDE
+Nodeclipse
+O
+OntoWiki
+P
+Padre (software)
+Photran
+PHPEclipse
+PIDA
+Protégé (software)
+PyDev
+PyScripter
+Q
+QDevelop
+Qt Creator
+Quanta Plus
+R
+RadRails
+S
+SharpDevelop
+SLIME
+SmallBASIC
+Spyder (software)
+Stani's Python Editor
+T
+TIGCC
+U
+Ultimate++
+W
+WaveMaker
+WideStudio
+WxDev-C++
+Y
+YAKINDU Statechart Tools
+Z
+ZeroBrane Studio
+ZGameEditor
+        },
+        {"name": "Version control systems"
+          A
+Aegis (management software)
+GNU arch
+ArX (revision control)
+B
+GNU Bazaar
+Bonsai (software)
+C
+Cervisia
+Codeville
+Cogito (software)
+Concurrent Versions System
+C cont.
+CVSNT
+D
+Darcs
+Distributed Concurrent Versions System
+Distributed revision control
+F
+Fossil (software)
+G
+Git (software)
+H
+Hgsubversion
+M
+Mercurial
+Monotone (software)
+O
+OpenGrok
+Q
+QVCS
+R
+Revision Control System
+S
+Source Code Control System
+Apache Subversion
+SVK
+T
+TortoiseCVS
+TortoiseHg
+V
+Vesta (Software configuration management)
+        }
       ]
     },
-    {"name": "Screensavers"},
+    {"name": "Screensavers"
+      Boinc
+Electric Sheep
+XScreenSaver
+    },
     {"name": "Security", "children":
       [
-        {"name": "Anti-virus"},
-        {"name": "Data loss prevention"},
+        {"name": "Anti-virus"
+          ClamAV
+ClamWin
+Gateway Anti-Virus
+Lynis
+        },
+        {"name": "Data loss prevention"
+          MyDLP
+        },
         {"name": "Data recovery","children":
           [
-            {"name": "Forensics"}
+            dvdisaster
+Foremost
+PhotoRec
+TestDisk
           ]
         },
-        {"name": "Disk erasing"},
+        {"name": "Forensics"
+          The Coroner's Toolkit
+The Sleuth Kit
+        },
+        {"name": "Disk erasing"
+          DBAN
+srm
+        },
         {"name": "Encryption","children":
           [
-            {"name": "Disk encryption"}
+            GnuPG
+GnuTLS
+KGPG
+OpenSSL
+Seahorse
+
           ]
         },
-        {"name": "Firewall"},
-        {"name": "Network and security monitoring"},
-        {"name": "Secure Shell (ssh)"},
-        {"name": "Other security programs"}
+        {"name": "Disk encryption"
+          CrossCrypt
+FreeOTFE and FreeOTFE Explorer
+eCryptfs
+
+        },
+        {"name": "Firewall"
+          Coyote Linux
+Firestarter
+IPCop
+IPFilter
+IPFire
+ipfw
+Iptables
+M0n0wall
+PeerGuardian
+PF
+pfSense
+Rope
+Shorewall
+SmoothWall
+Untangle
+Vyatta
+        },
+        {"name": "Network and security monitoring"
+          A
+Admon
+Argus (monitoring software)
+Arping
+Arpwatch
+B
+Big Sister (software)
+C
+Cacti (software)
+CFEngine
+Check MK
+Collectd
+Conserver
+D
+DSniff
+E
+EtherApe
+F
+FreeNATS
+G
+Ganglia (software)
+Ganymede (software)
+I
+Icinga
+Ipsectrace
+J
+Justniffer
+M
+M23 software distribution system
+Mausezahn
+Multi Router Traffic Grapher
+Munin (software)
+N
+N2rrd
+Nagios
+Nconf
+N cont.
+NeDi
+Net-SNMP
+Netcat
+Netdisco
+Netsniff-ng
+Network Console on Acid
+Network Security Toolkit
+Network weathermap
+NetXMS
+Ngrep
+Nmap
+NMIS
+O
+Observium
+OpenNMS
+Opsi
+Opsview
+P
+Packet Sender
+PacketFence
+Packetsquare
+Pandora FMS
+Paping
+Pcap
+Pinba
+Ping (networking utility)
+Plink
+P cont.
+Prefix WhoIs
+R
+RANCID (software)
+Rrd4j
+RRDtool
+S
+Sguil
+Shinken (software)
+SNMPTT
+Snoop (software)
+Subterfuge
+Synctool
+T
+TclMon
+TCP Gender Changer
+Tcpdump
+Tcptrace
+Thresh (software)
+Traceroute
+W
+W3af
+WarVOX
+Wireshark
+X
+Xplico
+Xymon
+Z
+Zabbix
+Zenoss
+Zentyal
+        },
+        {"name": "Secure Shell (ssh)"
+          Cyberduck — Mac OS X and Windows client (since version 4.0)
+Lsh — server and client (supporting SRP and Kerberos authentication)
+OpenSSH — client/server
+PuTTY — client only
+        },
+        {"name": "Other security programs"
+          A
+ACARM-ng
+Aircrack-ng
+Tails (operating system)
+Apache Shiro
+Armitage (computing)
+Arptables
+Autopsy (software)
+B
+Bro (software)
+Buck-security
+C
+Central Authentication Service
+Chntpw
+Clam AntiVirus
+ClamWin
+Cloudvpn
+Cryptlib
+Cryptmount
+Cryptocat
+D
+DaveGrohl (software)
+DenyHosts
+Digital Forensics Framework
+DiskCryptor
+Distributed Access Control System
+Dropbear (software)
+DSploit
+F
+Fail2ban
+FireHOL
+FLAIM
+FreeOTFE
+FreeS/WAN
+G
+Gateway Anti-Virus
+GnuTLS
+Gpg4win
+GPGTools
+H
+Hash Code cracker
+H cont.
+HijackThis
+HTTP Switchboard
+I
+Immunix
+Ipchains
+IPCop
+IPFire
+J
+Java Anon Proxy
+John the Ripper
+K
+Ksplice
+L
+Libgcrypt
+LibreSSL
+Libreswan
+Lsh
+Lynis
+M
+MatrixSSL
+Metasploit Project
+MyDLP
+N
+Nessus (software)
+Netfilter
+Nettle (cryptographic library)
+Nikto Web Scanner
+NoScript
+NotScripts
+NuFW
+O
+Off-the-Record Messaging
+Online Armor Personal Firewall
+Open Source Tripwire
+OpenConnect
+OpenDJ
+OpenDS
+OpenPAM
+OpenPuff
+OpenSSH
+OpenSSL
+O cont.
+Openswan
+OpenVAS
+OpenVPN
+Ophcrack
+OSSEC
+P
+PolarSSL
+Prey (software)
+Pwdump
+S
+Sagan (software)
+Selective file dumper
+The Sleuth Kit
+Snort (software)
+SSL-Explorer: Community Edition
+Stealthy
+Stockade (software)
+StrongSwan
+Stunnel
+Suricata (software)
+SystemRescueCD
+T
+TCP Wrapper
+TextSecure
+Thresh (software)
+TorChat
+U
+Uncomplicated Firewall
+UT-VPN
+V
+Dacloud.me
+VPNBook
+VTun
+Vyatta
+VyOS
+W
+W3af
+WarVOX
+X
+X-Wrt
+Z
+Zentyal
+        }
       ]
     },
     {"name": "Theology", "children":
       [
-        {"name": "Bible study tools"}
+        {"name": "Bible study tools"
+          BibleDesktop — For Cross-platform
+BibleTime — For Linux using KDE
+Go Bible — For Java Mobile Phones
+jSword — For Java
+MacSword — For Mac OS X
+Marcion — For Linux and Windows, using Qt UI Framework and embedded MySql server
+openlp.org — Worship presentation software for churches to display songs, bibles, movies etc.
+SwordBible — For Windows
+The SWORD Project for Windows — For Windows
+Xiphos The_SWORD_Project — For Linux using GNOME
+        }
       ]
     },
-    {"name": "Typesetting"}
+    {"name": "Typesetting"
+      F
+FIGlet
+FreeType
+G
+Graphite (SIL)
+G cont.
+Groff (software)
+I
+IText
+L
+LaTeX
+L cont.
+Lout (software)
+S
+Scribus
+T
+Troff
+    }
   ]
 }
