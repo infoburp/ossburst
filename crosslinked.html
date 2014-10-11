@@ -5,6 +5,7 @@
 .link {
   fill: none;
   stroke: #aaa;
+  stroke-width: 4px;
 }
 
 .node text {
@@ -13,7 +14,7 @@
 
 .node circle {
   stroke: #fff;
-  stroke-width: 1.5px;
+  stroke-width: 4px;
 }
 
 .node.active {
@@ -62,7 +63,7 @@ d3.json("oss.json", function(root) {
       .on("mouseout", function(d) { highlight(null); });
 
   node.append("circle")
-      .attr("r", 4.5);
+      .attr("r", 8);
 
   node.append("text")
       .attr("x", -6)
