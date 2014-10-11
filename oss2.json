@@ -88,26 +88,262 @@
             {"name": "XFOIL"},
             {"name": "Z88 FEM software"}
           ]},
-        {"name": "Computer simulation"},
-        {"name": "Finance"},
-        {"name": "Integrated Library Management Software"},
-        {"name": "Image editor"},
-        {"name": "Mathematics"},
+        {"name": "Computer simulation", "children":
+              [
+                {"name": "Blender; 3D modeling software written in C, C++ and Python that can make animations and graphics for games"},
+                {"name": "SimPy; queue-theoretic event-based simulator written in Python"},
+                {"name": "flightgear is an open source flight simulator written for Windows, Mac OS X, and GNU/Linux."}
+              ]
+        },
+        {"name": "Finance", "children":
+          [
+            {"name": "Adempiere — ERP Business Suite"},
+            {"name": "Bitcoin — Peer to peer decentralised digital currency."},
+            {"name": "Bonita Open Solution — Business Process Management"},
+            {"name": "Compiere — ERP solution automates accounting, supply chain, inventory and sales orders"},
+            {"name": "Cyclos — Software for microfinance institutions, complementary currency systems and timebanks"},
+            {"name": "Dolibarr — Web-based ERP system."},
+            {"name": "Ebase — Constituent relationship management developed especially for non-profit organizations"},
+            {"name": "Frontaccounting — web-based Double-entry book-keeping and ERP system"},
+            {"name": "GnuCash — Double-entry book-keeping"},
+            {"name": "Grisbi — Single-entry"},
+            {"name": "HomeBank — for personal use"},
+            {"name": "jFin"},
+            {"name": "JFire — An ERP Business Suite written with Java and JDO"},
+            {"name": "JGnash — Java-based, double-entry book-keeping"},
+            {"name": "JQuantLib — Java-based Quantitative Finance API framework for financial instrument valuation and more..."},
+            {"name": "KMyMoney — Double-entry book-keeping"},
+            {"name": "LedgerSMB — Double-entry book-keeping"},
+            {"name": "Mifos — Microfinance Institution management software"},
+            {"name": "Openbravo"},
+            {"name": "Odoo — ERP, eCommerce, and CMS system"},
+            {"name": "OrangeHRM — Commercial Human Resource Management"},
+            {"name": "Postbooks — Integrated Accounting and ERP Business Suite"},
+            {"name": "QuickFIX — FIX protocol engine written in C++ with additional C#, Ruby, and Python wrappers"},
+            {"name": "QuickFIX/J — FIX protocol engine written in Java"},
+            {"name": "SQL Ledger — Double-entry book-keeping"},
+            {"name": "SugarCRM — Commercial Customer Relationship Management"},
+            {"name": "Tryton"},
+            {"name": "TurboCASH — Double-entry book-keeping for Windows"},
+            {"name": "vtiger CRM — Customer Relationship Management(CRM) software with Sales force automation, marketing management,Customer Service/Support,Inventory Management"},
+            {"name": "WebERP — Web-based ERP system"}
+          ]
+        },
+        {"name": "Integrated Library Management Software", "children":
+          [
+            {"name": "Evergreen"},
+            {"name": "Koha"},
+            {"name": "NewGenLib"},
+            {"name": "OpenBiblio"},
+            {"name": "PMB"},
+            {"name": "refbase — Web-based institutional repository and reference management software"}
+          ]
+        },
+        {"name": "Image editor", "children":
+          [
+            {"name": "Darktable - Digital image workflow management, including RAW processing."},
+            {"name": "digiKam - Integrated photography toolkit including editing capabilities."},
+            {"name": "GIMP — GNU Image Manipulation Program"},
+            {"name": "Inkscape - An Open Source vector graphics editor."}
+        },
+        {"name": "Mathematics"
+          
+        },
         {"name": "Reference management software"},
         {"name": "Science", "children": 
+          []
+        }
+        {"name": "Bioinformatics", "children": 
           [
-            {"name": "Bioinformatics"},
-            {"name": "Cheminformatics"},
-            {"name": "Geographic Information Systems"},
-            {"name": "Microscope image processing"},
-            {"name": "Molecular dynamics"},
-            {"name": "Molecule viewer"},
-            {"name": "Nanotechnology"},
-            {"name": "Plotting"}
-          ]},
-
-        {"name": "Statistics"},
-        {"name": "Surveys"}
+            {"name": ".NET Bio	A language-neutral bioinformatics toolkit built using the Microsoft 4.0 .NET Framework to help developers, researchers, and scientists.	.NET Framework	Apache License	Collaborative project"},
+            {"name": "AMPHORA	Metagenomics analysis software	Linux	GNU General Public License	Developer"},
+            {"name": "Anduril	Component-based workflow framework for data analysis	Linux, Mac OS X, Windows	GPL	University of Helsinki"},
+            {"name": "AutoDock	suite of automated docking tools	Platform	GNU GPL	Developer"},
+            {"name": "Biochemical Algorithms Library (BALL)	C++ library and framework for molecular modeling and visualization designed for rapid prototyping	Linux, Mac OS X, Windows	LGPL	BALL project team"},
+            {"name": "Bioclipse	Visual platform for chemo- and bioinformatics based on the Eclipse Rich Client Platform (RCP).	Platform	Eclipse Public License	The Bioclipse Project"},
+            {"name": "Bioconductor	R (programming language) language toolkit	Linux, Mac OS X, Windows	Artistic License 2.0	Fred Hutchinson Cancer Research Center"},
+            {"name": "BioJava	Java (programming language)	Linux, Mac OS X, Windows	LGPL v2.1	Open Bioinformatics Foundation"},
+            {"name": "BioJS	Javascript	Web	Apache License	-"},
+            {"name": "BioMOBY	registry of web services	Web	Artistic License	Open Bioinformatics Foundation"},
+            {"name": "BioPerl	Perl language toolkit	Cross-platform	Artistic License & GPL	Open Bioinformatics Foundation"},
+            {"name": "BioPHP	PHP language toolkit	Platform	GPL v2	Open Bioinformatics Foundation"}
+            {"name": "Biopython	Python language toolkit	Cross-platform	Biopython License	Open Bioinformatics Foundation"}
+            {"name": "BioRuby	Ruby language toolkit	Platform	GNU GPL v2 or Ruby license	Open Bioinformatics Foundation"}
+            {"name": "EMBOSS	Suite of packages for sequencing, searching, etc.	Platform	General Public Licence (GPL) and Library GPL	Collaborative project"}
+            {"name": "Galaxy	Scientific workflow and data integration system	Unix-like	Academic Free License	Penn State and Emory University"}
+            {"name": "GenePattern	Scientific workflow system that provides access to more than 150 genomic analysis tools	Unix-like (public server); Linux, Mac OS X, Windows	MIT license	Broad Institute"}
+            {"name": "GeWorkbench	Genomic data integration platform	Linux, Mac OS X, Windows	License	Columbia University"}
+            {"name": "GMOD	Toolkit for addressing many common challenges at biological databases.	Unix-like (server), Web browser (client)	Varies depending on tool	Collaborative project"}
+            {"name": "GenGIS	Application that allows users to combine digital map data with information about biological sequences collected from the environment.	Windows, Mac OS X	GPL	Collaborative project"}
+            {"name": "GenomeSpace	Centralized web application that provides data format transformations and facilitates connections with other bioinformatics tools	Web browser	LGPL	Broad Institute, Collaborative project"}
+            {"name": "GENtle	An equivalent to the proprietary Vector NTI, a tool to analyze and edit DNA sequence files	Platform	GPL	Magnus Manske"}
+            {"name": "Integrated Genome Browser	Java-based desktop genome browser	Linux, Mac OS X, Windows	CPL 1.0	GenoViz"}
+            {"name": "InterMine	Extensive data warehouse system for the analysis and integration of biological datasets	Cross-platform	LGPL	University of Cambridge"}
+            {"name": "LabKey Server	platform for integrating, analyzing and sharing data	Linux, Mac OS X, Windows	Apache License	LabKey Software Foundation"}
+            {"name": "PathVisio	a desktop software for drawing, analysis and visualization of biological pathways	Linux, Mac OS X, Windows	Apache 2.0 License	Maastricht University"}
+            {"name": "Staden Package	Sequence assembly, editing and analysis, primarily consisting of gap4, gap5 and spin.	Linux, Mac OS X, Windows	BSD	Wellcome Trust Sanger Institute / Medical Research Council"}
+            {"name": "STAMP	Software package for analyzing metagenomic profiles that promotes ‘best practices’ in choosing appropriate statistical techniques and reporting results.	Windows, Mac OS X	GPL	Collaborative project"}
+            {"name": "Taverna workbench	Tool for designing and executing workflows	Linux, Mac OS X, Windows	LGPL	myGrid"}
+            {"name": "UGENE	integrated bioinformatics tools	Linux, Mac OS X, Windows	GPL2	Unipro"}
+          ]
+        },
+        {"name": "Cheminformatics", "children": 
+          [
+            {"name": "Chemistry Development Kit"},
+            {"name": "JOELib"},
+            {"name": "OpenBabel"},
+          ]
+        },
+        {"name": "Geographic Information Systems", "children": 
+          [
+            {"name": "Capaware"},
+            {"name": "Chameleon (GIS)"},
+            {"name": "Deegree"},
+            {"name": "FWTools"},
+            {"name": "GDAL"},
+            {"name": "Generic Mapping Tools"},
+            {"name": "GeoDA"},
+            {"name": "Geomajas"},
+            {"name": "GeoNetwork opensource"},
+            {"name": "GeoServer"},
+            {"name": "GeoTools"},
+            {"name": "GPSBabel"},
+            {"name": "GRASS GIS"},
+            {"name": "GvSIG"},
+            {"name": "ILWIS"},
+            {"name": "JOSM"},
+            {"name": "JUMP GIS"},
+            {"name": "Kosmo"},
+            {"name": "Leaflet (software)"},
+            {"name": "LibLAS"},
+            {"name": "Mapbender"},
+            {"name": "MapGuide Open Source"},
+            {"name": "Mapnik"},
+            {"name": "MapServer"},
+            {"name": "MapWindow GIS"},
+            {"name": "Open Source Geospatial Foundation"},
+            {"name": "OpenEV"},
+            {"name": "OpenLayers"},
+            {"name": "PostGIS"},
+            {"name": "Potlatch (software)"},
+            {"name": "Pycsw"},
+            {"name": "QGIS"},
+            {"name": "R.sun"},
+            {"name": "SAGA GIS"},
+            {"name": "TerraAmazon"},
+            {"name": "TerraLib"},
+            {"name": "TerraView"},
+            {"name": "UDig"},
+            {"name": "Whitebox Geospatial Analysis Tools"}
+          ]
+        },
+        {"name": "Microscope image processing", "children": 
+          [
+            {"name": "CellProfiler"},
+            {"name": "Endrov"},
+            {"name": "FIJI (software)"},
+            {"name": "ImageJ"}
+          ]
+        },
+        {"name": "Molecular dynamics", "children": 
+          [
+            {"name": "Ascalaph Designer"},
+            {"name": "GROMACS"},
+            {"name": "LAMMPS"},
+            {"name": "MDynaMix"},
+            {"name": "NAMD"}
+          ]
+        },
+        {"name": "Molecule viewer", "children": 
+          [
+            {"name": "Avogadro"},
+            {"name": "BALLView"},
+            {"name": "Jmol"},
+            {"name": "Molekel"},
+            {"name": "MeshLab, able to import PDB dataset and build up surfaces from them"},
+            {"name": "PyMOL"},
+            {"name": "QuteMol"},
+            {"name": "RasMol"}
+          ]
+        },
+        {"name": "Nanotechnology", "children": 
+          [
+            {"name": "Ninithi — visualize and analyze the carbon allotropes such as Carbon nanotube, Fullerene, Graphene nanoribbons"}
+          ]
+        },
+        {"name": "Plotting", "children": 
+          [
+            {"name": "Descartes (plotting tool)"},
+            {"name": "EpsTk"},
+            {"name": "Fityk"},
+            {"name": "GGobi"},
+            {"name": "Ggplot2"},
+            {"name": "Gnuplot"},
+            {"name": "Grace (plotting tool)"},
+            {"name": "GraphCalc"},
+            {"name": "Graphics Layout Engine"},
+            {"name": "Gretl"},
+            {"name": "HippoDraw"},
+            {"name": "IDPS Software"},
+            {"name": "JavaGnuplotHybrid"},
+            {"name": "JFreeChart"},
+            {"name": "Kst (software)"},
+            {"name": "LabPlot"},
+            {"name": "Matplotlib"},
+            {"name": "MayaVi"},
+            {"name": "OpenPlaG"},
+            {"name": "OpenScientist"},
+            {"name": "Ploticus"},
+            {"name": "Plotutils"},
+            {"name": "PLplot"},
+            {"name": "QtiPlot"},
+            {"name": "R (programming language)"},
+            {"name": "ROOT"},
+            {"name": "SciDAVis"},
+            {"name": "Veusz"},
+            {"name": "VisIt"}
+          ]
+        },
+        {"name": "Statistics", "children": 
+          [
+            {"name": "ADaMSoft"},
+            {"name": "ADMB"},
+            {"name": "Armadillo (C++ library)"},
+            {"name": "DAP (software)"},
+            {"name": "Deeplearning4j"},
+            {"name": "Dlib"},
+            {"name": "Emacs Speaks Statistics"},
+            {"name": "GGobi"},
+            {"name": "Gretl"},
+            {"name": "HippoDraw"},
+            {"name": "Java Analysis Studio"},
+            {"name": "Julia (programming language)"},
+            {"name": "Knitr"},
+            {"name": "LIBSVM"},
+            {"name": "MLPACK (C++ library)"},
+            {"name": "Mlpy"},
+            {"name": "Mondrian (software)"},
+            {"name": "Neurophysiological Biomarker Toolbox"},
+            {"name": "OpenEpi"},
+            {"name": "Pandas (software)"},
+            {"name": "Programming with Big Data in R"},
+            {"name": "Ploticus"},
+            {"name": "PSPP"},
+            {"name": "R (programming language)"},
+            {"name": "RKWard"},
+            {"name": "Scikit-learn"},
+            {"name": "Shogun (toolbox)"},
+            {"name": "SOFA Statistics"},
+            {"name": "Sweave"},
+            {"name": "Torch (machine learning)"},
+            {"name": "X-12-ARIMA"}
+          ]
+        },
+        {"name": "Surveys", "children": 
+          [
+            {"name": "LimeSurvey — Online survey system"}
+          ]
+        }
       ]
     },
     {"name": "Assistive technology", "children":
