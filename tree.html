@@ -7,9 +7,9 @@
 }
 
 .node circle {
-  fill: #fff;
-  stroke: steelblue;
-  stroke-width: 1.5px;
+  fill: #424242;
+  stroke: #424242
+  stroke-width: 4px;
 }
 
 .node text {
@@ -18,8 +18,8 @@
 
 .link {
   fill: none;
-  stroke: #ccc;
-  stroke-width: 1.5px;
+  stroke: #424242;
+  stroke-width: 4px;
 }
 
 </style>
@@ -102,7 +102,7 @@ function update(source) {
       .attr("transform", function(d) { return "translate(" + d.y + "," + d.x + ")"; });
 
   nodeUpdate.select("circle")
-      .attr("r", 4.5)
+      .attr("r", 8)
       .style("fill", function(d) { return d._children ? "lightsteelblue" : "#fff"; });
 
   nodeUpdate.select("text")
