@@ -37,7 +37,26 @@
         },
         {"name": "CAD", "children": 
           [
-            {"name": "Electronic design automation (EDA)"},
+            {"name": "Electronic design automation (EDA)", "children":
+              [
+                {"name": "ChipVault"},
+                {"name": "Electric (software)"},
+                {"name": "FreePCB"},
+                {"name": "Fritzing"},
+                {"name": "GEDA"},
+                {"name": "GTKWave"},
+                {"name": "Icarus Verilog"},
+                {"name": "KiCad"},
+                {"name": "KTechLab"},
+                {"name": "Oregano (software)"},
+                {"name": "PCB (software)"},
+                {"name": "Quite Universal Circuit Simulator"},
+                {"name": "SapWin"},
+                {"name": "Sigrok"},
+                {"name": "Verilator"},
+                {"name": "XCircuit"}
+              ]
+            },
             {"name": "Archimedes (CAD)"},
             {"name": "Art of Illusion"},
             {"name": "AutoQ3D Community"},
