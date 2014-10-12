@@ -6,7 +6,7 @@
       "children": [
         {"name": "Artificial intelligence", "children":
           [
-            {"name": "General", "children": 
+            {"name": "Artificial general intelligence", "children": 
               [
                 {"name": "OpenCog"}
               ]
@@ -129,7 +129,7 @@
             {"name": "WebER"}
           ]
         },
-        {"name": "Integrated Library Management Software", "children":
+        {"name": "Integrated library system", "children":
           [
             {"name": "Evergreen"},
             {"name": "Koha"},
@@ -139,7 +139,7 @@
             {"name": "refbase"}
           ]
         },
-        {"name": "Image editor", "children":
+        {"name": "Graphics software", "children":
           [
             {"name": "Darktable"},
             {"name": "digiKam"},
@@ -190,7 +190,7 @@
             {"name": "OpenBabel"}
           ]
         },
-        {"name": "Geographic Information Systems", "children": 
+        {"name": "Geographic information system", "children": 
           [
             {"name": "Capaware"},
             {"name": "Chameleon (GIS)"},
@@ -250,7 +250,7 @@
             {"name": "NAMD"}
           ]
         },
-        {"name": "Molecule viewer", "children": 
+        {"name": "Molecule editor", "children": 
           [
             {"name": "Avogadro"},
             {"name": "BALLView"},
@@ -267,7 +267,7 @@
             {"name": "Ninithi"}
           ]
         },
-        {"name": "Plotting", "children": 
+        {"name": "Plot (graphics)", "children": 
           [
             {"name": "Descartes (plotting tool)"},
             {"name": "EpsTk"},
@@ -335,16 +335,16 @@
             {"name": "X-12-ARIMA"}
           ]
         },
-        {"name": "Surveys", "children": 
+        {"name": "Survey", "children": 
           [
-            {"name": "LimeSurvey — Online survey system"}
+            {"name": "LimeSurvey"}
           ]
         }
       ]
     },
     {"name": "Assistive technology", "children":
       [
-        {"name": "Speech (synthesis and recognition)", "children":
+        {"name": "Speech", "children":
           [
             {"name": "CMU Sphinx"},
             {"name": "Emacspeak"},
@@ -398,7 +398,7 @@
             {"name": "UDPCast"}
           ]
         },
-        {"name": "Database management systems (including administration)", "children":
+        {"name": "Database management system", "children":
           [
            {"name": "Apache Accumulo"},
            {"name": "Apache Derby"},
@@ -500,13 +500,13 @@
             {"name": "JasperSoft"}
           ]
         },
-        {"name": "Data Visualization Components", "children":
+        {"name": "Data visualization", "children":
           [
             {"name": "ParaView"},
             {"name": "VTK"}
           ]
         },
-        {"name": "Digital Asset Management software", "children":
+        {"name": "Digital asset management", "children":
           [
             {"name": "OpenDAM"}
           ]
@@ -521,7 +521,7 @@
             {"name": "Ntfsresize"}
           ]
         },
-        {"name": "Enterprise search engines", "children":
+        {"name": "Enterprise search", "children":
           [
             {"name": "ApexKB"},
             {"name": "Lucene"},
@@ -530,7 +530,7 @@
             {"name": "Xapian"}
           ]
         },
-        {"name": "ETLs (Extract Transform Load)", "children":
+        {"name": "Extract, transform, load", "children":
           [
             {"name": "CloverETL (Community Edition)"},
             {"name": "Konstanz Information Miner (KNIME)"},
@@ -539,7 +539,7 @@
             {"name": "Talend"}
           ]
         },
-        {"name": "File archivers", "children":
+        {"name": "File archiver", "children":
           [
             {"name": "7-Zip"},
             {"name": "7z"},
@@ -567,7 +567,7 @@
             {"name": "QUAD (compressor)"}
           ]
         },
-        {"name": "File Systems", "children":
+        {"name": "File System", "children":
           [
             {"name": "OpenAFS"},
             {"name": "Tahoe-LAFS"},
@@ -596,7 +596,7 @@
             {"name": "Twinkle"}
           ]
         },
-        {"name": "E-mail", "children":
+        {"name": "Email", "children":
           [
             {"name": "AfterLogic WebMail Lite"},
             {"name": "Agorum core"},
@@ -732,7 +732,7 @@
             {"name": "Zephyr (protocol)"}
           ]
         },
-        {"name": "IRC Client", "children":
+        {"name": "Internet Relay Chat", "children":
           [
             {"name": "Ayttm"},
             {"name": "Bersirc"},
@@ -783,7 +783,7 @@
             {"name": "TAO (software)"}
           ]
         },
-        {"name": "aggregator", "children":
+        {"name": "News aggregator", "children":
           [
             {"name": "Akregator"},
             {"name": "Liferea"},
@@ -836,7 +836,7 @@
             {"name": "Xtreme Mod"}
           ]
         },
-        {"name": "Portal Server", "children":
+        {"name": "Web portal", "children":
           [
             {"name": "Drupal"},
             {"name": "eXo Platform"},
@@ -846,7 +846,7 @@
             {"name": "uPortal"}
           ]
         },
-        {"name": "Remote access and management", "children":
+        {"name": "Remote Access Service", "children":
           [
             {"name": "FreeNX"},
             {"name": "OpenVPN"},
@@ -857,7 +857,7 @@
             {"name": "Remmina"}
           ]
         },
-        {"name": "Routing software", "children":
+        {"name": "Routing", "children":
           [
             {"name": "Bird Internet routing daemon"},
             {"name": "BSD Router Project"},
@@ -1004,9 +1004,9 @@
         }
       ]
     },
-    {"name": "Educational", "children":
+    {"name": "Education", "children":
       [
-        {"name": "Educational suites", "children":
+        {"name": "Educational software", "children":
           [
             {"name": "ATutor"},
             {"name": "Chamilo"},
@@ -1030,7 +1030,7 @@
             {"name": "KGeography"}
           ]
         },
-        {"name": "Learning support", "children":
+        {"name": "Virtual learning environment", "children":
           [
             {"name": "Chamilo"},
             {"name": "Edu-sharing"},
@@ -1065,7 +1065,7 @@
         }
       ]
     },
-    {"name": "File managers", "children":
+    {"name": "File manager", "children":
       [
         {"name": "7-Zip"},
         {"name": "Advanced Renamer"},
@@ -1103,7 +1103,7 @@
         {"name": "Xnc"}
       ]
     },
-    {"name": "Games", "children":
+    {"name": "PC game", "children":
         [
             {"name": "Application layer", "children":
                 [ 
@@ -1679,7 +1679,7 @@
                     {"name": "GIMIAS"}
                 ]
             },
-            {"name": "Medical information systems", "children":
+            {"name": "Medical information system", "children":
                 [
                     {"name": "Caisis"}
                 ]
@@ -1689,12 +1689,12 @@
                     {"name": "LabKey Server"}
                 ]
             },
-            {"name": "Mobile devices", "children":
+            {"name": "Mobile device", "children":
                 [
                     {"name": "Ushahidi"}
                 ]
             },
-            {"name": "Out-of-the-box distributions", "children":
+            {"name": "Out-of-the-box distribution", "children":
                 [
                     {"name": "BioLinux"},
                     {"name": "Debian-Med"},
@@ -1758,7 +1758,7 @@
                             {"name": "Xwax"}
                         ]
                     },
-                    {"name": "Modular systems", "children":
+                    {"name": "Modular system", "children":
                         [
                             {"name": "jMax"},
                             {"name": "SynFactory"},
@@ -1767,7 +1767,7 @@
                             {"name": "Libvisual"}
                         ]
                     },
-                    {"name": "Platforms", "children":
+                    {"name": "Platform", "children":
                         [
                             {"name": "Ubuntu Studio"},
                             {"name": "AVLinux"},
@@ -1778,7 +1778,7 @@
                             {"name": "Planet CCRMA"}
                         ]
                     },
-                    {"name": "Players", "children":
+                    {"name": "Player", "children":
                         [
                             {"name": "Audio players without Database", "children":
                                 [
@@ -1820,7 +1820,7 @@
                             }
                         ]
                     },
-                    {"name": "Programming languages", "children":
+                    {"name": "Programming language", "children":
                         [
                             {"name": "Csound"},
                             {"name": "SuperCollider"},
@@ -1865,7 +1865,7 @@
                             {"name": "WavoSaur"}
                         ]
                     },
-                    {"name": "Softsynths", "children":
+                    {"name": "Softsynth", "children":
                         [
                             {"name": "FluidSynth"},
                             {"name": "TiMidity++"},
