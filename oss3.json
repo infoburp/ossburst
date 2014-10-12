@@ -25,12 +25,12 @@
             },
             {"name": "Planning", "children":
               [
-                {"name": "TREX Reactive planning"}
+                {"name": "TREX"}
               ]
             },
             {"name": "Robotics", "children":
               [
-                {"name": "ROS Robot Operating System"}
+                {"name": "Robot Operating System"}
               ]
             }
           ]
