@@ -576,14 +576,14 @@
         }
       ]
     },
-    {"name": "Networking and Internet", "children":
+    {"name": "Computer network", "children":
       [
         {"name": "Advertising", "children":
           [
             {"name": "OpenX"}
           ]
         },
-        {"name": "Communication-related", "children":
+        {"name": "Communication", "children":
           [
             {"name": "Asterisk"},
             {"name": "Ekiga"},
@@ -732,7 +732,7 @@
             {"name": "Zephyr (protocol)"}
           ]
         },
-        {"name": "IRC Clients", "children":
+        {"name": "IRC Client", "children":
           [
             {"name": "Ayttm"},
             {"name": "Bersirc"},
@@ -783,7 +783,7 @@
             {"name": "TAO (software)"}
           ]
         },
-        {"name": "RSS/Atom readers/aggregators", "children":
+        {"name": "aggregator", "children":
           [
             {"name": "Akregator"},
             {"name": "Liferea"},
@@ -899,7 +899,7 @@
             {"name": "Zeroshell"}
           ]
         },
-        {"name": "Web browsers", "children":
+        {"name": "Web browser", "children":
           [
             {"name": "Abaco (web browser)"},
             {"name": "Amaya (web editor)"},
@@ -973,7 +973,7 @@
             {"name": "Wget"}
           ]
         },
-        {"name": "Web-related", "children":
+        {"name": "World Wide Web", "children":
           [
             {"name": "Apache Cocoon"},
             {"name": "Apache"},
@@ -1154,9 +1154,12 @@
             {"name": "Freeciv"},
             {"name": "FreeCol"},
             {"name": "Freedoom"},
-            {"name": "Freedroid"},
-            {"name": "1. FreedroidRPG"},
-            {"name": "2. FreedroidClassic"},
+            {"name": "Freedroid", "children":
+              [ 
+                {"name": "FreedroidRPG"},
+                {"name": "FreedroidClassic"}
+              ]
+            },
             {"name": "FreeOrion"},
             {"name": "FreeVial"},
             {"name": "Frets on Fire"},
@@ -1278,7 +1281,7 @@
     },
     {"name": "Graphical user interface", "children":
       [
-        {"name": "Desktop environments", "children":
+        {"name": "Desktop environment", "children":
             [
                 {"name": "Ambient (desktop environment)"},
                 {"name": "Cinnamon (software)"},
@@ -1309,7 +1312,7 @@
                 {"name": "Xito"}
             ]
         },
-        {"name": "Window managers", "children":
+        {"name": "Window manager", "children":
             [
                 {"name": "9wm"},
                 {"name": "AfterStep"},
@@ -1380,9 +1383,9 @@
         }
         ]
     },
-    {"name": "Groupware", "children":
+    {"name": "Collaborative software", "children":
         [
-            {"name": "Content management systems", "children":
+            {"name": "Content management system", "children":
                 [
                     {"name": "Agorum core"},
                     {"name": "Aiki Framework"},
@@ -1611,13 +1614,13 @@
         [
             {"name": "Public health and biosurveillance", "children":
                 [
-                    {"name": "Epi Info is public domain statistical software for epidemiology developed by Centers for Disease Control and Prevention."},
-                    {"name": "Spatiotemporal Epidemiological Modeler is a tool, originally developed at IBM Research, for modeling and visualizing the spread of infectious diseases."}
+                    {"name": "Epi Info"},
+                    {"name": "Spatiotemporal Epidemiological Modeler"}
                 ]
             },
             {"name": "Dental management and patient record", "children":
                 [
-                    {"name": "Open Dental is the first open-source dental management package with very broad capabilities on record management, patient scheduling and dental office management."}
+                    {"name": "Open Dental"}
                 ]
               
             },
@@ -1878,7 +1881,7 @@
                             {"name": "VideoLAN"}
                         ]
                     },
-                    {"name": "Technologies", "children":
+                    {"name": "Technology", "children":
                         [
                             {"name": "Advanced Linux Sound Architecture (ALSA)"},
                             {"name": "DSSI"},
@@ -1889,7 +1892,7 @@
                             {"name": "PulseAudio"}
                         ]
                     },
-                    {"name": "Trackers", "children":
+                    {"name": "Music tracker", "children":
                         [
 
                             {"name": "CheeseTracker"},
@@ -1994,7 +1997,7 @@
                     {"name": "Xara Xtreme LX"}
                 ]
             },
-            {"name": "Image galleries", "children":
+            {"name": "Image gallery", "children":
                 [
             
                     {"name": "Album Shaper"},
@@ -2010,7 +2013,7 @@
                     {"name": "TinyWebGallery"}
                 ]
             },
-            {"name": "Image viewers", "children":
+            {"name": "Image viewer", "children":
                 [
                     {"name": "Eye of GNOME"},
                     {"name": "F-spot"},
@@ -2021,7 +2024,7 @@
                     {"name": "Opticks"}
                 ]
             },
-            {"name": "Multimedia codecs / containers / splitters"},
+            {"name": "Codec"},
             {"name": "Television", "children":
                 [
                     {"name": "Aegisub"},
@@ -2043,7 +2046,7 @@
                     {"name": "ZoneMinder"}
                 ]
             },
-            {"name": "Video converters", "children":
+            {"name": "Video converter", "children":
                 [
                     {"name": "Dr. DivX"},
                     {"name": "FFmpeg"},
@@ -2076,13 +2079,13 @@
                     {"name": "VideoLAN Movie Creator"}
                 ]
             },
-            {"name": "Video encoders", "children":
+            {"name": "Video encoder", "children":
                 [  
                     {"name": "Avidemux"},
                     {"name": "HandBrake"}
                 ]
             },
-            {"name": "Video players", "children":
+            {"name": "Video player", "children":
                 [  
                     {"name": "VLC"},
                     {"name": "Media Player Classic"}
@@ -2096,7 +2099,7 @@
             }
         ]
     },
-    {"name": "Operating systems", "children":
+    {"name": "Operating system", "children":
         [
             {"name": "Emulation", "children":
                 [  
@@ -2282,7 +2285,7 @@
             {"name": "Mitro"}
         ]
     },
-    {"name": "Personal information managers", "children":
+    {"name": "Personal information manager", "children":
         [
             {"name": "Chandler"},
             {"name": "KAddressBook"},
@@ -2306,7 +2309,7 @@
                     {"name": "Trac"}
                 ]
             },
-            {"name": "Code generators", "children":
+            {"name": "Code generator", "children":
                 [
                     {"name": "Bison"},
                     {"name": "CodeSynthesis XSD"},
@@ -2606,7 +2609,7 @@
                     {"name": "Zentyal"}
                 ]
             },
-            {"name": "Secure Shell (ssh)", "children":
+            {"name": "Secure Shell", "children":
               [
                 {"name": "Cyberduck"},
                 {"name": "Lsh"},
