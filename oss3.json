@@ -2085,7 +2085,7 @@
                     {"name": "HandBrake"}
                 ]
             },
-            {"name": "Video player", "children":
+            {"name": "Media player#Video players", "children":
                 [  
                     {"name": "VLC"},
                     {"name": "Media Player Classic"}
