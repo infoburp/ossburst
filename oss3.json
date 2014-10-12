@@ -2,22 +2,22 @@
   "name":"open-source",
   "children": [
     {
-      "name": "Applied fields",
+      "name": "List_of_free_and_open-source_software_packages#Applied_fields",
       "children": [
         {"name": "Artificial intelligence", "children":
           [
             {"name": "General", "children": 
               [
-                {"name": "OpenCog A project that aims to build an artificial general intelligence (AGI) framework. OpenCog Prime is a specific set of interacting components designed to give rise to human-equivalent artificial general intelligence."}
+                {"name": "OpenCog"}
               ]
             },
-            {"name": "Computer Vision", "children":
+            {"name": "Computer vision", "children":
               [
-                {"name": "AForge.NET Computer Vision, Artificial Intelligence and Robotics library for the .NET Framework"},
-                {"name": "OpenCV Computer Vision Library in C++"}
+                {"name": "AForge.NET"},
+                {"name": "OpenCV"}
               ]
             },
-            {"name": "Machine Learning", "children":
+            {"name": "Machine learning", "children":
               [
                 {"name": "See Data Mining below"},
                 {"name": "See R programming language—packages of statistical learning and analysis tools"}
@@ -90,43 +90,43 @@
           ]},
         {"name": "Computer simulation", "children":
               [
-                {"name": "Blender; 3D modeling software written in C, C++ and Python that can make animations and graphics for games"},
-                {"name": "SimPy; queue-theoretic event-based simulator written in Python"},
-                {"name": "flightgear is an open source flight simulator written for Windows, Mac OS X, and GNU/Linux."}
+                {"name": "Blender"},
+                {"name": "SimPy"},
+                {"name": "flightgear"}
               ]
         },
         {"name": "Finance", "children":
           [
-            {"name": "Adempiere — ERP Business Suite"},
-            {"name": "Bitcoin — Peer to peer decentralised digital currency."},
-            {"name": "Bonita Open Solution — Business Process Management"},
-            {"name": "Compiere — ERP solution automates accounting, supply chain, inventory and sales orders"},
-            {"name": "Cyclos — Software for microfinance institutions, complementary currency systems and timebanks"},
-            {"name": "Dolibarr — Web-based ERP system."},
-            {"name": "Ebase — Constituent relationship management developed especially for non-profit organizations"},
-            {"name": "Frontaccounting — web-based Double-entry book-keeping and ERP system"},
-            {"name": "GnuCash — Double-entry book-keeping"},
-            {"name": "Grisbi — Single-entry"},
-            {"name": "HomeBank — for personal use"},
+            {"name": "Adempiere"},
+            {"name": "Bitco"},
+            {"name": "Bonita Open Solution"},
+            {"name": "Compiere"},
+            {"name": "Cyclos"},
+            {"name": "Dolibarr"},
+            {"name": "Ebase"},
+            {"name": "Frontaccounting"},
+            {"name": "GnuCash"},
+            {"name": "Grisbi"},
+            {"name": "HomeBank"},
             {"name": "jFin"},
-            {"name": "JFire — An ERP Business Suite written with Java and JDO"},
-            {"name": "JGnash — Java-based, double-entry book-keeping"},
-            {"name": "JQuantLib — Java-based Quantitative Finance API framework for financial instrument valuation and more..."},
-            {"name": "KMyMoney — Double-entry book-keeping"},
-            {"name": "LedgerSMB — Double-entry book-keeping"},
-            {"name": "Mifos — Microfinance Institution management software"},
+            {"name": "JFire"},
+            {"name": "JGnash"},
+            {"name": "JQuantLib"},
+            {"name": "KMyMoney"},
+            {"name": "LedgerSMB"},
+            {"name": "Mifos"},
             {"name": "Openbravo"},
-            {"name": "Odoo — ERP, eCommerce, and CMS system"},
-            {"name": "OrangeHRM — Commercial Human Resource Management"},
-            {"name": "Postbooks — Integrated Accounting and ERP Business Suite"},
-            {"name": "QuickFIX — FIX protocol engine written in C++ with additional C#, Ruby, and Python wrappers"},
-            {"name": "QuickFIX/J — FIX protocol engine written in Java"},
-            {"name": "SQL Ledger — Double-entry book-keeping"},
-            {"name": "SugarCRM — Commercial Customer Relationship Management"},
+            {"name": "Odoo"},
+            {"name": "OrangeHRM"},
+            {"name": "Postbooks"},
+            {"name": "QuickFIX"},
+            {"name": "QuickFIX/J"},
+            {"name": "SQL Ledger"},
+            {"name": "SugarCRM"},
             {"name": "Tryton"},
-            {"name": "TurboCASH — Double-entry book-keeping for Windows"},
-            {"name": "vtiger CRM — Customer Relationship Management(CRM) software with Sales force automation, marketing management,Customer Service/Support,Inventory Management"},
-            {"name": "WebERP — Web-based ERP system"}
+            {"name": "TurboCASH"},
+            {"name": "vtiger CRM"},
+            {"name": "WebER"}
           ]
         },
         {"name": "Integrated Library Management Software", "children":
@@ -152,35 +152,35 @@
         {"name": "Science"},
         {"name": "Bioinformatics", "children": 
           [
-            {"name": "AMPHORA Metagenomics analysis software"},
+            {"name": "AMPHORA"},
             {"name": "Anduril"},
             {"name": "AutoDock"},
             {"name": "Biochemical Algorithms Library (BALL)"},
             {"name": "Bioclipse Visual platform for chemo- and bioinformatics based on the Eclipse Rich Client Platform (RCP)."},
-            {"name": "Bioconductor  R (programming language) language toolkit"},
-            {"name": "BioJava   Java (programming language)"},
-            {"name": "BioJS Javascript"},
-            {"name": "BioMOBY   registry of web services"},
-            {"name": "BioPerl   Perl language toolkit"},
-            {"name": "BioPHP    PHP language toolkit"},
-            {"name": "Biopython Python language toolkit"},
-            {"name": "BioRuby   Ruby language toolkit   Platform"},
-            {"name": "EMBOSS    Suite of packages for sequencing, searching, etc."},
-            {"name": "Galaxy    Scientific workflow and data integration system"},
-            {"name": "GenePattern   Scientific workflow system that provides access to more than 150 genomic analysis tools"},
-            {"name": "GeWorkbench   Genomic data integration platform"},
-            {"name": "GMOD  Toolkit for addressing many common challenges at biological databases."},
-            {"name": "GenGIS    Application that allows users to combine digital map data with information about biological sequences collected from the environment."},
-            {"name": "GenomeSpace   Centralized web application that provides data format transformations and facilitates connections with other bioinformatics tools   Web browser LGPL    Broad Institute, Collaborative project"},
-            {"name": "GENtle    An equivalent to the proprietary Vector NTI, a tool to analyze and edit DNA sequence files  Platform    GPL Magnus Manske"},
-            {"name": "Integrated Genome Browser Java-based desktop genome browser   Linux, Mac OS X, Windows    CPL 1.0 GenoViz"},
-            {"name": "InterMine Extensive data warehouse system for the analysis and integration of biological datasets Cross-platform  LGPL    University of Cambridge"},
-            {"name": "LabKey Server platform for integrating, analyzing and sharing data    Linux, Mac OS X, Windows    Apache License  LabKey Software Foundation"},
-            {"name": "PathVisio a desktop software for drawing, analysis and visualization of biological pathways   Linux, Mac OS X, Windows    Apache 2.0 License  Maastricht University"},
-            {"name": "Staden Package    Sequence assembly, editing and analysis, primarily consisting of gap4, gap5 and spin.   Linux, Mac OS X, Windows    BSD Wellcome Trust Sanger Institute / Medical Research Council"},
-            {"name": "STAMP Software package for analyzing metagenomic profiles that promotes ‘best practices’ in choosing appropriate statistical techniques and reporting results.    Windows, Mac OS X   GPL Collaborative project"},
-            {"name": "Taverna workbench Tool for designing and executing workflows  Linux, Mac OS X, Windows    LGPL    myGrid"},
-            {"name": "UGENE integrated bioinformatics tools Linux, Mac OS X, Windows    GPL2    Unipro"}
+            {"name": "Bioconductor"},
+            {"name": "BioJava"},
+            {"name": "BioJS"},
+            {"name": "BioMOBY"},
+            {"name": "BioPerl"},
+            {"name": "BioPHP"},
+            {"name": "Biopython"},
+            {"name": "BioRuby"},
+            {"name": "EMBOSS"},
+            {"name": "Galaxy"},
+            {"name": "GenePattern"},
+            {"name": "GeWorkbench"},
+            {"name": "GMOD"},
+            {"name": "GenGIS"},
+            {"name": "GenomeSpace"},
+            {"name": "GENtle"},
+            {"name": "Integrated Genome Browser"},
+            {"name": "InterMine"},
+            {"name": "LabKey"},
+            {"name": "PathVisio"},
+            {"name": "Staden Package"},
+            {"name": "STAMP"},
+            {"name": "Taverna workbench"},
+            {"name": "UGENE"}
           ]
         },
         {"name": "Cheminformatics", "children": 
@@ -256,7 +256,7 @@
             {"name": "BALLView"},
             {"name": "Jmol"},
             {"name": "Molekel"},
-            {"name": "MeshLab, able to import PDB dataset and build up surfaces from them"},
+            {"name": "MeshLab"},
             {"name": "PyMOL"},
             {"name": "QuteMol"},
             {"name": "RasMol"}
@@ -264,7 +264,7 @@
         },
         {"name": "Nanotechnology", "children": 
           [
-            {"name": "Ninithi — visualize and analyze the carbon allotropes such as Carbon nanotube, Fullerene, Graphene nanoribbons"}
+            {"name": "Ninithi"}
           ]
         },
         {"name": "Plotting", "children": 
@@ -346,20 +346,20 @@
       [
         {"name": "Speech (synthesis and recognition)", "children":
           [
-            {"name": "CMU Sphinx — Speech recognition software from Carnegie Mellon University"},
-            {"name": "Emacspeak — Audio desktop"},
-            {"name": "ESpeak — compact software speech synthesizer for English and other languages"},
+            {"name": "CMU Sphinx"},
+            {"name": "Emacspeak"},
+            {"name": "ESpeak"},
             {"name": "Festival Speech Synthesis System"},
-            {"name": "Modular Audio Recognition Framework — voice, audio, speech NLP processing"},
-            {"name": "NonVisual Desktop Access — (NVDA) Screen reader for Windows"},
-            {"name": "Text2Speech — Lightweight and easy to use Text To Speech (TTS) Software"}
+            {"name": "Modular Audio Recognition Framework"},
+            {"name": "NonVisual Desktop Access"},
+            {"name": "Text2Speech"}
           ]
         },
         {"name": "Other assistive technology", "children":
           [
-            {"name": "Dasher — Unique text input software"},
-            {"name": "Gnopernicus — AT suite for GNOME 2"},
-            {"name": "Virtual Magnifying Glass — a multiplatform, screen magnification tool."}
+            {"name": "Dasher"},
+            {"name": "Gnopernicus"},
+            {"name": "Virtual Magnifying Glass"}
           ]
         }
       ]
@@ -489,26 +489,26 @@
         },
         {"name": "Data mining", "children":
           [
-            {"name": "Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI) — data mining software framework written in Java with a focus on clustering and outlier detection methods."},
+            {"name": "Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI)"},
             {"name": "SCaViS — Java-based data analysis framework"},
             {"name": "Konstanz Information Miner (KNIME)"},
-            {"name": "OpenNN — Open source neural networks software library written in the C++ programming language."},
-            {"name": "Orange (software) — data visualization and data mining for novice and experts, through visual programming or Python scripting. Extensions for bioinformatics and text mining."},
-            {"name": "RapidMiner — data mining software written in Java, fully integrating Weka, featuring 350+ operators for preprocessing, machine learning, visualization, etc."},
-            {"name": "Scriptella ETL — ETL (Extract-Transform-Load) and script execution tool. Supports integration with J2EE and Spring. Provides connectors to CSV, LDAP, XML, JDBC/ODBC and other data sources."},
-            {"name": "Weka — data mining software written in Java featuring machine learning operators for classification, regression, and clustering."},
-            {"name": "JasperSoft — data mining with programmable abstraction layer."}
+            {"name": "OpenNN"},
+            {"name": "Orange (software)"},
+            {"name": "RapidMiner"},
+            {"name": "Scriptella ETL"},
+            {"name": "Weka"},
+            {"name": "JasperSoft"}
           ]
         },
         {"name": "Data Visualization Components", "children":
           [
-            {"name": "ParaView plotting and visualization functions developed by Sandia National Laboratory, capable of massively parallel flow visualization utilizing multiple computer processors"},
-            {"name": "VTK is a toolkit for 3D computer graphics, image processing and visualization."}
+            {"name": "ParaView"},
+            {"name": "VTK"}
           ]
         },
         {"name": "Digital Asset Management software", "children":
           [
-            {"name": "OpenDAM, Free Open Source Digital Asset Management for enterprise content management integration, to manage image, pictures and video files."}
+            {"name": "OpenDAM"}
           ]
         },
         {"name": "Disk partitioning software", "children":
@@ -523,7 +523,7 @@
         },
         {"name": "Enterprise search engines", "children":
           [
-            {"name": "ApexKB, formerly known as Jumper"},
+            {"name": "ApexKB"},
             {"name": "Lucene"},
             {"name": "Nutch"},
             {"name": "Solr"},
@@ -569,9 +569,9 @@
         },
         {"name": "File Systems", "children":
           [
-            {"name": "OpenAFS — a distributed file system supporting a very wide variety of operating systems"},
-            {"name": "Tahoe-LAFS — a distributed file system/Cloud storage system with integrated privacy and security features"},
-            {"name": "CephFS — a distributed file system included in the Ceph storage platform."}
+            {"name": "OpenAFS"},
+            {"name": "Tahoe-LAFS"},
+            {"name": "CephFS"}
           ]
         }
       ]
@@ -585,15 +585,15 @@
         },
         {"name": "Communication-related", "children":
           [
-            {"name": "Asterisk — Telephony and VoIP server"},
-            {"name": "Ekiga — Video conferencing application for GNOME and Microsoft Windows"},
-            {"name": "FreePBX — Front-end and advanced PBX configuration for Asterisk"},
-            {"name": "FreeSWITCH — Telephony platform"},
-            {"name": "Jitsi — Java VoIP and Instant Messaging client"},
-            {"name": "QuteCom — Free Voice, Video and IM client application"},
-            {"name": "Enterprise Communications System sipXecs — SIP Communications Server"},
-            {"name": "Slrn — a newsreader"},
-            {"name": "Twinkle — VOIP softphone"}
+            {"name": "Asterisk"},
+            {"name": "Ekiga"},
+            {"name": "FreePBX"},
+            {"name": "FreeSWITCH"},
+            {"name": "Jitsi"},
+            {"name": "QuteCom"},
+            {"name": "Enterprise Communications System sipXecs"},
+            {"name": "Slrn"},
+            {"name": "Twinkle"}
           ]
         },
         {"name": "E-mail", "children":
@@ -773,22 +773,22 @@
         },
         {"name": "Middleware", "children":
           [
-            {"name": "Apache Axis2 — Web service framework (implementations are available in both Java & C)"},
+            {"name": "Apache Axis2"},
             {"name": "Apache Geronimo"},
-            {"name": "Bonita Open Solution(software) — a J2EE web application and java BPMN2 compliant engine"},
+            {"name": "Bonita Open Solution(software)"},
             {"name": "GlassFish Application Server"},
-            {"name": "Jakarta Tomcat — a servlet container and standalone webserver"},
-            {"name": "JBoss Application Server an application server"},
-            {"name": "ObjectWeb JOnAS — Java Open Application Server, a J2EE application server"},
-            {"name": "TAO (software) — C++ implementation of the OMG's CORBA standard"}
+            {"name": "Jakarta Tomcat"},
+            {"name": "JBoss Application Server"},
+            {"name": "ObjectWeb JOnAS"},
+            {"name": "TAO (software)"}
           ]
         },
         {"name": "RSS/Atom readers/aggregators", "children":
           [
-            {"name": "Akregator — Platforms running KDE"},
-            {"name": "Liferea — Platforms running GNOME"},
-            {"name": "RSS Bandit — Windows - .NET"},
-            {"name": "RSSOwl — Windows, Mac OS X, Solaris, Linux - Java SWT Eclipse"},
+            {"name": "Akregator"},
+            {"name": "Liferea"},
+            {"name": "RSS Bandit"},
+            {"name": "RSSOwl"},
             {"name": "Sage (Mozilla Firefox extension)"}
           ]
         },
@@ -841,7 +841,7 @@
             {"name": "Drupal"},
             {"name": "eXo Platform"},
             {"name": "Liferay"},
-            {"name": "Oxwall — Community site software"},
+            {"name": "Oxwall"},
             {"name": "Sun Java System Portal Server"},
             {"name": "uPortal"}
           ]
@@ -975,31 +975,31 @@
         },
         {"name": "Web-related", "children":
           [
-            {"name": "Apache Cocoon — a web application framework"},
-            {"name": "Apache — the most popular web server"},
-            {"name": "AWStats — a log file parser and analyzer"},
-            {"name": "BookmarkSync — a tool for browsers"},
-            {"name": "Cherokee — Speedy, feature rich HTTP Server"},
-            {"name": "curl-loader — a powerful HTTP/HTTPS/FTP/FTPS loading and testing open-source tool"},
-            {"name": "Hiawatha — Secure, high performance and easy-to-configure HTTP Server"},
-            {"name": "HTTP File Server — a user friendly file server software with a drag and drop interface"},
-            {"name": "lighttpd — Resource sparing but also fast and full featured HTTP Server"},
-            {"name": "nginx — lightweight, high performance web server/reverse proxy and e-mail (IMAP/POP3) proxy"},
-            {"name": "NetKernel — an internet application server"},
-            {"name": "Piwik — a web analytics system"},
-            {"name": "Qcodo — a PHP5 framework"},
-            {"name": "Railo — CFML Application Server"},
-            {"name": "Squid (software) — web proxy cache"},
-            {"name": "XAMPP — a package of web applications including Apache and MySQL"},
-            {"name": "Zope — a web application server"}
+            {"name": "Apache Cocoon"},
+            {"name": "Apache"},
+            {"name": "AWStats"},
+            {"name": "BookmarkSync"},
+            {"name": "Cherokee"},
+            {"name": "curl-loader"},
+            {"name": "Hiawatha"},
+            {"name": "HTTP File Server"},
+            {"name": "lighttpd"},
+            {"name": "nginx"},
+            {"name": "NetKernel"},
+            {"name": "Piwik"},
+            {"name": "Qcodo"},
+            {"name": "Railo"},
+            {"name": "Squid (software)"},
+            {"name": "XAMPP"},
+            {"name": "Zope"}
           ]
         },
         {"name": "Other networking programs", "children":
           [
-            {"name": "JXplorer — a LDAP client"},
-            {"name": "OpenLDAP — a LDAP server"},
-            {"name": "openVXI — a VoiceXML interpreter"},
-            {"name": "YaCy — P2P-based search engine"}
+            {"name": "JXplorer"},
+            {"name": "OpenLDAP"},
+            {"name": "openVXI"},
+            {"name": "YaCy"}
           ]
         }
       ]
@@ -1008,21 +1008,21 @@
       [
         {"name": "Educational suites", "children":
           [
-            {"name": "ATutor — a web-based Learning Content Management System (LCMS)"},
-            {"name": "Chamilo — a web-based e-learning and content management system"},
+            {"name": "ATutor"},
+            {"name": "Chamilo"},
             {"name": "DoceboLMS"},
-            {"name": "eFront — an icon-based learning management system"},
-            {"name": "FlightPath - academic advising software for universities"},
+            {"name": "eFront"},
+            {"name": "FlightPath"},
             {"name": "GCompris"},
-            {"name": "Gnaural — Brainwave entrainment software"},
+            {"name": "Gnaural"},
             {"name": "IUP Portfolio"},
-            {"name": "ILIAS — a web-based learning management system (LMS)"},
+            {"name": "ILIAS"},
             {"name": "Moodle"},
             {"name": "Omeka"},
-            {"name": "openSIS — a web-based Student Information and School Management system"},
-            {"name": "Sakai Project — a web-based learning management system"},
-            {"name": "SWAD - a web-based learning management system"},
-            {"name": "Tux Paint — a paint application for 3–12 year olds"}
+            {"name": "openSIS"},
+            {"name": "Sakai Project"},
+            {"name": "SWAD"},
+            {"name": "Tux Paint"}
           ]
         },
         {"name": "Geography", "children":
@@ -1110,157 +1110,157 @@
                     {"name": "WINE"}
                 ]
             },
-            {"name": "0 A.D.    2010    2014    RTS GPLv2   CC-BY-SA    3D  Historical, cross-platform RTS, using an original engine named Pyrogenesis. Game source-code released July 10, 2009.[1]"},
-            {"name": "2048  2014    2014    Puzzle  MIT MIT 2D  A popular sliding block puzzle game."},
-            {"name": "Advanced Strategic Command    1999    2013    TBТ GPL GPL 2D  Turn-based tactical war game, clone of Battle Isle and Nectaris."},
-            {"name": "Andy's Super Great Park   2012    2013    Shoot'em up GPLv2   CC-by-sa    ?   "},
-            {"name": "Adventure 1976        Text adventure  Public domain[2]    Public domain   Text    The original text adventure game by Crowther / Woods."},
-            {"name": "Ancient Beast 2012    2013    TBТ AGPL    CC-BY-SA    ?   Turn based tactical strategy browser game played against other people. Inspired by HoMM3."},
-            {"name": "Angband   1990    2012    Roguelike   GPL GPL Text    "},
-            {"name": "Ardentryst    2009    2009    2D side-scrolling   GPL[3]  GPL ?   An action/RPG side-scroller focused not just on fighting, but on story and character development. Strategy as well as reflexes will be needed to overcome the game. The game is set in another world."},
-            {"name": "Armagetron Advanced   2001    2011    Racing  GPL GPL 3D  A multiplayer, 3D Tron lightcycle racing game."},
-            {"name": "AstroMenace   2007    2012    Arcade  GPL GPL 3D  A top-scrolling space shooter."},
-            {"name": "Battle for Wesnoth    2005    2013    TBТ GPL GPL 2D  Turn-based tactical strategy game with RPG elements. Includes single-player campaign and skirmish modes as well as multiplayer."},
-            {"name": "Battle City   2003    2013    Vehicular combat game   GPL GPL ?   An online multiplayer game starting by either building a city or applying for a job in a city built by someone else. The objective is to defend the city meanwhile attempting to destroy the enemy cities. Game source released on December 12, 2003. Programmed in C/C++ using DirectX."},
-            {"name": "Beyond the Titanic    1986        Text adventure  GPL GPL Text    Game source released on March 20, 2009."},
-            {"name": "Biniax    2005    2012    Puzzle  Zlib License    Zlib License    2D  "},
-            {"name": "Bitfighter    2008    2014    Arcade  GPLv2   GPLv2   2D  Spaced-based multi-player shooter with fast, arcade-like action. Descendant of Zap! by Garage Games.[4]"},
-            {"name": "Blades of Exile   1997    2011    RPG GPL GPL 2D  Was originally a commercial product of Spiderweb Software."},
-            {"name": "Blob Wars: Blob And Conquer   2008    2009    Action-adventure    GPLv2   GPLv2, cc-by-sa, other open source  3D  3D sequel to Blob Wars: Metal Blob Solid."},
-            {"name": "Blob Wars: Metal Blob Solid   2003    2009    Platformer  GPL GPL 2D"},
-            {"name": "BomberClone   2010    2010    Action  GPL GPL 2D  Clone of Atomic Bomberman. - Homepage"},
-            {"name": "Bombermaaan   2007    2008    Action  GPL GPL 2D  Clone of Bomberman. - Homepage"},
-            {"name": "Bos Wars  2004    2013    RTS GPL GPL Isometric 2D    2D RTS running on a modified version of the Stratagus engine."},
-            {"name": "British Bingo 2011    2012    Card    GPL GPL ?   Uses 9x3 boards."},
-            {"name": "BZFlag    1997    2012    Tank FPS    LGPL    LGPL    ?   "},
-            {"name": "Cataclysm: Dark Days Ahead    2013    2013    RPG/Roguelike   CC-BY-SA    CC-BY-SA    ?   A post-apocalyptic, survival roguelike with an open-ended gameplay. Had a successful crowdfunding campaign on kickstarter.com in 22 June 2013.[5] Homepage"},
-            {"name": "Chaotic Rage  2010    2014    TPS GPLv2   GPLv2   3D  Originally a 2D top-view shooter, now 3D using OpenGL.[6]"},
-            {"name": "Cheeseman the Game    2013    2013    Platformer  GPL GPL ?   2D platformer based on SuperTux."},
-            {"name": "Chocolate Doom    2005    2012    FPS GPL GPL ?   Chocolate Doom is a source port of Doom that is designed to behave as closely as possible to the original DOS executable"},
-            {"name": "Crack Attack  2002    2002    Puzzle  GPL GPL ?   Puzzle game similar to the Super Nintendo classic game Tetris Attack.[7][8] — Homepage"},
-            {"name": "Crimson Fields[9] 2006    2009    TBТ GPL GPL ?   Tactical war game in the tradition of Battle Isle."},
-            {"name": "Chromium B.S.U.   2000    2010    Arcade  Artistic    Artistic[10]    ?   A fast paced, arcade-style, top-scrolling space shooter"},
-            {"name": "Crossfire 1992    2012    MMORPG  GPL GPL ?   Crossfire originally started as a Gauntlet clone[11] developed by Frank Tore Johansen at the University of Oslo, Norway.[12]"},
-            {"name": "Dead Meat 2001    2001    Action  GPL GPL ?   Clone of Bomberman. — Homepage"},
-            {"name": "Doolfy's Brain Surgery    2001    2011    RPG GPL[13] GPL ?   A surgery based photography game."},
-            {"name": "Dungeon Crawl Stone Soup  2006    2013    Roguelike   GPL CC0 ?   An open-source fork of the 1997 game Linley's Dungeon Crawl."},
-            {"name": "Eat The Whistle   1998    2008    Simulation  GPLv2   GPLv2   ?   A football simulation game. Released under the GPL in 2002."},
-            {"name": "Emilia Pinball    2000    2004    Pinball GPLv2   GPLv2   3D  A pinball simulation game."},
-            {"name": "Enigma    2003    2013    Puzzle  GPL GPL ?   Oxyd clone."},
-            {"name": "Epic Inventor 2013    2013    Platformer  GPL GPL 2D  Sandbox Patform Game. Like Minecraft"},
-            {"name": "Fish Fillets NG   2004    2010    Puzzle  GPL GPL ?   Released commercially as Fish Fillets in 1998. Source released in 2002 under the GPL."},
-            {"name": "FLARE 2010    2013    Action RPG  GPL GPL and CC-BY-SA 3.0    ?   Hack and slash inspired by Diablo."},
-            {"name": "FlightGear    1997    2014    Flight Sim  GPL GPL 3D  Microsoft Flight Simulator inspired clone."},
-            {"name": "Freeciv   1996    2014    TBS GPL GPL Isometric 2D    Civilization II clone."},
-            {"name": "FreeCol   2003    2013    TBS GPL GPL Isometric 2D    Sid Meier's Colonization clone."},
-            {"name": "Freedoom  1993 (2001) 2014    FPS BSD BSD[14] ?   Doom content/resource clone."},
-            {"name": "Freedroid 2008    2011    RPG GPL GPL Isometric 2D    Two games:"},
-            {"name": "1. FreedroidRPG - FreedroidRPG is an isometric role playing game."},
-            {"name": "2. FreedroidClassic - FreedroidClassic is a clone of the game 'Paradroid' which was released on Commodore 64 in 1985."},
-            {"name": "FreeOrion 2004    2014    TBТ GPL GPL ?   Master of Orion Clone. Community-developed 4X turn-based galactic empire strategy game with interactive 3D combat."},
-            {"name": "FreeVial  2008    2013    Quiz    GPL GPL ?   Trivial Pursuit Clone."},
-            {"name": "Frets on Fire 2006    2008    Music   GPL GPL 3D  Guitar Hero clone."},
-            {"name": "Frets on Fire X   2008    2009    Music   GPLv2   GPLv2   3D  Frets on Fire fork."},
-            {"name": "Frozen Bubble 2002    2008    Puzzle  GPLv2   GPLv2   2D  Puzzle Bobble clone."},
-            {"name": "Gang Garrison 2   2008    2010    Shooter GPL GPL ?   A retro 'demake' of Team Fortress 2."},
-            {"name": "Glest 2004    2008    RTS GPL CC-BY-SA    3D  3D RTS game with two factions, A.I. and same-platform networking support. Development ceased in 2008. Two forks exist, named MegaGlest and Glest Advanced Engine."},
-            {"name": "Globulation 2 2008    2009    RTS GPLv3   GPLv3   2D  Currently[when?] in open beta."},
-            {"name": "GLtron    2003    2003    Racing  GPL GPL 3D  Based on the light cycle portion of the film Tron."},
-            {"name": "GNOME Games   1998    2010    Various GPL GPL ?   A collection of games accompanying the rest of the GNOME desktop environment."},
-            {"name": "GNU Chess 1984    2011    TBS GPL GPL 2D  "},
-            {"name": "GNU FreeDink  1997    2012    RPG GPLv3   zlib, other free licenses[15]   ?   Port from the Dink Smallwood game with free sound replacements"},
-            {"name": "GNU Go    1999    2009    TBS GPL GPL ?   "},
-            {"name": "Green Mahjong 2014 [16]   2014    Puzzle  GPLv3   CC-BY-NC-SA 2D  Solitaire Mahjong"},
-            {"name": "Gunroar   2004[17]        FPS Simplified BSD  Simplified BSD  ?   A futuristic vertical shooter."},
-            {"name": "Gusanos   2004    2005    Shoot 'em up    GPL GPL ?   Clone of Liero."},
-            {"name": "Haxima/Nazghul    2004    2010    Roguelike   GPLv3   GPLv3   2D  Ultima-like game engine (2D tile graphics) and game. Homepage"},
-            {"name": "Hedgewars 2007    2014    Artillery game  GPLv2   GPLv2   2D  Worms clone."},
-            {"name": "Iter Vehemens ad Necem    2001    2005    roguelike dungeon crawler[18]   GPLv2[19]   GPLv2   ?   One of the game's specialties is the body parts system: the player can lose and regain limbs which have individual health points and strength."},
-            {"name": "KDEGames  1997[20] 1998[21]   2009    Various*    GPLv2   GPLv2       *Collection of games provided with the official release of KDE."},
-            {"name": "Kernel Panic          RTS GPL GPL ?   Real time strategy game powered by the Spring engine."},
-            {"name": "Kiki the nano bot 2003    2007    Puzzle  Public domain   Public domain   ?   Mixture of Sokoban and Kula World."},
-            {"name": "Kobo Deluxe   1995    2007    Shoot'em up GPL GPL ?   An enhanced version of the scrolling game XKobo."},
-            {"name": "Kroz  1987        Maze    GPL GPL ?   Game source released on March 20, 2009."},
-            {"name": "The Legend of Edgar   2009    2014    2D platform game    GPL various 2D  A 2D platform game with a persistent world."},
-            {"name": "Lincity   1999    2004    City-building game  GPL GPL ?   SimCity clone."},
-            {"name": "LinCity-NG    2005    2009    City-building game  GPL GPL ?   Lincity fork."},
-            {"name": "Linley's Dungeon Crawl    1997    2005    Roguelike   LGPL    LGPL    ?   Roguelike game."},
-            {"name": "Liquid War    1995    2008    Maze games  GPL GPL 2D  2D game in which you control particles and move them to defeat the opposing side."},
-            {"name": "M.A.X.R. (Mechanized Assault and eXploration Reloaded)    2007    2012    TBS GPL GPL and GFDL    ?   Remake of M.A.X."},
-            {"name": "The Mana World    2004    2014    MMORPG  GPL CC-BY-SA, GPL   2D  The Mana World (TMW) is a serious effort to create an innovative free and open source MMORPG. Art & Content are done in a 16-bit style reminiscent of early RPGS from the 90's."},
-            {"name": "MegaGlest 2010    2014    RTS GPL CC-BY-SA    3D  Cross-platform 3D RTS for up to eight players (can be A.I. controlled) on seven factions. MegaGlest is a fork of Glest."},
-            {"name": "MegaMek   2005    2009    TBТ GPL GPL ?   Simulates the Classic BattleTech board game."},
-            {"name": "Micropolis    1989 (as SimCity)"},
-            {"name": "2008 (as Micropolis)  2008    City-building game  GPLv3[22]   GPLv3   ?   Open-source release of SimCity. Also known as OLPC SimCity.[23]"},
-            {"name": "Microwar  2000    2009    Arcade  BSD BSD ?   A 'Space Invaders' style arcade game, in the cruel world of micro-computer industry."},
-            {"name": "Minetest  2010    2014    First-person, sandbox   LGPL    LGPL    3D  An infinite-world block sandbox game and a game engine, inspired by Minecraft and similar games. - Homepage"},
-            {"name": "Moria 1983    1999    RPG/Roguelike   GPL[24] GPL 2D  "},
-            {"name": "NetHack   1987    2003    RPG/Roguelike   Nethack GPL Nethack GPL Text"}, 
-            {"name": "Netrek    1988    2011    Shoot 'em up    MIT MIT 2D  Successor to 1986's Xtrek, Netrek was first played in 1988. It was the third Internet game, the first Internet team game, and as of 2011 is the oldest Internet game still actively played."},
-            {"name": "Neverball 2005    2009    Platformer  GPL GPL 3D  Also includes additional game Neverputt."},
-            {"name": "Nexuiz    2005    2009    FPS GPL GPL 3D  Forked into Xonotic following a commercial licensing agreement by a minority of the development team."},
-            {"name": "Oolite    2006    2014    Space Sim   GPLv2   GPLv2   3D  Elite Clone"},
-            {"name": "OpenArena 2005    2012    FPS GPLv2   GPLv2   3D  Quake III Clone"},
-            {"name": "OpenClonk 2010    2014    Action, RTS, Platform   ISC CC-BY   2D  Successor of the Clonk shareware series"},
-            {"name": "OpenCity  2003    2008    City-building game  GPL GPL 3D  SimCity Clone."},
-            {"name": "Omega 2008    2014    Space RTS   AGPL    GPL 3D  Universe Simulator / Space Engine / inspired by Homeworld series — Project"},
-            {"name": "OpenHexagon   2013    2013    Arcade  AFL 3.0[25] AFL 3.0 ?   Super Hexagon Clone.[26]"},
-            {"name": "OpenTTD   2005    2014    Business Sim    GPLv2   GPLv2   2D  An open-source clone of 'Transport Tycoon Deluxe'"},
-            {"name": "Paintown  2005    2013    fighting    BSD CC and Public Domain    2D  Clone of M.U.G.E.N game engine that allows the creation of fighting games with little or no programming experience."},
-            {"name": "Pathological  2003    2003    Puzzle  GPL GPL 2D  Inspired by Logical by Rainbow Arts."},
-            {"name": "Paku paku 2011    2011    Arcade game Public Domain   Public Domain   ?   Authentic Pac Man clone, uses a CGA 160x100x16 mode, released as Public domain.[27]"},
-            {"name": "Pingus    1998    2011    Puzzle  GPL GPL 2D  Lemmings clone."},
-            {"name": "Pioneer   2006    2014    Space sim   GPLv3   CC-BY-SA    3D  Inspired by Frontier: Elite 2"},
-            {"name": "PokerTH   2006    2014    Card    GPL GPL 2D  "},
-            {"name": "PySol 2001[28]    2009    Card games, Patience    GPLv3   Public domain and GPLv3 2D  "},
-            {"name": "Red Eclipse   2011    2014    FPS zlib    CC-BY-SA / CC-BY [29]   3D  Cube 2: Sauerbraten engine."},
-            {"name": "Rigs of Rods  2007    2012    Vehicle Sim GPLv3   GPLv3   3D  Rigs of Rods was initially created as an off-road truck simulator, but has developed into a versatile physics sandbox."},
-            {"name": "Rocks'n'Diamonds  1995        Puzzle  GPLv2   GPLv2   2D  A scrolling tile-based computer puzzle game that can be described as a combined Boulder Dash, Supaplex, Emerald Mine, and Sokoban clone."},
-            {"name": "Ryzom 2004    2010    MMORPG  AGPL    CC-BY-SA    3D  All textures and effects, 3D models, animations, characters and clothing (no music or sounds) are under CC-BY-SA."},
-            {"name": "Scorched 3D   2001    2012    Artillery game  GPL GPL 3D  Clone of Scorched Earth (video game)"},
-            {"name": "Secret Maryo Chronicles   2003    2009    Platformer  GPLv3   GPLv3   2D  2D platformer inspired by the Super Mario series."},
-            {"name": "Sintel The Game   2012    2012    RPG GPL CC-BY, GPL  3D  A game based on the Blender Foundation movie, Sintel."},
-            {"name": "Simutrans 1997    2013    Business Sim    Artistic    Artistic    2D  Similar to Transport Tycoon and its open-source clone, OpenTTD. The player must build a profitable transportation system."},
-            {"name": "Smash Battle  2008    2009    Platformer  GPLv3   CC  2D  Smash Battle is a Retro 8-bit style platform shooter, inspired by the battle mini-game from Super Mario Bros. 3.[30]"},
-            {"name": "StepMania 2005(?) 2013    Rhythm game MIT[31] MIT 2D and 3D   A DDR clone, the player must hit buttons or keys in time with the music."},
-            {"name": "Sokoban   1982    2006    Transport Puzzle    GPL GPL 2D  A puzzle game in which the player pushes boxes around in a room, trying to get them to specific locations. Clones: Sokoban YASC - JSoko"},
-            {"name": "Solarwolf         Arcade  LGPL    LGPL    2D  Clone of Solar Fox for the Atari 2600. A 2-D action game where the player must collect the blocks on every level while avoiding various obstacles."},
-            {"name": "Sopwith   1984        Shoot 'em up    GPL GPL ?   The C and x86 assembly source code to Sopwith was released in 2000,[32] at first under a non-commercial use license, but later under the GNU GPL at the request of fans.[33]"},
-            {"name": "Space Station 13  2003    2013    RPG GPLv3+  CC-BY-SA    2D  A multiplayer, 2D, sprite and tile based role playing game."},
-            {"name": "SpaceZero 2010    2013    RTS GPLv3+  GPLv3+  2D  A 2D Real Time Strategy space combat game."},
-            {"name": "Speed Dreams  2010    2012    Sim racing  GPLv2+  FAL ?   Forked from TORCS in late 2008."},
-            {"name": "Supernova 1987        Text adventure  GPL GPL ?   Game source released on March 20, 2009."},
-            {"name": "SuperTux  2003    2013    Platformer  GPL GPL 2D  2D platformer inspired by the Super Mario series."},
-            {"name": "SuperTuxKart  2006    2013    Racing  GPL GPL 3D  Arcade racing game similar to Mario Kart."},
-            {"name": "Teeworlds 2007    2013    Platformer  zlib    CC-BY-SA 3.0 (except font)  2D  2D side-scrolling shooter."},
-            {"name": "Tenés Empanadas Graciela  1996        TBS GPLv2   GPLv2   ?   Based on the boardgame Risk."},
-            {"name": "The Bub's Brothers    2003    2007    Platformer  MIT MIT ?   Bubble Bobble clone"},
-            {"name": "Thousand Parsec   2002    2009    TBS GPL, LGPL       ?   Framework/Engine for turn based space empire building games."},
-            {"name": "Tile World    2002    2006    Puzzle  GPL GPL ?   Clone of Chip's Challenge"},
-            {"name": "Torus Trooper 2004    2004    Scroller    BSD BSD     A fast paced shoot-em-up with wireframe graphics."},
-            {"name": "TORCS 1997    2013    Racing  GPL Free Art License / Proprietary  3D  Some car models are non-free, but there is a DFSG-compliant version which doesn't include them."},
-            {"name": "Tremulous 2006    2009    FPS GPL CC-BY-SA[34]    3D  Alien VS human base building, defending, and attacking opposite team."},
-            {"name": "TripleA   2002    2013    TBS GPL GPL 2D  A turn based strategy game inspired by Axis & Allies and board game engine. Development is ongoing."},
-            {"name": "Tux Racer 2000    2009    Racing  GPL GPL 3D  "},
-            {"name": "Tux, of Math Command  2001    2011    Educational game    GPL GPL     2D"},
-            {"name": "UFO: Alien Invasion   2006    2014    TBТ GPL GPL, CC BY-SA   3D  Inspired by the XCOM-series, but with 3D-combats on surface of the earth."},
-            {"name": "UltraStar Deluxe  2007    2010    Music   GPL GPL, CC 2D  SingStar clone."},
-            {"name": "Unknown Horizons  2008    2013    City-building game  GPL GPL, CC, OFL    Isometric 2D    Genre-mix of city-building game and real-time strategy game, inspired by the Anno series."},
-            {"name": "Unvanquished  2012    2014    FPS GPL CC-BY-SA    ?   Team-based first person shooter with strong RTS elements, derived from the Tremulous project. - Homepage"},
-            {"name": "Vega Strike   2008    2012    Space Sim   GPL GPL 3D  Elite clone and space simulator engine."},
-            {"name": "VoltAir   2014    2014    Platformer  Apache License  Apache License  2D  Single and local multiplayer mobile game built on Qt and LiquidFun."},
-            {"name": "WarMUX    2002    2010    Artillery game  GPL GPL 2D  Worms clone."},
-            {"name": "Warzone 2100  ?   ?   RTS GPLv2   CC-BY-SA    3D  ?"},
-            {"name": "Widelands 2002    2014    RTS GPL GPL ?   Widelands is a RTS clone of The Settlers II."},
-            {"name": "Word Whiz 1988        Educational game    GPL GPL ?   Game source released on March 20, 2009."},
-            {"name": "WorldForge    1998    2011    MMORPG  GPL GPL 3D  An open-source framework for massively multiplayer online role-playing games. Homepage"},
-            {"name": "Xbattle   1991    1996    RTS Custom copyleft.[35]        2D  "},
-            {"name": "Xconq 1987    2005    TBS GPL GPL ?   4X strategy game engine."},
-            {"name": "XEvil 1994    2003    Platformer  GPL     2D  Fast paced side-scrolling action game."},
-            {"name": "Xonotic   2010    2013    FPS GPL GPL 3D  A fork and direct successor of the game Nexuiz."},
-            {"name": "XPilot    1992        Arcade  GPL GPL 2D  A multiplayer Asteroids-like game."},
-            {"name": "X-Moto    2005    2012    Platformer  GPL GPL 2D  Elasto Mania Clone."},
-            {"name": "Yo Frankie!   2008        Action-adventure    GPL/LGPL    CC-BY 3.0   3D  "}
+            {"name": "0 A.D."},
+            {"name": "2048"},
+            {"name": "Advanced Strategic Command"},
+            {"name": "Andy's Super Great Park"},
+            {"name": "Adventure 1976"},
+            {"name": "Ancient Beast"},
+            {"name": "Angband"},
+            {"name": "Ardentryst"},
+            {"name": "Armagetron Advanced"},
+            {"name": "AstroMenace"},
+            {"name": "Battle for Wesnoth"},
+            {"name": "Battle City"},
+            {"name": "Beyond the Titanic"},
+            {"name": "Biniax"},
+            {"name": "Bitfighter"},
+            {"name": "Blades of Exile"},
+            {"name": "Blob Wars: Blob And Conquer"},
+            {"name": "Blob Wars: Metal Blob Solid"},
+            {"name": "BomberClone"},
+            {"name": "Bombermaaan"},
+            {"name": "Bos Wars"},
+            {"name": "British Bingo"},
+            {"name": "BZFlag"},
+            {"name": "Cataclysm: Dark Days Ahead"},
+            {"name": "Chaotic Rage"},
+            {"name": "Cheeseman the Game"},
+            {"name": "Chocolate Doom"},
+            {"name": "Crack Attack"},
+            {"name": "Crimson Fields"},
+            {"name": "Chromium B.S.U."},
+            {"name": "Crossfire"},
+            {"name": "Dead Meat"},
+            {"name": "Doolfy's Brain Surgery"},
+            {"name": "Dungeon Crawl Stone Soup"},
+            {"name": "Eat The Whistle"},
+            {"name": "Emilia Pinball"},
+            {"name": "Enigma"},
+            {"name": "Epic Inventor"},
+            {"name": "Fish Fillets NG"},
+            {"name": "FLARE"},
+            {"name": "FlightGear"},
+            {"name": "Freeciv"},
+            {"name": "FreeCol"},
+            {"name": "Freedoom"},
+            {"name": "Freedroid"},
+            {"name": "1. FreedroidRPG"},
+            {"name": "2. FreedroidClassic"},
+            {"name": "FreeOrion"},
+            {"name": "FreeVial"},
+            {"name": "Frets on Fire"},
+            {"name": "Frets on Fire X"},
+            {"name": "Frozen Bubble"},
+            {"name": "Gang Garrison 2"},
+            {"name": "Glest"},
+            {"name": "Globulation 2"},
+            {"name": "GLtron"},
+            {"name": "GNOME Games"},
+            {"name": "GNU Chess"},
+            {"name": "GNU FreeDink"},
+            {"name": "GNU Go"},
+            {"name": "Green Mahjong"},
+            {"name": "Gunroar"},
+            {"name": "Gusanos"},
+            {"name": "Haxima/Nazghul"},
+            {"name": "Hedgewars"},
+            {"name": "Iter Vehemens ad Necem"},
+            {"name": "KDEGames"},
+            {"name": "Kernel Panic"},
+            {"name": "Kiki the nano bot"},
+            {"name": "Kobo Deluxe"},
+            {"name": "Kroz"},
+            {"name": "The Legend of Edgar"},
+            {"name": "Lincity"},
+            {"name": "LinCity-NG"},
+            {"name": "Linley's Dungeon Crawl"},
+            {"name": "Liquid War"},
+            {"name": "M.A.X.R. (Mechanized Assault and eXploration Reloaded)"},
+            {"name": "The Mana World"},
+            {"name": "MegaGlest"},
+            {"name": "MegaMek"},
+            {"name": "Micropolis"},
+            {"name": "2008 (as Micropolis)"},
+            {"name": "Microwar"},
+            {"name": "Minetest"},
+            {"name": "Moria"},
+            {"name": "NetHack"},
+            {"name": "Netrek"},
+            {"name": "Neverball"},
+            {"name": "Nexuiz"},
+            {"name": "Oolite"},
+            {"name": "OpenArena"},
+            {"name": "OpenClonk"},
+            {"name": "OpenCity"},
+            {"name": "Omega"},
+            {"name": "OpenHexagon"},
+            {"name": "OpenTTD"},
+            {"name": "Paintown"},
+            {"name": "Pathological"},
+            {"name": "Paku paku"},
+            {"name": "Pingus"},
+            {"name": "Pioneer"},
+            {"name": "PokerTH"},
+            {"name": "PySol"},
+            {"name": "Red Eclipse"},
+            {"name": "Rigs of Rods"},
+            {"name": "Rocks'n'Diamonds"},
+            {"name": "Ryzom"},
+            {"name": "Scorched 3D"},
+            {"name": "Secret Maryo Chronicles"},          
+            {"name": "Sintel The Game"},
+            {"name": "Simutrans"},
+            {"name": "Smash Battle"},
+            {"name": "StepMania"},
+            {"name": "Sokoban"},
+            {"name": "Solarwolf"},
+            {"name": "Sopwith"},
+            {"name": "Space Station"},
+            {"name": "SpaceZero"},
+            {"name": "Speed Dream"},
+            {"name": "Supernova"},
+            {"name": "SuperTux"},
+            {"name": "SuperTuxKart"},
+            {"name": "Teeworlds"},
+            {"name": "Tenés Empanadas Graciela"},
+            {"name": "The Bub's Brothers"},
+            {"name": "Thousand Parsec"},
+            {"name": "Tile World"},
+            {"name": "Torus Trooper"},
+            {"name": "TORCS"},
+            {"name": "Tremulous"},
+            {"name": "TripleA"},
+            {"name": "Tux Racer"},
+            {"name": "Tux, of Math Command"},          
+            {"name": "UFO: Alien Invasion"},
+            {"name": "UltraStar Deluxe"},
+            {"name": "Unknown Horizons"},
+            {"name": "Unvanquished"},
+            {"name": "Vega Strike"},
+            {"name": "VoltAir"},
+            {"name": "WarMUX"},
+            {"name": "Warzone 2100"},
+            {"name": "Widelands"},
+            {"name": "Word Whiz"},
+            {"name": "WorldForge"},
+            {"name": "Xbattle"},
+            {"name": "Xconq"},
+            {"name": "XEvil"},
+            {"name": "Xonotic"},
+            {"name": "XPilot"},
+            {"name": "X-Moto"},
+            {"name": "Yo Frankie!"}
         ]
     },
     {"name": "Genealogy", "children":
@@ -1623,72 +1623,72 @@
             },
             {"name": "Electronic health or medical record", "children":
                 [
-                    {"name": "CottageMed is a cross-platform electronic medical record system based on FileMaker. CottageMed is released under the GPL"},
-                    {"name": "FreeMED is a practice management and electronic and computer records system. It allows the tracking of medical data, in detail, with preservation not just of the diagnosis but the reasons for medical encounters. FreeMED is released under the GPL"},
-                    {"name": "GaiaEHR is a modern open source electronic health record developed using PHP and Ext JS."},
-                    {"name": "GNUmed is a WxPython application that uses PostgreSQL."},
-                    {"name": "GNU Health is a free, centralized, highly scalable health and hospital information system"},
-                    {"name": "Hospital OS Open source hospital information system in Thai"},
-                    {"name": "HOSxP is a hospital information system, including Electronic health record (EHR), in use in over 70 hospitals across Thailand."},
-                    {"name": "Mirth (software) is an open source cross-platform HL7 interface engine that enables bi-directional sending of HL7 messages between systems and applications over multiple transports."},
-                    {"name": "openEHR is an open standard specification in health informatics that describes the management and storage, retrieval and exchange of health data in electronic health records (EHRs) following a two-level modelling paradigm."},
-                    {"name": "OpenEMR an open-source PHP-based [1] electronic medical record (EMR) system."},
-                    {"name": "OpenMRS is a community-developed, open-source, enterprise EMR framework. Extensible and scalable EMR based on Java."},
-                    {"name": "OSCAR McMaster an open-source electronic medical record (EMR) software. The billing component of the software is specialized for the needs of the Canadian health-care providers."},
-                    {"name": "THIRRA (EHR) is a web based EHR application designed primarily for narrowband. It was released under the Mozilla Public License and includes communicable diseases biosurveillance feature. THIRRA uses PHP5, CodeIgniter and PostgreSQL."},
-                    {"name": "VistA – Veterans Administrations integrated electronic health record system available for non-governmental use as OSEHRA VistA or OpenVista or WorldVistA."},
-                    {"name": "ZEPRS The ZEPRS application is an electronic patient record system that enables clinicians to enter data from patient visits using a web browser."},
-                    {"name": "SmartCare is a C# windows based EHR application, with working installations in Zambia, Ethiopia and South Africa. It is designed with the state of poor connectivity in developing countries in mind, making use of SmartCards to store patient level information. Its core development team is based in Zambia where the Government has adopted it as its national EHR."}
+                    {"name": "CottageMed"},
+                    {"name": "FreeMED"},
+                    {"name": "GaiaEHR"},
+                    {"name": "GNUmed"},
+                    {"name": "GNU Health"},
+                    {"name": "Hospital OS"},
+                    {"name": "HOSxP"},                    
+                    {"name": "Mirth (software)"},
+                    {"name": "openEHR"},
+                    {"name": "OpenEMR"},
+                    {"name": "OpenMRS"},
+                    {"name": "OSCAR McMaster"},
+                    {"name": "THIRRA (EHR)"},
+                    {"name": "VistA"},
+                    {"name": "ZEPRS"},
+                    {"name": "SmartCare"}
                 ]
             },
             {"name": "Medical practice management software", "children":
                 [
-                    {"name": "ClearHealth covers the five major areas of practice operations including scheduling, billing, EMR, HIPAA Security and accounts receivable."},
-                    {"name": "FreeMED is a practice management and electronic and computer records system. It allows the tracking of medical data, in detail, with preservation not just of the diagnosis but the reasons for medical encounters. FreeMED is released under the LGPL GNU license. FreeMED is an HIPAA compliant FOSS practice management system that handles billing."},
-                    {"name": "GNU Health is a free, centralized, highly scalable health and hospital information system"},
-                    {"name": "MedinTux MedinTux is a French medical practice management system, with a web interface as well as a desktop one, that has been initially to manage a hospital emergency department. Being very modular, it has been extended to run also many different smaller practices. It works on GNU/Linux, Mac OS X, Microsoft Windows"},
-                    {"name": "Open Dental Dental practice management"},
-                    {"name": "OpenEMR A free medical practice management, electronic medical records, prescription writing, and medical billing application."}
+                    {"name": "ClearHealth"},
+                    {"name": "FreeMED"},
+                    {"name": "GNU Health"},
+                    {"name": "MedinTux"},
+                    {"name": "Open Dental"},
+                    {"name": "OpenEMR"}
                 ]
             },
             {"name": "Health system management", "children":
                     [
-                        {"name": "DHIS Open-source district health management information system and data warehouse (license: BSD license)"},
-                        {"name": "HRHIS Open-source human resource for health information system for management of human resources for health developed by University of Dar es Salaam, Department of Computer Science, for Ministry of Health and Social Welfare (Tanzania) and funded by the Japan International Cooperation Agency (JICA) (license: GPLv3)"}
+                        {"name": "DHIS"},
+                        {"name": "HRHIS"}
                     ]
             },
             {"name": "Imaging/visualization", "children":
                 [ 
-                    {"name": "Drishti is a volumetric visualisation package for viewing computer tomography data. Able to import DICOM image stacks."},
-                    {"name": "Endrov Image and data viewer and editor"},
-                    {"name": "ITK segmentation and registration toolkit"},
-                    {"name": "InVesalius 3D medical imaging reconstruction software"},
-                    {"name": "ITK-SNAP Interactive software for 3D image navigation, annotation and automatic segmentation"},
-                    {"name": "Ginkgo CADx Cross-platform open source DICOM viewer and dicomizer."},
-                    {"name": "MITK - Medical Imaging Interaction Toolkit for interactive medical image processing."},
-                    {"name": "Orthanc – Lightweight, RESTful DICOM store"},
-                    {"name": "OsiriX – 3D DICOM medical viewer for Mac OS X. Complete DICOM Viewer with DICOM network support"},
-                    {"name": "ParaView large-scale visualization tool"},
-                    {"name": "3DSlicer Platform for medical image visualization and algorithm development. DICOM support, segmentation and registration, Diffusion MRI processing, and image guided surgery support."},
-                    {"name": "Voreen volume rendering engine—a library for visually exploring volume data sets. DICOM is supported and Voreen is used in medical visualization as well as for visualizing electron microscopy data."},
+                    {"name": "Drishti"},
+                    {"name": "Endrov"},
+                    {"name": "ITK"},
+                    {"name": "InVesalius"},
+                    {"name": "ITK-SNAP"},
+                    {"name": "Ginkgo CADx"},
+                    {"name": "MITK"},
+                    {"name": "Orthanc"},
+                    {"name": "OsiriX"},
+                    {"name": "ParaView"},
+                    {"name": "3DSlicer"},
+                    {"name": "Voreen volume rendering engine"},
                     {"name": "VTK visualization toolkit"},
                     {"name": "Xebra (medical imaging software)"},
-                    {"name": "GIMIAS workflow-oriented environment focused on biomedical image computing and simulation"}
+                    {"name": "GIMIAS"}
                 ]
             },
             {"name": "Medical information systems", "children":
                 [
-                    {"name": "Caisis is a web based information system for the storage and analysis of cancer patient data intended to bridge the gap between clinic and research (license: GPL)"}
+                    {"name": "Caisis"}
                 ]
             },
             {"name": "Research", "children":
                 [
-                    {"name": "LabKey Server is an extensible platform for integrating, analyzing and sharing all types of biomedical research data. It provides secure, web-based access to research data and includes a customizable data processing pipeline."}
+                    {"name": "LabKey Server"}
                 ]
             },
             {"name": "Mobile devices", "children":
                 [
-                    {"name": "Ushahidi Allows people to submit crisis information through text messaging using a mobile phone, email or web form. Displays information in map view."}
+                    {"name": "Ushahidi"}
                 ]
             },
             {"name": "Out-of-the-box distributions", "children":
@@ -1729,190 +1729,189 @@
                 [
                     {"name": "Audio analysis", "children":
                         [
-                            {"name": "Baudline  SigBlips contract engineering design and development firm   Yes Yes Yes     baudline signal analyzer - a scientific visualization tool  proprietary and GPL source code licenses are available"},
-                            {"name": "BRP-PACU      Yes Yes         Dual channel FFT tool for equalization of sound systems using the transfer function.    GPL"},
-                            {"name": "lxsndtest Oskar Leuthold  Yes Yes         frequency response using pink-noise, magnitude/phase response, distortion analysis, ..  GNU GPL v3"},
-                            {"name": "Praat Paul Boersma and David Weenink of the University of Amsterdam   Yes Yes     Yes A program for the analysis of speech in phonetics.  GPL"},
-                            {"name": "Sonic Visualiser  Centre for Digital Music at Queen Mary, University of London    Yes Yes     Yes     GPL"},
-                            {"name": "Spek  Alexander Kojevnikov    Yes Yes Yes Yes analyse audio files by showing their spectrogram    GNU GPL v3"},
-                            {"name": "WaveSurfer        Yes Yes     Yes     Permissive free software"}
+                            {"name": "Baudline"},
+                            {"name": "BRP-PACU"},
+                            {"name": "lxsndtest"},
+                            {"name": "Praat"},
+                            {"name": "Sonic Visualiser"},
+                            {"name": "Spek"},
+                            {"name": "WaveSurfer"}
                         ]
                     },
                     {"name": "Converters", "children":
                         [
-                            {"name": "Max   Stephen Booth (site)    No  Yes No  No  Not to be confused with Max/MSP GPL"},
-                            {"name": "FFmpeg    Libav team  Yes Yes Yes Yes Audio & video.  GPL or LGPL"},
-                            {"name": "Libav Fabrice Bellard Yes Yes Yes Yes Audio & video.  GPL or LGPL"},
+                            {"name": "Max"},
+                            {"name": "FFmpeg"},
+                            {"name": "Libav"},
                             {"name": "MPlayer"},
-                            {"name": "fre:ac (formerly BonkEnc) Robert Kausch   Yes No  No  Yes     GPL"}
+                            {"name": "fre:ac"}
                         ]
                     },
                     {"name": "DJ Software", "children":
                         [
-                            {"name": "Mixxx Mixxx Development Team (site)   Yes Yes Yes Yes     GPL"},
-                            {"name": "VirtualDJ Atomix Production Inc. (site)   No  Yes No  Yes     GPL"},
-                            {"name": "Traktor   Native Instruments (site)   No  Yes No  Yes     GPL"},
-                            {"name": "Xwax  Mark Hills  Yes No  No  No      GPL"}
+                            {"name": "Mixxx"},
+                            {"name": "VirtualDJ"},
+                            {"name": "Traktor"},
+                            {"name": "Xwax"}
                         ]
                     },
                     {"name": "Modular systems", "children":
                         [
-                            {"name": "jMax      Yes         Yes no longer supported LGPL"},
-                            {"name": "SynFactory        No  No  No  Yes     GPL"},
-                            {"name": "VisualAp      Yes Yes     Yes     GPL"},
-                            {"name": "aRts      Yes Yes Yes Yes     GPL"},
-                            {"name": "Libvisual     Yes Yes Yes Yes     LGPL"}
+                            {"name": "jMax"},
+                            {"name": "SynFactory"},
+                            {"name": "VisualAp"},
+                            {"name": "aRts"},
+                            {"name": "Libvisual"}
                         ]
                     },
                     {"name": "Platforms", "children":
                         [
-                            {"name": "Ubuntu Studio     Linux distribution      various"},
-                            {"name": "AVLinux       Linux distribution      various"},
-                            {"name": "dyne:bolic        Linux distribution      various"},
-                            {"name": "AGNULA        Linux distribution      "},
-                            {"name": "Musix     Linux distribution      various"},
-                            {"name": "64 Studio     Linux distribution      "},
-                            {"name": "Planet CCRMA      set of packages (in RPM format)     "}
+                            {"name": "Ubuntu Studio"},
+                            {"name": "AVLinux"},
+                            {"name": "dyne:bolic"},
+                            {"name": "AGNULA"},
+                            {"name": "Musix"},
+                            {"name": "64 Studio"},
+                            {"name": "Planet CCRMA"}
                         ]
                     },
                     {"name": "Players", "children":
                         [
                             {"name": "Audio players without Database", "children":
                                 [
-                                    {"name": "AlsaPlayer    GTK+    C   "},
-                                    {"name": "Aqualung  Aqualung    GTK+    C   aqualung.factorial.hu/home.html"},
-                                    {"name": "Audacious Audacious   GTK+    C   audacious-media-player.org/"},
-                                    {"name": "Beep Media Player GTK+    C   "},
-                                    {"name": "Bluemindo GTK+    Python  bluemindo.codingteam.net/ www.ohloh.net/p/bluemindo"},
-                                    {"name": "Decibel Audio Player  GTK+    C++ A Fork of Bluemindo; decibel.silent-blade.org/ www.ohloh.net/p/decibel-audio-player"},
-                                    {"name": "Muine Mono    C#  can use GStreamer and xine"},
-                                    {"name": "Pogo  GTK+    Python  a Fork of Decibel; launchpad.net/pogo www.ohloh.net/p/pogo"},
-                                    {"name": "DeaDBeeF  GTK+    C   deadbeef.sourceforge.net/ www.ohloh.net/p/deadbeef"},
-                                    {"name": "qmmp  qmmp    Qt  C++ www.ohloh.net/p/qmmp"},
-                                    {"name": "XiXMusicPlayer    GTK2    Pascal  www.xixmusicplayer.org"},
-                                    {"name": "XMMS      "}
+                                    {"name": "AlsaPlayer"},
+                                    {"name": "Aqualung"},
+                                    {"name": "Audacious"},
+                                    {"name": "Beep Media Player"},
+                                    {"name": "Bluemindo"},
+                                    {"name": "Decibel Audio Player"},
+                                    {"name": "Muine"},
+                                    {"name": "Pogo"},
+                                    {"name": "DeaDBeeFdbeef"},
+                                    {"name": "qmmp"},
+                                    {"name": "XiXMusicPlayer"},
+                                    {"name": "XMMS"}
                                 ]
                             },
                             {"name": "Audio players with Database", "children":
                                 [
-                                    {"name": "Amarok    Amarok  Qt  C++ MySQL       "},
-                                    {"name": "aTunes    aTunes  Java    "},
-                                    {"name": "Banshee   Banshee GTK+    C#  SQLite  "},
-                                    {"name": "Clementine    Clementine  Qt  C++ SQLite3 "},
-                                    {"name": "Exaile    Exaile  GTK+    Python  Berkeley DB "},
-                                    {"name": "Gmusicbrowser GTK+    Perl        gmusicbrowser.org/ www.ohloh.net/p/gmusicbrowser"},
-                                    {"name": "Guayadeque    Guayadeque  wxWidgets   C++, C  wxSQLite3   guayadeque.org/ www.ohloh.net/p/guayadeque"},
-                                    {"name": "JuK   Qt  C++     "},
-                                    {"name": "Jajuk Java        www.jajuk.info/index.php/Main_Page www.ohloh.net/p/5944"},
-                                    {"name": "Listen    GTK+    Python      packages.debian.org/squeeze/listen"},
-                                    {"name": "Musique   Qt  C++     flavio.tordini.org/musique www.ohloh.net/p/musique"},
-                                    {"name": "Nightingale   Nightingale XULRunner   C++ SQLite? fork of Songbird, with Linux support"},
-                                    {"name": "Evince    Pragha  GTK+    C   SQLite  pragha.wikispaces.com/ www.ohloh.net/p/pragha"},
-                                    {"name": "Quod Libet    Quod Libet  GTK+    Python   ???    code.google.com/p/quodlibet/ www.openhub.net/p/quodlibet"},
-                                    {"name": "Rhythmbox Rhythmbox   GTK+    C   rhythmdb    not GNU Data Access"},
-                                    {"name": "Tomahawk  Tomahawk    Qt  C++ SQLite  www.tomahawk-player.org/ github.com/tomahawk-player/tomahawk www.ohloh.net/p/tomahawk"},
-                                    {"name": "Songbird  Songbird    XULRunner   C++ SQLite? support for Linux was dropped"},
-                                    {"name": "Mixxx"},
-                                    {"name": "flavio.tordini.org/minitube www.ohloh.net/p/minitunes"},
-                                    {"name": "www.ohloh.net/p/minitube"}
+                                    {"name": "Amarok"},
+                                    {"name": "aTunes"},
+                                    {"name": "Banshee"},
+                                    {"name": "Clementine"},
+                                    {"name": "Exaile"},
+                                    {"name": "Gmusicbrowser"},
+                                    {"name": "Guayadeque"},
+                                    {"name": "JuK"},
+                                    {"name": "Jajuk"},
+                                    {"name": "Listen"},
+                                    {"name": "Musique"},
+                                    {"name": "Nightingale"},
+                                    {"name": "Evince"},
+                                    {"name": "Quod Libet"},
+                                    {"name": "Rhythmbox"},
+                                    {"name": "Tomahawk"},
+                                    {"name": "Songbird"},
+                                    {"name": "Mixxx"}
                                 ]
                             }
                         ]
                     },
                     {"name": "Programming languages", "children":
                         [
-                            {"name": "Csound    Csound community, Barry Vercoe  Yes Yes No? Yes     LGPL"},
-                            {"name": "SuperCollider SuperCollider community, James McCartney    Yes Yes Yes?    Yes     GPL"},
-                            {"name": "ChucK Ge Wang, Perry Cook Yes Yes No? Yes     GPL"},
-                            {"name": "Nyquist   Computer Music Project at Carnegie Mellon University, Roger B. Dannenberg   Yes Yes Yes Yes "}, 
-                            {"name": "Pure Data Pd Community, Miller Puckette   Yes Yes Yes Yes     BSD-like"}
+                            {"name": "Csound"},
+                            {"name": "SuperCollider"},
+                            {"name": "Nyquist"}, 
+                            {"name": "Pure Data"}
                         ]
                     },
                     {"name": "Radio broadcasting", "children":
                         [
 
-                            {"name": "Airtime   Sourcefabric    Yes No      No  Successor to Campcaster"},
-                            {"name": "Airtime website"},
-                            {"name": "ARAS  Erasmo Alonso   Yes No      No  ARAS website"},
-                            {"name": "Campcaster    Sourcefabric    Yes No      No  "},
-                            {"name": "OpenBroadcaster   OpenBroadcaster Yes No      No  OpenBroadcaster website"},
-                            {"name": "RadioDJ   Marius Vaida    No  No      Yes RadioDJ website"},
-                            {"name": "Rivendell Paravel Systems Yes No      Partial Rivendell website"}
+                            {"name": "Airtime"},
+                            {"name": "ARAS"},
+                            {"name": "Campcaster"},
+                            {"name": "OpenBroadcaster"},
+                            {"name": "RadioDJ"},
+                            {"name": "Rivendell"}
                         ]
                     },
                     {"name": "Recording and editing", "children":
                         [
-                            {"name": "Ardour    Paul Davis  Yes Yes Yes No  multi-track audio recorder"},
-                            {"name": "Audacity  Dominic Mazzoni Yes Yes Yes Yes multi-track audio recorder"},
-                            {"name": "Calf Studio Gear  Krzysztof Foltman et al. (site) Yes Yes Yes Yes?    mixer"},
-                            {"name": "cutmp3    Jochen Puchalla Yes Yes Yes Yes limited support through Cygwin  lossless MP3 splitter"},
-                            {"name": "Ecasound      Yes Yes Yes Yes limited support through Cygwin  audio recorder"},
-                            {"name": "Eisenkraut    Hanns Holger Rutz (site)    Yes Yes Yes Yes connects to SuperCollider"},
-                            {"name": "harmonySEQ    Rafal Cieslak (site)    Yes No      No  MIDI sequencer"},
-                            {"name": "Jokosher  Jokosher community  Yes No      Yes multi-track audio editor"},
-                            {"name": "LMMS  Tobias Doerffel Yes Yes as of 0.4.0 with Qt4        Yes Free cross-platform alternative to commercial programs like FL Studio®, which allow you to produce music with your computer."},
-                            {"name": "Intended as a replacement for Cubase-like software (DAW)"},
-                            {"name": "MusE      Yes No      No  MIDI sequencer"},
-                            {"name": "Qtractor      Yes No      No  A non-destructive multi-track audio and MIDI Workstation (DAW)"},
-                            {"name": "ReZound   Davy Durham Yes No  No  No  Graphical audio file editor"},
-                            {"name": "Rosegarden        Yes No      No  MIDI sequencer and multi-track recorder"},
-                            {"name": "SoX       Yes Yes Yes Yes command-line multi-track audio editor/processor"},
-                            {"name": "Sweep Conrad Parker   Yes No  Yes No  "},
-                            {"name": "Traverso DAW  Remon Sijrier (site)    Yes Yes     Yes multi-track audio recorder and editor"},
-                            {"name": "WaveSurfer    Centre for Speech Technology at KTH Yes Yes Yes Yes "},
-                            {"name": "WavoSaur  (site)  No  No  No  Yes Lightweight multi-channel audio recorder/editor with VST effects support."}
+                            {"name": "Ardour"},
+                            {"name": "Audacity"},
+                            {"name": "Calf Studio Gear"},
+                            {"name": "cutmp3"},
+                            {"name": "Ecasound"},
+                            {"name": "Eisenkraut"},
+                            {"name": "harmonySEQ"},
+                            {"name": "Jokosher"},
+                            {"name": "LMMS"}
+                        ]
+                    },
+                    {"name": "Digital audio workstation", "children":
+                        [
+                            {"name": "MusE"},
+                            {"name": "Qtractor"},
+                            {"name": "ReZound"},
+                            {"name": "Rosegarden"},
+                            {"name": "SoX"},
+                            {"name": "Sweep"},
+                            {"name": "Traverso DAW"},
+                            {"name": "WaveSurfer"},
+                            {"name": "WavoSaur"}
                         ]
                     },
                     {"name": "Softsynths", "children":
                         [
-                            {"name": "FluidSynth        Yes Yes Yes Yes SoundFont player / renderer LGPL"},
-                            {"name": "TiMidity++        Yes Yes Yes Yes     GPL"},
-                            {"name": "ZynAddSubFX       Yes Yes     Yes Mac OS X version is limited GPL"},
-                            {"name": "[1] Lm3jo Abadie joris    Yes             acoustic modeling   "}
+                            {"name": "FluidSynth"},
+                            {"name": "TiMidity++"},
+                            {"name": "ZynAddSubFX"},
+                            {"name": "Lm3jo"}
                         ]
                     },
                     {"name": "Streaming", "children":
                         [
-                            {"name": "Icecast       Yes     Yes Yes a broadcast server, serves audio signals to clients over the HTTP protocol"},
-                            {"name": "PeerCast      Yes Yes     Yes a peercasting tool"},
-                            {"name": "Firefly Media Server      Yes Yes     Yes streams music to DAAP clients like iTunes and Rhythmbox"},
-                            {"name": "VideoLAN      Yes Yes Yes Yes media and server programs for video and audio streaming"}
+                            {"name": "Icecast"},
+                            {"name": "PeerCast"},
+                            {"name": "Firefly Media Server"},
+                            {"name": "VideoLAN"}
                         ]
                     },
                     {"name": "Technologies", "children":
                         [
-                            {"name": "Advanced Linux Sound Architecture (ALSA)      Yes             a sound card management system in the Linux kernel"},
-                            {"name": "DSSI      Yes             a plugin architecture for software synthesizers"},
-                            {"name": "GStreamer     Yes No  Yes Yes a graph-based multimedia framework"},
-                            {"name": "JACK Audio Connection Kit (JACK)  JACK Team, Paul Davis   Yes Yes (JACK OS X)     Yes (jackdmp)   a sound server"},
-                            {"name": "Linux Audio Developers Simple Plugin API (LADSPA)     Yes             a plugin architecture for digital signal processing"},
-                            {"name": "Open Sound System     Yes     Yes     a standard interface for making and capturing sound in Unix operating systems"},
-                            {"name": "PulseAudio        Yes Yes Yes(Solaris, FreeBSD, NetBSD)   Yes a sound server"}
+                            {"name": "Advanced Linux Sound Architecture (ALSA)"},
+                            {"name": "DSSI"},
+                            {"name": "GStreamer"},
+                            {"name": "JACK Audio Connection Kit (JACK)"},
+                            {"name": "Linux Audio Developers Simple Plugin API (LADSPA)"},
+                            {"name": "Open Sound System"},
+                            {"name": "PulseAudio"}
                         ]
                     },
                     {"name": "Trackers", "children":
                         [
 
-                            {"name": "CheeseTracker Juan Linietsky (site)   Yes Yes     No  Impulse Tracker clone"},
-                            {"name": "MilkyTracker  (site)  Yes Yes Yes Yes Also runs on various other platforms including but not limited to Windows Mobile, PlayStation and AmigaOS 4."},
-                            {"name": "OpenMPT   Olivier Lapicque    No  No  No  Yes released as free software in 2004"},
-                            {"name": "Psycle        No  No  No  Yes a tracker combined with modular capabilities"},
-                            {"name": "SoundTracker      Yes No  Yes No  Fast Tracker clone"}
+                            {"name": "CheeseTracker"},
+                            {"name": "MilkyTracker"},
+                            {"name": "OpenMPT"},
+                            {"name": "Psycle"},
+                            {"name": "SoundTracker"}
                         ]
                     },
                     {"name": "Other", "children":
                         [
-                            {"name": "Aria Maestosa Auria   Yes Yes Yes Yes a multi-track MIDI sequencer"},
-                            {"name": "Cythar Sequencer (website)    Monoplugs   Yes Yes Yes Yes A multi-track, polyphonic MIDI step sequencer"},
-                            {"name": "Giada (website)   Monocasual  Yes Yes Yes Yes Loop machine, drum machine, sequencer, live sampler, plugin/effect host for live performances."},
-                            {"name": "Gnaural       Yes Yes Yes Yes Binaural beat and pink noise generator"},
-                            {"name": "GNU LilyPond  Han-Wen Nienhuys and Jan Nieuwenhuizen  Yes Yes Yes Yes a music engraving program"},
-                            {"name": "Hydrogen      Yes Yes Partial Partial an advanced drum machine"},
-                            {"name": "Impro-Visor   Bob Keller  Yes Yes Yes Yes lead sheet notation, jazz improvisation, auto-accompaniment"},
-                            {"name": "orDrumbox     Yes Yes Yes Yes a Java based drum machine"},
-                            {"name": "Kangas Sound Editor (website) Kangasound  Yes Yes Unknown Yes Synthesizer, mixing, sound effects, music composition and production"},
-                            {"name": "libsndfile        Yes Yes Yes Yes library for reading and writing many sound formats"},
-                            {"name": "Levelator The Conversations Network   Yes Yes No  Yes Tool that uses a compressor, normalizer and limiter to normalize volume levels in audio recordings of public talks."}
+                            {"name": "Aria"},
+                            {"name": "Cythar Sequencer"},
+                            {"name": "Giada"},
+                            {"name": "Gnaural"},
+                            {"name": "GNU LilyPond"},
+                            {"name": "Hydrogen"},
+                            {"name": "Impro-Visor"},
+                            {"name": "orDrumbox"},
+                            {"name": "Kangas Sound Editor"},
+                            {"name": "libsndfile"},
+                            {"name": "Levelator"}
                         ]
                     }
                 ]
@@ -1937,8 +1936,8 @@
             },
             {"name": "Flash animation", "children":
                 [
-                    {"name": "Pencil Animation (for animations)"},
-                    {"name": "SWFTools (for scripting)"}
+                    {"name": "Pencil Animation"},
+                    {"name": "SWFTools"}
                 ]
             },
             {"name": "Graphics", "children":
@@ -2074,7 +2073,7 @@
                     {"name": "Pitivi"},
                     {"name": "VirtualDub"},
                     {"name": "VirtualDubMod"},
-                    {"name": "VideoLAN Movie Creator — VLMC is a non-linear editing software for video creation based on libVLC and running on Windows, Linux and Mac OS X."}
+                    {"name": "VideoLAN Movie Creator"}
                 ]
             },
             {"name": "Video encoders", "children":
@@ -2091,7 +2090,7 @@
             },
             {"name": "Other media packages", "children":
                 [  
-                    {"name": "Celtx — Media Pre-production Software"},
+                    {"name": "Celtx"},
                     {"name": "Gnome Subtitles"}
                 ]
             }
@@ -2285,15 +2284,15 @@
     },
     {"name": "Personal information managers", "children":
         [
-            {"name": "Chandler — developed by the OSAF."},
+            {"name": "Chandler"},
             {"name": "KAddressBook"},
             {"name": "Kontact"},
             {"name": "KOrganizer"},
-            {"name": "Mozilla Calendar — A Mozilla-based, multiplatform calendar program."},
+            {"name": "Mozilla Calendar"},
             {"name": "Novell Evolution"},
             {"name": "OpenSync (software)"},
-            {"name": "Project.net — Commercial Project Management"},
-            {"name": "TeamLab — Platform for project management and collaboration"}
+            {"name": "Project.net"},
+            {"name": "TeamLab"}
         ]
     },
     {"name": "Programming language support", "children":
@@ -2310,18 +2309,18 @@
             {"name": "Code generators", "children":
                 [
                     {"name": "Bison"},
-                    {"name": "CodeSynthesis XSD — XML Data Binding compiler for C++"},
-                    {"name": "CodeSynthesis XSD/e — Validating XML parser/serializer and C++ XML Data Binding generator for mobile and embedded systems"},
+                    {"name": "CodeSynthesis XSD"},
+                    {"name": "CodeSynthesis XSD/e"},
                     {"name": "Flex lexical analyser"},
                     {"name": "Kodos"},
-                    {"name": "Open Scene Graph — 3D graphics application programming interface"},
-                    {"name": "OpenSCDP — Open Smart Card Development Platform"},
+                    {"name": "Open Scene Graph"},
+                    {"name": "OpenSCDP"},
                     {"name": "phpCodeGenie"},
-                    {"name": "SableCC — parser generator for Java and .Net"},
-                    {"name": "SWIG — Simplified Wrapper and Interface Generator for several languages"},
+                    {"name": "SableCC"},
+                    {"name": "SWIG"},
                     {"name": "^txt2regex$"},
-                    {"name": "xmlbeansxx — XML Data Binding code generator for C++"},
-                    {"name": "YAKINDU Statechart Tools statechart code generator for C++ and Java"}
+                    {"name": "xmlbeansxx"},
+                    {"name": "YAKINDU"}
                 ]
             },
             {"name": "Configuration software", "children":
@@ -2331,14 +2330,14 @@
                     {"name": "CMake"}
                 ]
             },
-            {"name": "Debuggers (for testing and trouble-shooting)", "children":
+            {"name": "Debugger", "children":
                 [
-                    {"name": "GNU Debugger — works for many programming languages [...]"},
-                    {"name": "Memtest86 — Stress-tests RAM on x86 machines"},
-                    {"name": "Xnee — Record and replay tests"}
+                    {"name": "GNU Debugger"},
+                    {"name": "Memtest86"},
+                    {"name": "Xnee"}
                 ]
             },
-            {"name": "Integrated development environments", "children":
+            {"name": "Integrated development environment", "children":
                 [
                     {"name": "Android Studio"},
                     {"name": "Anjuta"},
@@ -2418,7 +2417,7 @@
                     {"name": "ZGameEditor"}
                 ]
             },
-            {"name": "Version control systems", "children":
+            {"name": "Version control system", "children":
                 [
                     {"name": "Aegis (management software)"},
                     {"name": "GNU arch"},
@@ -2451,7 +2450,7 @@
             }
         ]
     },
-    {"name": "Screensavers", "children":
+    {"name": "Screensaver", "children":
         [
             {"name": "Boinc"},
             {"name": "Electric Sheep"},
@@ -2609,10 +2608,10 @@
             },
             {"name": "Secure Shell (ssh)", "children":
               [
-                {"name": "Cyberduck — Mac OS X and Windows client (since version 4.0)"},
-                {"name": "Lsh — server and client (supporting SRP and Kerberos authentication)"},
-                {"name": "OpenSSH — client/server"},
-                {"name": "PuTTY — client only"}
+                {"name": "Cyberduck"},
+                {"name": "Lsh"},
+                {"name": "OpenSSH"},
+                {"name": "PuTTY"}
               ]
             },
             {"name": "Other security programs", "children":
@@ -2727,16 +2726,16 @@
       [
         {"name": "Bible study tools", "children":
           [
-            {"name": "BibleDesktop — For Cross-platform"},
-            {"name": "BibleTime — For Linux using KDE"},
-            {"name": "Go Bible — For Java Mobile Phones"},
-            {"name": "jSword — For Java"},
-            {"name": "MacSword — For Mac OS X"},
-            {"name": "Marcion — For Linux and Windows, using Qt UI Framework and embedded MySql server"},
-            {"name": "openlp.org — Worship presentation software for churches to display songs, bibles, movies etc."},
-            {"name": "SwordBible — For Windows"},
-            {"name": "The SWORD Project for Windows — For Windows"},
-            {"name": "Xiphos The_SWORD_Project — For Linux using GNOME"}
+            {"name": "BibleDesktop"},
+            {"name": "BibleTime"},
+            {"name": "Go Bible"},
+            {"name": "jSword"},
+            {"name": "MacSword"},
+            {"name": "Marcionr"},
+            {"name": "openlp.org"},
+            {"name": "SwordBible"},
+            {"name": "The SWORD Project for Windows"},
+            {"name": "Xiphos"}
           ]
         }
       ]
