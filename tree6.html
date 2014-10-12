@@ -32,8 +32,8 @@ svg{
 	background-color:white;
 	z-index:2;
 	position:fixed;
-	left:50%;
-	width:50%;
+	left:60%;
+	width:40%;
 	top:0px;
 }
 
@@ -42,7 +42,7 @@ svg{
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0)/2,
+var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0)*0.6,
     height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)*2;
     
 var i = 0,
@@ -84,7 +84,7 @@ function update(source) {
       links = tree.links(nodes);
 
   // Normalize for fixed-depth.
-  nodes.forEach(function(d) { d.y = d.depth * 120; });
+  nodes.forEach(function(d) { d.y = d.depth * 200; });
 
   // Update the nodes…
   var node = svg.selectAll("g.node")
