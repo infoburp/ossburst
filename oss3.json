@@ -1380,9 +1380,9 @@
         }
         ]
     },
-    {"name": "Groupware", "children":
+    {"name": "Collaborative software", "children":
         [
-            {"name": "Content management systems", "children":
+            {"name": "Content management system", "children":
                 [
                     {"name": "Agorum core"},
                     {"name": "Aiki Framework"},
@@ -1607,17 +1607,17 @@
             {"name": "Zimbra"}
         ]
     },
-    {"name": "Healthcare software", "children":
+    {"name": "Medical software", "children":
         [
             {"name": "Public health and biosurveillance", "children":
                 [
-                    {"name": "Epi Info is public domain statistical software for epidemiology developed by Centers for Disease Control and Prevention."},
-                    {"name": "Spatiotemporal Epidemiological Modeler is a tool, originally developed at IBM Research, for modeling and visualizing the spread of infectious diseases."}
+                    {"name": "Epi Info"},
+                    {"name": "Spatiotemporal Epidemiological Modeler."}
                 ]
             },
             {"name": "Dental management and patient record", "children":
                 [
-                    {"name": "Open Dental is the first open-source dental management package with very broad capabilities on record management, patient scheduling and dental office management."}
+                    {"name": "Open Dental"}
                 ]
               
             },
@@ -1676,7 +1676,7 @@
                     {"name": "GIMIAS"}
                 ]
             },
-            {"name": "Medical information systems", "children":
+            {"name": "Medical information system", "children":
                 [
                     {"name": "Caisis"}
                 ]
@@ -1686,12 +1686,12 @@
                     {"name": "LabKey Server"}
                 ]
             },
-            {"name": "Mobile devices", "children":
+            {"name": "Mobile device", "children":
                 [
                     {"name": "Ushahidi"}
                 ]
             },
-            {"name": "Out-of-the-box distributions", "children":
+            {"name": "Out-of-the-box distribution", "children":
                 [
                     {"name": "BioLinux"},
                     {"name": "Debian-Med"},
@@ -1738,7 +1738,7 @@
                             {"name": "WaveSurfer"}
                         ]
                     },
-                    {"name": "Converters", "children":
+                    {"name": "Converter", "children":
                         [
                             {"name": "Max"},
                             {"name": "FFmpeg"},
@@ -1755,7 +1755,7 @@
                             {"name": "Xwax"}
                         ]
                     },
-                    {"name": "Modular systems", "children":
+                    {"name": "Modular system", "children":
                         [
                             {"name": "jMax"},
                             {"name": "SynFactory"},
@@ -1764,7 +1764,7 @@
                             {"name": "Libvisual"}
                         ]
                     },
-                    {"name": "Platforms", "children":
+                    {"name": "Platform", "children":
                         [
                             {"name": "Ubuntu Studio"},
                             {"name": "AVLinux"},
@@ -1775,7 +1775,7 @@
                             {"name": "Planet CCRMA"}
                         ]
                     },
-                    {"name": "Players", "children":
+                    {"name": "Player", "children":
                         [
                             {"name": "Audio players without Database", "children":
                                 [
@@ -1817,7 +1817,7 @@
                             }
                         ]
                     },
-                    {"name": "Programming languages", "children":
+                    {"name": "Programming language", "children":
                         [
                             {"name": "Csound"},
                             {"name": "SuperCollider"},
@@ -1862,7 +1862,7 @@
                             {"name": "WavoSaur"}
                         ]
                     },
-                    {"name": "Softsynths", "children":
+                    {"name": "Softsynth", "children":
                         [
                             {"name": "FluidSynth"},
                             {"name": "TiMidity++"},
@@ -1878,7 +1878,7 @@
                             {"name": "VideoLAN"}
                         ]
                     },
-                    {"name": "Technologies", "children":
+                    {"name": "Technology", "children":
                         [
                             {"name": "Advanced Linux Sound Architecture (ALSA)"},
                             {"name": "DSSI"},
@@ -1889,7 +1889,7 @@
                             {"name": "PulseAudio"}
                         ]
                     },
-                    {"name": "Trackers", "children":
+                    {"name": "Tracker", "children":
                         [
 
                             {"name": "CheeseTracker"},
@@ -1994,7 +1994,7 @@
                     {"name": "Xara Xtreme LX"}
                 ]
             },
-            {"name": "Image galleries", "children":
+            {"name": "Image gallery", "children":
                 [
             
                     {"name": "Album Shaper"},
@@ -2010,7 +2010,7 @@
                     {"name": "TinyWebGallery"}
                 ]
             },
-            {"name": "Image viewers", "children":
+            {"name": "Image viewer", "children":
                 [
                     {"name": "Eye of GNOME"},
                     {"name": "F-spot"},
@@ -2043,7 +2043,7 @@
                     {"name": "ZoneMinder"}
                 ]
             },
-            {"name": "Video converters", "children":
+            {"name": "Video converter", "children":
                 [
                     {"name": "Dr. DivX"},
                     {"name": "FFmpeg"},
@@ -2076,13 +2076,13 @@
                     {"name": "VideoLAN Movie Creator"}
                 ]
             },
-            {"name": "Video encoders", "children":
+            {"name": "Video encoder", "children":
                 [  
                     {"name": "Avidemux"},
                     {"name": "HandBrake"}
                 ]
             },
-            {"name": "Video players", "children":
+            {"name": "Video player", "children":
                 [  
                     {"name": "VLC"},
                     {"name": "Media Player Classic"}
@@ -2096,7 +2096,7 @@
             }
         ]
     },
-    {"name": "Operating systems", "children":
+    {"name": "Operating system", "children":
         [
             {"name": "Emulation", "children":
                 [  
@@ -2282,7 +2282,7 @@
             {"name": "Mitro"}
         ]
     },
-    {"name": "Personal information managers", "children":
+    {"name": "Personal digital assistant", "children":
         [
             {"name": "Chandler"},
             {"name": "KAddressBook"},
@@ -2297,7 +2297,7 @@
     },
     {"name": "Programming language support", "children":
         [
-            {"name": "Bug trackers", "children":
+            {"name": "Bug tracker", "children":
                 [
                     {"name": "Bugzilla"},
                     {"name": "Mantis"},
@@ -2306,7 +2306,7 @@
                     {"name": "Trac"}
                 ]
             },
-            {"name": "Code generators", "children":
+            {"name": "Code generator", "children":
                 [
                     {"name": "Bison"},
                     {"name": "CodeSynthesis XSD"},
@@ -2606,7 +2606,7 @@
                     {"name": "Zentyal"}
                 ]
             },
-            {"name": "Secure Shell (ssh)", "children":
+            {"name": "Secure Shell", "children":
               [
                 {"name": "Cyberduck"},
                 {"name": "Lsh"},
