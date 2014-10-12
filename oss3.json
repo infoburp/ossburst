@@ -2,7 +2,7 @@
   "name":"open-source",
   "children": [
     {
-      "name": "List_of_free_and_open-source_software_packages#Applied_fields",
+      "name": "Applied fields",
       "children": [
         {"name": "Artificial intelligence", "children":
           [
@@ -35,7 +35,7 @@
             }
           ]
         },
-        {"name": "CAD", "children": 
+        {"name": "Computer-aided design", "children": 
           [
             {"name": "Electronic design automation (EDA)", "children":
               [
