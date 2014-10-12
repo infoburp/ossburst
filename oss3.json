@@ -2101,7 +2101,7 @@
     },
     {"name": "Operating system", "children":
         [
-            {"name": "Emulation", "children":
+            {"name": "Emulator", "children":
                 [  
                     {"name": "1964 (emulator)"},
                     {"name": "AppleWin"},
@@ -2144,7 +2144,7 @@
                     {"name": "ZSNES"}
                 ]
             },
-            {"name": "Virtualisation", "children":
+            {"name": "Virtualization", "children":
                 [
                     {"name": "Bhyve"},
                     {"name": "Chroot"},
@@ -2298,9 +2298,9 @@
             {"name": "TeamLab"}
         ]
     },
-    {"name": "Programming language support", "children":
+    {"name": "Computer programming", "children":
         [
-            {"name": "Bug trackers", "children":
+            {"name": "Bug tracker", "children":
                 [
                     {"name": "Bugzilla"},
                     {"name": "Mantis"},
