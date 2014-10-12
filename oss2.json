@@ -492,101 +492,103 @@
            {"name": "Zope Object Database"}
           ]
         },
-        {"name": "Data mining"
-          {"name": "Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI) — data mining software framework written in Java with a focus on clustering and outlier detection methods.
-{"name": "SCaViS — Java-based data analysis framework
-{"name": "Konstanz Information Miner (KNIME)
-{"name": "OpenNN — Open source neural networks software library written in the C++ programming language.
-{"name": "Orange (software) — data visualization and data mining for novice and experts, through visual programming or Python scripting. Extensions for bioinformatics and text mining.
-{"name": "RapidMiner — data mining software written in Java, fully integrating Weka, featuring 350+ operators for preprocessing, machine learning, visualization, etc.
-{"name": "Scriptella ETL — ETL (Extract-Transform-Load) and script execution tool. Supports integration with J2EE and Spring. Provides connectors to CSV, LDAP, XML, JDBC/ODBC and other data sources.
-{"name": "Weka — data mining software written in Java featuring machine learning operators for classification, regression, and clustering.
-{"name": "JasperSoft — data mining with programmable abstraction layer.
+        {"name": "Data mining", "children":
+          [
+            {"name": "Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI) — data mining software framework written in Java with a focus on clustering and outlier detection methods."},
+            {"name": "SCaViS — Java-based data analysis framework"},
+            {"name": "Konstanz Information Miner (KNIME)"},
+            {"name": "OpenNN — Open source neural networks software library written in the C++ programming language."},
+            {"name": "Orange (software) — data visualization and data mining for novice and experts, through visual programming or Python scripting. Extensions for bioinformatics and text mining."},
+            {"name": "RapidMiner — data mining software written in Java, fully integrating Weka, featuring 350+ operators for preprocessing, machine learning, visualization, etc."},
+            {"name": "Scriptella ETL — ETL (Extract-Transform-Load) and script execution tool. Supports integration with J2EE and Spring. Provides connectors to CSV, LDAP, XML, JDBC/ODBC and other data sources."},
+            {"name": "Weka — data mining software written in Java featuring machine learning operators for classification, regression, and clustering."},
+            {"name": "JasperSoft — data mining with programmable abstraction layer."}
+          ]
         },
-        {"name": "Data Visualization Components"
-          {"name": "ParaView plotting and visualization functions developed by Sandia National Laboratory, capable of massively parallel flow visualization utilizing multiple computer processors
-{"name": "VTK is a toolkit for 3D computer graphics, image processing and visualization.
+        {"name": "Data Visualization Components", "children":
+          [
+            {"name": "ParaView plotting and visualization functions developed by Sandia National Laboratory, capable of massively parallel flow visualization utilizing multiple computer processors"},
+            {"name": "VTK is a toolkit for 3D computer graphics, image processing and visualization."}
+          ]
         },
-        {"name": "Digital Asset Management software"
-          {"name": "OpenDAM, Free Open Source Digital Asset Management for enterprise content management integration, to manage image, pictures and video files.
+        {"name": "Digital Asset Management software", "children":
+          [
+            {"name": "OpenDAM, Free Open Source Digital Asset Management for enterprise content management integration, to manage image, pictures and video files."}
+          ]
         },
-        {"name": "Disk partitioning software"
-          {"name": "Cfdisk
-F
-{"name": "FIPS (computer program)
-G
-{"name": "GNU Parted
-G cont.
-{"name": "GParted
-K
-{"name": "KDE Partition Manager
-N
-{"name": "Ntfsresize
+        {"name": "Disk partitioning software", "children":
+          [
+            {"name": "Cfdisk"},
+            {"name": "FIPS (computer program)"},
+            {"name": "GNU Parted"},
+            {"name": "GParted"},
+            {"name": "KDE Partition Manager"},
+            {"name": "Ntfsresize"}
+          ]
+        }
+        {"name": "Enterprise search engines", "children":
+          [
+            {"name": "ApexKB, formerly known as Jumper"},
+            {"name": "Lucene"},
+            {"name": "Nutch"},
+            {"name": "Solr"},
+            {"name": "Xapian"}
+          ]
         },
-        {"name": "Enterprise search engines"
-          {"name": "ApexKB, formerly known as Jumper
-{"name": "Lucene
-{"name": "Nutch
-{"name": "Solr
-{"name": "Xapian
+        {"name": "ETLs (Extract Transform Load)", "children":
+          [
+            {"name": "CloverETL (Community Edition)"},
+            {"name": "Konstanz Information Miner (KNIME)"},
+            {"name": "Pentaho"},
+            {"name": "SpagoBI"},
+            {"name": "Talend"}
+          ]
         },
-        {"name": "ETLs (Extract Transform Load)"
-          {"name": "CloverETL (Community Edition)
-{"name": "Konstanz Information Miner (KNIME)
-{"name": "Pentaho
-{"name": "SpagoBI
-{"name": "Talend
+        {"name": "File archivers", "children":
+          [
+            {"name": "7-Zip"},
+            {"name": "7z"},
+            {"name": "AdvanceCOMP"},
+            {"name": "Ark (software)"},
+            {"name": "B1 Free Archiver"},
+            {"name": "Bzip2"},
+            {"name": "Dar (disk archiver)"},
+            {"name": "File Roller"},
+            {"name": "FreeArc"},
+            {"name": "Gzip"},
+            {"name": "Info-ZIP"},
+            {"name": "KGB Archiver"},
+            {"name": "Lempel–Ziv–Oberhumer"},
+            {"name": "Liblzg"},
+            {"name": "Libzip"},
+            {"name": "LZ4 (compression algorithm)"},
+            {"name": "Lzip"},
+            {"name": "Lzop"},
+            {"name": "LZRW"},
+            {"name": "OptiPNG"},
+            {"name": "PAQ"},
+            {"name": "PeaZip"},
+            {"name": "Pngcrush"},
+            {"name": "QUAD (compressor)"}
+          ]
         },
-        {"name": "File archivers"
-          {"name": "7-Zip
-{"name": "7z
-A
-{"name": "AdvanceCOMP
-{"name": "Ark (software)
-B
-{"name": "B1 Free Archiver
-{"name": "Bzip2
-D
-{"name": "Dar (disk archiver)
-F
-{"name": "File Roller
-{"name": "FreeArc
-G
-{"name": "Gzip
-I
-{"name": "Info-ZIP
-K
-{"name": "KGB Archiver
-L
-{"name": "Lempel–Ziv–Oberhumer
-{"name": "Liblzg
-{"name": "Libzip
-{"name": "LZ4 (compression algorithm)
-{"name": "Lzip
-{"name": "Lzop
-{"name": "LZRW
-O
-{"name": "OptiPNG
-P
-{"name": "PAQ
-{"name": "PeaZip
-{"name": "Pngcrush
-Q
-{"name": "QUAD (compressor)
-        },
-        {"name": "File Systems"
-          {"name": "OpenAFS — a distributed file system supporting a very wide variety of operating systems
-{"name": "Tahoe-LAFS — a distributed file system/Cloud storage system with integrated privacy and security features
-{"name": "CephFS — a distributed file system included in the Ceph storage platform.
+        {"name": "File Systems", "children":
+          [
+            {"name": "OpenAFS — a distributed file system supporting a very wide variety of operating systems"},
+            {"name": "Tahoe-LAFS — a distributed file system/Cloud storage system with integrated privacy and security features"},
+            {"name": "CephFS — a distributed file system included in the Ceph storage platform."}
+          ]
         }
       ]
     },
     {"name": "Networking and Internet", "children":
       [
-        {"name": "Advertising"
+        {"name": "Advertising", "children":
+      [
           {"name": "OpenX
         },
-        {"name": "Communication-related"
+        {"name": "Communication-related", "children":
+      [
           {"name": "Asterisk — Telephony and VoIP server
 {"name": "Ekiga — Video conferencing application for GNOME and Microsoft Windows
 {"name": "FreePBX — Front-end and advanced PBX configuration for Asterisk
@@ -597,7 +599,8 @@ Q
 {"name": "Slrn — a newsreader
 {"name": "Twinkle — VOIP softphone
         },
-        {"name": "E-mail"
+        {"name": "E-mail", "children":
+      [
 {"name": "AfterLogic WebMail Lite
 {"name": "Agorum core
 {"name": "Alpine (email client)
@@ -663,7 +666,8 @@ G cont.
 {"name": "Zarafa (software)
 {"name": "Zimbra
         },
-        {"name": "File transfer"
+        {"name": "File transfer", "children":
+      [
           C
 {"name": "CwRsync
 F
@@ -694,7 +698,8 @@ W
 {"name": "WinSCP
 {"name": "WU-FTPD
         },
-        {"name": "Instant messaging"
+        {"name": "Instant messaging", "children":
+      [
           A
 {"name": "Adium
 {"name": "AMSN
@@ -758,7 +763,8 @@ W
 Z
 {"name": "Zephyr (protocol)
         },
-        {"name": "IRC Clients"
+        {"name": "IRC Clients", "children":
+      [
           
 {"name": "Ayttm
 B
@@ -814,7 +820,8 @@ W
 X
 {"name": "XChat
         },
-        {"name": "Middleware"
+        {"name": "Middleware", "children":
+      [
           {"name": "Apache Axis2 — Web service framework (implementations are available in both Java & C)
 {"name": "Apache Geronimo
 {"name": "Bonita Open Solution(software) — a J2EE web application and java BPMN2 compliant engine
@@ -825,14 +832,16 @@ X
 {"name": "TAO (software) — C++ implementation of the OMG's CORBA standard
 
         },
-        {"name": "RSS/Atom readers/aggregators"
+        {"name": "RSS/Atom readers/aggregators", "children":
+      [
           {"name": "Akregator — Platforms running KDE
 {"name": "Liferea — Platforms running GNOME
 {"name": "RSS Bandit — Windows - .NET
 {"name": "RSSOwl — Windows, Mac OS X, Solaris, Linux - Java SWT Eclipse
 {"name": "Sage (Mozilla Firefox extension)
         },
-        {"name": "Peer-to-peer file sharing"
+        {"name": "Peer-to-peer file sharing", "children":
+      [
           A
 {"name": "AMule
 {"name": "Ares Galaxy
@@ -893,7 +902,8 @@ X
 {"name": "XMule
 {"name": "Xtreme Mod
         },
-        {"name": "Portal Server"
+        {"name": "Portal Server", "children":
+      [
           {"name": "Drupal
 {"name": "eXo Platform
 {"name": "Liferay
@@ -901,7 +911,8 @@ X
 {"name": "Sun Java System Portal Server
 {"name": "uPortal
         },
-        {"name": "Remote access and management"
+        {"name": "Remote access and management", "children":
+      [
           {"name": "FreeNX
 {"name": "OpenVPN
 {"name": "rdesktop
@@ -911,7 +922,8 @@ X
 {"name": "Remmina
 
         },
-        {"name": "Routing software"
+        {"name": "Routing software", "children":
+      [
           B
 {"name": "Bird Internet routing daemon
 {"name": "BSD Router Project
@@ -949,11 +961,7 @@ P
 {"name": "PfSense
 Q
 {"name": "Quagga (software)
-R
-Template:Routing software
-S
 {"name": "SmartRouter
-S cont.
 {"name": "SmoothWall
 {"name": "Stone (software)
 {"name": "Syndie
@@ -972,7 +980,8 @@ Z
 {"name": "Zentyal
 {"name": "Zeroshell
         },
-        {"name": "Web browsers"
+        {"name": "Web browsers", "children":
+      [
           A
 {"name": "Abaco (web browser)
 {"name": "Amaya (web editor)
@@ -1055,15 +1064,18 @@ X
 X-Smiles
 Xombrero
         },
-        {"name": "Webcam"
+        {"name": "Webcam", "children":
+      [
           Cheese
         },
-        {"name": "Webgrabber"
+        {"name": "Webgrabber", "children":
+      [
           cURL
 HTTrack
 Wget
         },
-        {"name": "Web-related"
+        {"name": "Web-related", "children":
+      [
           Apache Cocoon — a web application framework
 Apache — the most popular web server
 AWStats — a log file parser and analyzer
@@ -1082,7 +1094,8 @@ Squid (software) — web proxy cache
 XAMPP — a package of web applications including Apache and MySQL
 Zope — a web application server
         },
-        {"name": "Other networking programs"
+        {"name": "Other networking programs", "children":
+      [
           JXplorer — a LDAP client
 OpenLDAP — a LDAP server
 openVXI — a VoiceXML interpreter
@@ -1092,7 +1105,8 @@ YaCy — P2P-based search engine
     },
     {"name": "Educational", "children":
       [
-        {"name": "Educational suites"
+        {"name": "Educational suites", "children":
+      [
           ATutor — a web-based Learning Content Management System (LCMS)
 Chamilo — a web-based e-learning and content management system
 DoceboLMS
@@ -1109,10 +1123,12 @@ Sakai Project — a web-based learning management system
 SWAD - a web-based learning management system
 Tux Paint — a paint application for 3–12 year olds
         },
-        {"name": "Geography"
+        {"name": "Geography", "children":
+      [
           KGeography
         },
-        {"name": "Learning support"
+        {"name": "Learning support", "children":
+      [
           C
 Chamilo
 E
@@ -1136,20 +1152,24 @@ TCExam
 X
 XBlock
         },
-        {"name": "Language"
+        {"name": "Language", "children":
+      [
           Kiten
 KVerbos
         },
-        {"name": "Typing"
+        {"name": "Typing", "children":
+      [
           KTouch
 Tux Typing
         },
-        {"name": "Other educational programs"
+        {"name": "Other educational programs", "children":
+      [
           KEduca
         }
       ]
     },
-    {"name": "File managers"
+    {"name": "File managers", "children":
+      [
       7
 7-Zip
 A
@@ -1383,7 +1403,8 @@ W
     },
     {"name": "Graphical user interface", "children":
       [
-        {"name": "Desktop environments"
+        {"name": "Desktop environments", "children":
+      [
           A
 {"name": "Ambient (desktop environment)
 C
@@ -1428,7 +1449,8 @@ X
 {"name": "Xfce
 {"name": "Xito
         },
-        {"name": "Window managers"
+        {"name": "Window managers", "children":
+      [
           9
 {"name": "9wm
 A
@@ -1504,7 +1526,8 @@ X
 {"name": "Xfwm
 {"name": "Xmonad
         },
-        {"name": "Windowing system"
+        {"name": "Windowing system", "children":
+      [
           E
 {"name": "EGL (API)
 F
@@ -1704,584 +1727,531 @@ Z
         {"name": "Wiki software", "children":
           [
             A
-Apache Allura
-Apache Bloodhound
+{"name": "Apache Allura
+{"name": "Apache Bloodhound
 B
-BlueSpice for MediaWiki
+{"name": "BlueSpice for MediaWiki
 C
-CLiki
-Cyn.in
+{"name": "CLiki
+{"name": "Cyn.in
 D
-DokuWiki
+{"name": "DokuWiki
 E
-EXo Platform
+{"name": "EXo Platform
 F
-FlexWiki
-Fossil (software)
-Foswiki
+{"name": "FlexWiki
+{"name": "Fossil (software)
+{"name": "Foswiki
 G
-Gitit (software)
+{"name": "Gitit (software)
 I
-Ikiwiki
+{"name": "Ikiwiki
 M
-MediaWiki
-Midgard (software)
-Mindquarry
-MoinMoin
+{"name": "MediaWiki
+{"name": "Midgard (software)
+{"name": "Mindquarry
+{"name": "MoinMoin
 O
-OpenProject
+{"name": "OpenProject
 P
-PhpWiki
-PmWiki
+{"name": "PhpWiki
+{"name": "PmWiki
 R
-Redmine
+{"name": "Redmine
 T
-The Bug Genie
-TiddlyWiki
-Tiki Wiki CMS Groupware
-Trac
+{"name": "The Bug Genie
+{"name": "TiddlyWiki
+{"name": "Tiki Wiki CMS Groupware
+{"name": "Trac
 T cont.
-TWiki
+{"name": "TWiki
 U
-UseModWiki
+{"name": "UseModWiki
 W
-WackoWiki
-WakkaWiki
-WikiCalc
-WikiWikiWeb
-WikkaWiki
+{"name": "WackoWiki
+{"name": "WakkaWiki
+{"name": "WikiCalc
+{"name": "WikiWikiWeb
+{"name": "WikkaWiki
 X
-XWiki
+{"name": "XWiki
 Z
-Zim (software)
-Zwiki
+{"name": "Zim (software)
+{"name": "Zwiki
           ]
         },
         A
-Agorum core
+{"name": "Agorum core
 B
-Beehive Forum
-BigBlueButton
+{"name": "Beehive Forum
+{"name": "BigBlueButton
 C
-Citadel/UX
-Collabtive
-Covide
-Cyn.in
+{"name": "Citadel/UX
+{"name": "Collabtive
+{"name": "Covide
+{"name": "Cyn.in
 E
-EGroupWare
-EsoTalk
-Exchange4linux
-EXo Platform
+{"name": "EGroupWare
+{"name": "EsoTalk
+{"name": "Exchange4linux
+{"name": "EXo Platform
 F
-Feng Office Community Edition
-FUDforum
-FusionForge
+{"name": "Feng Office Community Edition
+{"name": "FUDforum
+{"name": "FusionForge
 G
-GForge
+{"name": "GForge
 G cont.
-Gobby
-Group-Office
-GroupDAV
+{"name": "Gobby
+{"name": "Group-Office
+{"name": "GroupDAV
 H
-Horde (software)
-Hula (software)
+{"name": "Horde (software)
+{"name": "Hula (software)
 I
-Icy Phoenix
-Iko (software)
+{"name": "Icy Phoenix
+{"name": "Iko (software)
 K
-Knomos
-Kolab
-Kune (software)
+{"name": "Knomos
+{"name": "Kolab
+{"name": "Kune (software)
 L
-LibreSource
-LogicalDOC
+{"name": "LibreSource
+{"name": "LogicalDOC
 M
-Mayan (software)
-Mindquarry
-ModernBB
+{"name": "Mayan (software)
+{"name": "Mindquarry
+{"name": "ModernBB
 O
-Open-Xchange
-OpenKM
+{"name": "Open-Xchange
+{"name": "OpenKM
 P
-Phorum
-PhpBB
-PhpGroupWare
-PunBB
+{"name": "Phorum
+{"name": "PhpBB
+{"name": "PhpGroupWare
+{"name": "PunBB
 S
-Scalix
-Simple Groupware
-SOGo
+{"name": "Scalix
+{"name": "Simple Groupware
+{"name": "SOGo
 T
-Tiki Wiki CMS Groupware
-Tine 2.0
+{"name": "Tiki Wiki CMS Groupware
+{"name": "Tine 2.0
 V
-Vanilla Forums
+{"name": "Vanilla Forums
 Z
-Zarafa (software)
-Zimbra
+{"name": "Zarafa (software)
+{"name": "Zimbra
 
       ]
     },
     {"name": "Healthcare software"
-      Public health and biosurveillance[edit]
-Epi Info is public domain statistical software for epidemiology developed by Centers for Disease Control and Prevention.
-Spatiotemporal Epidemiological Modeler is a tool, originally developed at IBM Research, for modeling and visualizing the spread of infectious diseases.
-Dental management and patient record[edit]
-Open Dental is the first open-source dental management package with very broad capabilities on record management, patient scheduling and dental office management.
-Electronic health or medical record[edit]
-(In alphabetical order)
-
-CottageMed is a cross-platform electronic medical record system based on FileMaker. CottageMed is released under the GPL
-FreeMED is a practice management and electronic and computer records system. It allows the tracking of medical data, in detail, with preservation not just of the diagnosis but the reasons for medical encounters. FreeMED is released under the GPL
-GaiaEHR is a modern open source electronic health record developed using PHP and Ext JS.
-GNUmed is a WxPython application that uses PostgreSQL.
-GNU Health is a free, centralized, highly scalable health and hospital information system
-Hospital OS Open source hospital information system in Thai
-HOSxP is a hospital information system, including Electronic health record (EHR), in use in over 70 hospitals across Thailand.
-Mirth (software) is an open source cross-platform HL7 interface engine that enables bi-directional sending of HL7 messages between systems and applications over multiple transports.
-openEHR is an open standard specification in health informatics that describes the management and storage, retrieval and exchange of health data in electronic health records (EHRs) following a two-level modelling paradigm.
-OpenEMR an open-source PHP-based [1] electronic medical record (EMR) system.
-OpenMRS is a community-developed, open-source, enterprise EMR framework. Extensible and scalable EMR based on Java.
-OSCAR McMaster an open-source electronic medical record (EMR) software. The billing component of the software is specialized for the needs of the Canadian health-care providers.
-THIRRA (EHR) is a web based EHR application designed primarily for narrowband. It was released under the Mozilla Public License and includes communicable diseases biosurveillance feature. THIRRA uses PHP5, CodeIgniter and PostgreSQL.
-VistA – Veterans Administrations integrated electronic health record system available for non-governmental use as OSEHRA VistA or OpenVista or WorldVistA.
-ZEPRS The ZEPRS application is an electronic patient record system that enables clinicians to enter data from patient visits using a web browser.
-SmartCare is a C# windows based EHR application, with working installations in Zambia, Ethiopia and South Africa. It is designed with the state of poor connectivity in developing countries in mind, making use of SmartCards to store patient level information. Its core development team is based in Zambia where the Government has adopted it as its national EHR.
-Medical practice management software[edit]
-ClearHealth covers the five major areas of practice operations including scheduling, billing, EMR, HIPAA Security and accounts receivable.
-FreeMED is a practice management and electronic and computer records system. It allows the tracking of medical data, in detail, with preservation not just of the diagnosis but the reasons for medical encounters. FreeMED is released under the LGPL GNU license. FreeMED is an HIPAA compliant FOSS practice management system that handles billing.
-GNU Health is a free, centralized, highly scalable health and hospital information system
-MedinTux MedinTux is a French medical practice management system, with a web interface as well as a desktop one, that has been initially to manage a hospital emergency department. Being very modular, it has been extended to run also many different smaller practices. It works on GNU/Linux, Mac OS X, Microsoft Windows
-Open Dental Dental practice management
-OpenEMR A free medical practice management, electronic medical records, prescription writing, and medical billing application.
-Health system management[edit]
-DHIS Open-source district health management information system and data warehouse (license: BSD license)
-HRHIS Open-source human resource for health information system for management of human resources for health developed by University of Dar es Salaam, Department of Computer Science, for Ministry of Health and Social Welfare (Tanzania) and funded by the Japan International Cooperation Agency (JICA) (license: GPLv3)
-Imaging/visualization[edit]
-Drishti is a volumetric visualisation package for viewing computer tomography data. Able to import DICOM image stacks.
-Endrov Image and data viewer and editor
-ITK segmentation and registration toolkit
-InVesalius 3D medical imaging reconstruction software
-ITK-SNAP Interactive software for 3D image navigation, annotation and automatic segmentation
-Ginkgo CADx Cross-platform open source DICOM viewer and dicomizer.
-MITK - Medical Imaging Interaction Toolkit for interactive medical image processing.
-Orthanc – Lightweight, RESTful DICOM store
-OsiriX – 3D DICOM medical viewer for Mac OS X. Complete DICOM Viewer with DICOM network support
-ParaView large-scale visualization tool
-3DSlicer Platform for medical image visualization and algorithm development. DICOM support, segmentation and registration, Diffusion MRI processing, and image guided surgery support.
-Voreen volume rendering engine—a library for visually exploring volume data sets. DICOM is supported and Voreen is used in medical visualization as well as for visualizing electron microscopy data.
-VTK visualization toolkit
-Xebra (medical imaging software)
-GIMIAS workflow-oriented environment focused on biomedical image computing and simulation
-Medical information systems[edit]
-Caisis is a web based information system for the storage and analysis of cancer patient data intended to bridge the gap between clinic and research (license: GPL)
-Research[edit]
-LabKey Server is an extensible platform for integrating, analyzing and sharing all types of biomedical research data. It provides secure, web-based access to research data and includes a customizable data processing pipeline.
-Mobile devices[edit]
-Ushahidi Allows people to submit crisis information through text messaging using a mobile phone, email or web form. Displays information in map view.
-Out-of-the-box distributions[edit]
-BioLinux
-Debian-Med
-Ubuntu-Med
-Interoperability testing[edit]
-The Office of the National Coordinator for Health Information Technology (ONC) tasked MITRE with developing an open-source program called Cypress to test EHR software for compliance with the Meaningful Use Stage 2 Clinical Quality Measures.[2]
-The Certification Commission for Healthcare Information Technology (CCHIT) and MITRE developed an open-source program called Laika to test EHR software for compliance with CCHIT interoperability data standards, including the HITSP C32 XML and HL7 v2 Lab messages.
+      {"name": "Public health and biosurveillance[edit]
+{"name": "Epi Info is public domain statistical software for epidemiology developed by Centers for Disease Control and Prevention.
+{"name": "Spatiotemporal Epidemiological Modeler is a tool, originally developed at IBM Research, for modeling and visualizing the spread of infectious diseases.
+{"name": "Dental management and patient record[edit]
+{"name": "Open Dental is the first open-source dental management package with very broad capabilities on record management, patient scheduling and dental office management.
+{"name": "Electronic health or medical record, "children":
+  [
+    {"name": "CottageMed is a cross-platform electronic medical record system based on FileMaker. CottageMed is released under the GPL
+    {"name": "FreeMED is a practice management and electronic and computer records system. It allows the tracking of medical data, in detail, with preservation not just of the diagnosis but the reasons for medical encounters. FreeMED is released under the GPL
+    {"name": "GaiaEHR is a modern open source electronic health record developed using PHP and Ext JS.
+    {"name": "GNUmed is a WxPython application that uses PostgreSQL.
+    {"name": "GNU Health is a free, centralized, highly scalable health and hospital information system
+    {"name": "Hospital OS Open source hospital information system in Thai
+    {"name": "HOSxP is a hospital information system, including Electronic health record (EHR), in use in over 70 hospitals across Thailand.
+    {"name": "Mirth (software) is an open source cross-platform HL7 interface engine that enables bi-directional sending of HL7 messages between systems and applications over multiple transports.
+    {"name": "openEHR is an open standard specification in health informatics that describes the management and storage, retrieval and exchange of health data in electronic health records (EHRs) following a two-level modelling paradigm.
+    {"name": "OpenEMR an open-source PHP-based [1] electronic medical record (EMR) system.
+    {"name": "OpenMRS is a community-developed, open-source, enterprise EMR framework. Extensible and scalable EMR based on Java.
+    {"name": "OSCAR McMaster an open-source electronic medical record (EMR) software. The billing component of the software is specialized for the needs of the Canadian health-care providers.
+    {"name": "THIRRA (EHR) is a web based EHR application designed primarily for narrowband. It was released under the Mozilla Public License and includes communicable diseases biosurveillance feature. THIRRA uses PHP5, CodeIgniter and PostgreSQL.
+    {"name": "VistA – Veterans Administrations integrated electronic health record system available for non-governmental use as OSEHRA VistA or OpenVista or WorldVistA.
+    {"name": "ZEPRS The ZEPRS application is an electronic patient record system that enables clinicians to enter data from patient visits using a web browser.
+    {"name": "SmartCare is a C# windows based EHR application, with working installations in Zambia, Ethiopia and South Africa. It is designed with the state of poor connectivity in developing countries in mind, making use of SmartCards to store patient level information. Its core development team is based in Zambia where the Government has adopted it as its national EHR.
+  ]
+},
+{"name": "Medical practice management software, "children":
+  [
+{"name": "ClearHealth covers the five major areas of practice operations including scheduling, billing, EMR, HIPAA Security and accounts receivable.
+{"name": "FreeMED is a practice management and electronic and computer records system. It allows the tracking of medical data, in detail, with preservation not just of the diagnosis but the reasons for medical encounters. FreeMED is released under the LGPL GNU license. FreeMED is an HIPAA compliant FOSS practice management system that handles billing.
+{"name": "GNU Health is a free, centralized, highly scalable health and hospital information system
+{"name": "MedinTux MedinTux is a French medical practice management system, with a web interface as well as a desktop one, that has been initially to manage a hospital emergency department. Being very modular, it has been extended to run also many different smaller practices. It works on GNU/Linux, Mac OS X, Microsoft Windows
+{"name": "Open Dental Dental practice management
+{"name": "OpenEMR A free medical practice management, electronic medical records, prescription writing, and medical billing application.
+{"name": "Health system management, "children":
+  [
+{"name": "DHIS Open-source district health management information system and data warehouse (license: BSD license)
+{"name": "HRHIS Open-source human resource for health information system for management of human resources for health developed by University of Dar es Salaam, Department of Computer Science, for Ministry of Health and Social Welfare (Tanzania) and funded by the Japan International Cooperation Agency (JICA) (license: GPLv3)
+{"name": "Imaging/visualization, "children":
+  [
+{"name": "Drishti is a volumetric visualisation package for viewing computer tomography data. Able to import DICOM image stacks.
+{"name": "Endrov Image and data viewer and editor
+{"name": "ITK segmentation and registration toolkit
+{"name": "InVesalius 3D medical imaging reconstruction software
+{"name": "ITK-SNAP Interactive software for 3D image navigation, annotation and automatic segmentation
+{"name": "Ginkgo CADx Cross-platform open source DICOM viewer and dicomizer.
+{"name": "MITK - Medical Imaging Interaction Toolkit for interactive medical image processing.
+{"name": "Orthanc – Lightweight, RESTful DICOM store
+{"name": "OsiriX – 3D DICOM medical viewer for Mac OS X. Complete DICOM Viewer with DICOM network support
+{"name": "ParaView large-scale visualization tool
+{"name": "3DSlicer Platform for medical image visualization and algorithm development. DICOM support, segmentation and registration, Diffusion MRI processing, and image guided surgery support.
+{"name": "Voreen volume rendering engine—a library for visually exploring volume data sets. DICOM is supported and Voreen is used in medical visualization as well as for visualizing electron microscopy data.
+{"name": "VTK visualization toolkit
+{"name": "Xebra (medical imaging software)
+{"name": "GIMIAS workflow-oriented environment focused on biomedical image computing and simulation
+{"name": "Medical information systems, "children":
+  [
+{"name": "Caisis is a web based information system for the storage and analysis of cancer patient data intended to bridge the gap between clinic and research (license: GPL)
+{"name": "Research, "children":
+  [
+{"name": "LabKey Server is an extensible platform for integrating, analyzing and sharing all types of biomedical research data. It provides secure, web-based access to research data and includes a customizable data processing pipeline.
+{"name": "Mobile devices, "children":
+  [
+{"name": "Ushahidi Allows people to submit crisis information through text messaging using a mobile phone, email or web form. Displays information in map view.
+{"name": "Out-of-the-box distributions, "children":
+  [
+{"name": "BioLinux
+{"name": "Debian-Med
+{"name": "Ubuntu-Med
+{"name": "Interoperability testing, "children":
+  [
+{"name": "The Office of the National Coordinator for Health Information Technology (ONC) tasked MITRE with developing an open-source program called Cypress to test EHR software for compliance with the Meaningful Use Stage 2 Clinical Quality Measures.[2]
+{"name": "The Certification Commission for Healthcare Information Technology (CCHIT) and MITRE developed an open-source program called Laika to test EHR software for compliance with CCHIT interoperability data standards, including the HITSP C32 XML and HL7 v2 Lab messages.
     },
     {"name": "Media", "children":
       [
         {"name": "2D animation"
-          KToon
-Pencil
-Synfig
-Tupi
+          {"name": "KToon
+{"name": "Pencil
+{"name": "Synfig
+{"name": "Tupi
         },
         {"name": "3D animation"
-          Art of Illusion
-Blender
-K-3D
-OpenFX
-Seamless3d
+          {"name": "Art of Illusion
+{"name": "Blender
+{"name": "K-3D
+{"name": "OpenFX
+{"name": "Seamless3d
         },
         {"name": "Audio editors / audio management"
-          Audio analysis[edit]
-See also: Spectrum analyzer
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note	Licence
-Baudline	SigBlips contract engineering design and development firm	Yes	Yes	Yes		baudline signal analyzer - a scientific visualization tool	proprietary and GPL source code licenses are available
-BRP-PACU		Yes	Yes			Dual channel FFT tool for equalization of sound systems using the transfer function.	GPL
-lxsndtest	Oskar Leuthold	Yes	Yes			frequency response using pink-noise, magnitude/phase response, distortion analysis, ..	GNU GPL v3
-Praat	Paul Boersma and David Weenink of the University of Amsterdam	Yes	Yes		Yes	A program for the analysis of speech in phonetics.	GPL
-Sonic Visualiser	Centre for Digital Music at Queen Mary, University of London	Yes	Yes		Yes		GPL
-Spek	Alexander Kojevnikov	Yes	Yes	Yes	Yes	analyse audio files by showing their spectrogram	GNU GPL v3
-WaveSurfer		Yes	Yes		Yes		Permissive free software
-Converters[edit]
-See also: List of audio conversion software
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note	License
-Max	Stephen Booth (site)	No	Yes	No	No	Not to be confused with Max/MSP	GPL
-FFmpeg	Libav team	Yes	Yes	Yes	Yes	Audio & video.	GPL or LGPL
-Libav	Fabrice Bellard	Yes	Yes	Yes	Yes	Audio & video.	GPL or LGPL
-MPlayer		Yes	Yes	Yes	Yes	Audio & video.	GPL
-fre:ac (formerly BonkEnc)	Robert Kausch	Yes	No	No	Yes		GPL
-DJ Software[edit]
-See also: Category:Audio mixing software
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note	License
-Mixxx	Mixxx Development Team (site)	Yes	Yes	Yes	Yes		GPL
-VirtualDJ	Atomix Production Inc. (site)	No	Yes	No	Yes		GPL
-Traktor	Native Instruments (site)	No	Yes	No	Yes		GPL
-Xwax	Mark Hills	Yes	No	No	No		GPL
-Modular systems[edit]
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note	License
-jMax		Yes			Yes	no longer supported	LGPL
-SynFactory		No	No	No	Yes		GPL
-VisualAp		Yes	Yes		Yes		GPL
-aRts		Yes	Yes	Yes	Yes		GPL
-Libvisual		Yes	Yes	Yes	Yes		LGPL
-Platforms[edit]
-Various projects have formed to integrate the existing free software audio packages.
+          {"name": "Audio analysis[edit]
 
-Name	Creator	Description	Note	License
-Ubuntu Studio		Linux distribution		various
-AVLinux		Linux distribution		various
-dyne:bolic		Linux distribution		various
-AGNULA		Linux distribution		
-Musix		Linux distribution		various
-64 Studio		Linux distribution		
-Planet CCRMA		set of packages (in RPM format)		
-Players[edit]
-Audio players without Database[edit]
-Component	GUI	Programming
-language	Description
-AlsaPlayer	GTK+	C	http://alsaplayer.org/ http://www.ohloh.net/p/alsaplayer
-Aqualung	Aqualung	GTK+	C	http://aqualung.factorial.hu/home.html
-Audacious	Audacious	GTK+	C	http://audacious-media-player.org/
-Beep Media Player	GTK+	C	
-Bluemindo	GTK+	Python	http://bluemindo.codingteam.net/ http://www.ohloh.net/p/bluemindo
-Decibel Audio Player	GTK+	C++	A Fork of Bluemindo; http://decibel.silent-blade.org/ http://www.ohloh.net/p/decibel-audio-player
-Muine	Mono	C#	can use GStreamer and xine
-Pogo	GTK+	Python	a Fork of Decibel; https://launchpad.net/pogo http://www.ohloh.net/p/pogo
-DeaDBeeF	GTK+	C	http://deadbeef.sourceforge.net/ http://www.ohloh.net/p/deadbeef
-qmmp	qmmp	Qt	C++	http://www.ohloh.net/p/qmmp
-XiXMusicPlayer	GTK2	Pascal	http://www.xixmusicplayer.org
-XMMS		
-Audio players with Database[edit]
-Component	GUI	Programming
-language	Database	Description
-Amarok	Amarok	Qt	C++	MySQL		
-aTunes	aTunes	Java	
-Banshee	Banshee	GTK+	C#	SQLite	
-Clementine	Clementine	Qt	C++	SQLite3	
-Exaile	Exaile	GTK+	Python	Berkeley DB	
-Gmusicbrowser	GTK+	Perl		http://gmusicbrowser.org/ http://www.ohloh.net/p/gmusicbrowser
-Guayadeque	Guayadeque	wxWidgets	C++, C	wxSQLite3	http://guayadeque.org/ http://www.ohloh.net/p/guayadeque
-JuK	Qt	C++		
-Jajuk	Java		http://www.jajuk.info/index.php/Main_Page http://www.ohloh.net/p/5944
-Listen	GTK+	Python		https://packages.debian.org/squeeze/listen
-Musique	Qt	C++		http://flavio.tordini.org/musique http://www.ohloh.net/p/musique
-Nightingale	Nightingale	XULRunner	C++	SQLite?	fork of Songbird, with Linux support
-Evince	Pragha	GTK+	C	SQLite	http://pragha.wikispaces.com/ http://www.ohloh.net/p/pragha
-Quod Libet	Quod Libet	GTK+	Python	 ???	https://code.google.com/p/quodlibet/ https://www.openhub.net/p/quodlibet
-Rhythmbox	Rhythmbox	GTK+	C	rhythmdb	not GNU Data Access
-Tomahawk	Tomahawk	Qt	C++	SQLite	http://www.tomahawk-player.org/ https://github.com/tomahawk-player/tomahawk http://www.ohloh.net/p/tomahawk
-Songbird	Songbird	XULRunner	C++	SQLite?	support for Linux was dropped
-Mixxx
+{"name": "Baudline	SigBlips contract engineering design and development firm	Yes	Yes	Yes		baudline signal analyzer - a scientific visualization tool	proprietary and GPL source code licenses are available
+{"name": "BRP-PACU		Yes	Yes			Dual channel FFT tool for equalization of sound systems using the transfer function.	GPL
+{"name": "lxsndtest	Oskar Leuthold	Yes	Yes			frequency response using pink-noise, magnitude/phase response, distortion analysis, ..	GNU GPL v3
+{"name": "Praat	Paul Boersma and David Weenink of the University of Amsterdam	Yes	Yes		Yes	A program for the analysis of speech in phonetics.	GPL
+{"name": "Sonic Visualiser	Centre for Digital Music at Queen Mary, University of London	Yes	Yes		Yes		GPL
+{"name": "Spek	Alexander Kojevnikov	Yes	Yes	Yes	Yes	analyse audio files by showing their spectrogram	GNU GPL v3
+{"name": "WaveSurfer		Yes	Yes		Yes		Permissive free software
+{"name": "Converters[edit]
 
-http://flavio.tordini.org/minitube http://www.ohloh.net/p/minitunes
-http://www.ohloh.net/p/minitube
-Programming languages[edit]
-Many computer music programming languages are implemented in free software. See also the comparison of audio synthesis environments.
+{"name": "Max	Stephen Booth (site)	No	Yes	No	No	Not to be confused with Max/MSP	GPL
+{"name": "FFmpeg	Libav team	Yes	Yes	Yes	Yes	Audio & video.	GPL or LGPL
+{"name": "Libav	Fabrice Bellard	Yes	Yes	Yes	Yes	Audio & video.	GPL or LGPL
+{"name": "MPlayer		Yes	Yes	Yes	Yes	Audio & video.	GPL
+{"name": "fre:ac (formerly BonkEnc)	Robert Kausch	Yes	No	No	Yes		GPL
+{"name": "DJ Software[edit]
 
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note	License
-Csound	Csound community, Barry Vercoe	Yes	Yes	No?	Yes		LGPL
-SuperCollider	SuperCollider community, James McCartney	Yes	Yes	Yes?	Yes		GPL
-ChucK	Ge Wang, Perry Cook	Yes	Yes	No?	Yes		GPL
-Nyquist	Computer Music Project at Carnegie Mellon University, Roger B. Dannenberg	Yes	Yes	Yes	Yes		
-Pure Data	Pd Community, Miller Puckette	Yes	Yes	Yes	Yes		BSD-like
-Radio broadcasting[edit]
-See also streaming below.
+{"name": "Mixxx	Mixxx Development Team (site)	Yes	Yes	Yes	Yes		GPL
+{"name": "VirtualDJ	Atomix Production Inc. (site)	No	Yes	No	Yes		GPL
+{"name": "Traktor	Native Instruments (site)	No	Yes	No	Yes		GPL
+{"name": "Xwax	Mark Hills	Yes	No	No	No		GPL
+{"name": "Modular systems[edit]
 
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note
-Airtime	Sourcefabric	Yes	No		No	Successor to Campcaster
-Airtime website
-ARAS	Erasmo Alonso	Yes	No		No	ARAS website
-Campcaster	Sourcefabric	Yes	No		No	
-OpenBroadcaster	OpenBroadcaster	Yes	No		No	OpenBroadcaster website
-RadioDJ	Marius Vaida	No	No		Yes	RadioDJ website
-Rivendell	Paravel Systems	Yes	No		Partial	Rivendell website
-Recording and editing[edit]
-The following packages are digital audio editors.
+{"name": "jMax		Yes			Yes	no longer supported	LGPL
+{"name": "SynFactory		No	No	No	Yes		GPL
+{"name": "VisualAp		Yes	Yes		Yes		GPL
+{"name": "aRts		Yes	Yes	Yes	Yes		GPL
+{"name": "Libvisual		Yes	Yes	Yes	Yes		LGPL
+{"name": "Platforms[edit]
 
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note
-Ardour	Paul Davis	Yes	Yes	Yes	No	multi-track audio recorder
-Audacity	Dominic Mazzoni	Yes	Yes	Yes	Yes	multi-track audio recorder
-Calf Studio Gear	Krzysztof Foltman et al. (site)	Yes	Yes	Yes	Yes?	mixer
-cutmp3	Jochen Puchalla	Yes	Yes	Yes	Yes limited support through Cygwin	lossless MP3 splitter
-Ecasound		Yes	Yes	Yes	Yes limited support through Cygwin	audio recorder
-Eisenkraut	Hanns Holger Rutz (site)	Yes	Yes	Yes	Yes	connects to SuperCollider
-harmonySEQ	Rafal Cieslak (site)	Yes	No		No	MIDI sequencer
-Jokosher	Jokosher community	Yes	No		Yes	multi-track audio editor
-LMMS	Tobias Doerffel	Yes	Yes as of 0.4.0 with Qt4		Yes	Free cross-platform alternative to commercial programs like FL Studio®, which allow you to produce music with your computer.
-Intended as a replacement for Cubase-like software (DAW)
-MusE		Yes	No		No	MIDI sequencer
-Qtractor		Yes	No		No	A non-destructive multi-track audio and MIDI Workstation (DAW)
-ReZound	Davy Durham	Yes	No	No	No	Graphical audio file editor
-Rosegarden		Yes	No		No	MIDI sequencer and multi-track recorder
-SoX		Yes	Yes	Yes	Yes	command-line multi-track audio editor/processor
-Sweep	Conrad Parker	Yes	No	Yes	No	
-Traverso DAW	Remon Sijrier (site)	Yes	Yes		Yes	multi-track audio recorder and editor
-WaveSurfer	Centre for Speech Technology at KTH	Yes	Yes	Yes	Yes	
-WavoSaur	(site)	No	No	No	Yes	Lightweight multi-channel audio recorder/editor with VST effects support.
-Softsynths[edit]
-See also: Software synthesizer
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note	License
-FluidSynth		Yes	Yes	Yes	Yes	SoundFont player / renderer	LGPL
-TiMidity++		Yes	Yes	Yes	Yes		GPL
-ZynAddSubFX		Yes	Yes		Yes	Mac OS X version is limited	GPL
-[1] Lm3jo	Abadie joris	Yes				acoustic modeling	
-Streaming[edit]
-These programs are for use with streaming audio.
+{"name": "Ubuntu Studio		Linux distribution		various
+{"name": "AVLinux		Linux distribution		various
+{"name": "dyne:bolic		Linux distribution		various
+{"name": "AGNULA		Linux distribution		
+{"name": "Musix		Linux distribution		various
+{"name": "64 Studio		Linux distribution		
+{"name": "Planet CCRMA		set of packages (in RPM format)		
+{"name": "Players[edit]
+{"name": "Audio players without Database[edit]
 
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note
-Icecast		Yes		Yes	Yes	a broadcast server, serves audio signals to clients over the HTTP protocol
-PeerCast		Yes	Yes		Yes	a peercasting tool
-Firefly Media Server		Yes	Yes		Yes	streams music to DAAP clients like iTunes and Rhythmbox
-VideoLAN		Yes	Yes	Yes	Yes	media and server programs for video and audio streaming
-Technologies[edit]
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note
-Advanced Linux Sound Architecture (ALSA)		Yes				a sound card management system in the Linux kernel
-DSSI		Yes				a plugin architecture for software synthesizers
-GStreamer		Yes	No	Yes	Yes	a graph-based multimedia framework
-JACK Audio Connection Kit (JACK)	JACK Team, Paul Davis	Yes	Yes (JACK OS X)		Yes (jackdmp)	a sound server
-Linux Audio Developers Simple Plugin API (LADSPA)		Yes				a plugin architecture for digital signal processing
-Open Sound System		Yes		Yes		a standard interface for making and capturing sound in Unix operating systems
-PulseAudio		Yes	Yes	Yes(Solaris, FreeBSD, NetBSD)	Yes	a sound server
-Trackers[edit]
-These music sequencer programs allow users to arrange notes (pitch-shifted sound samples) on a timeline: see tracker (music software).
+{"name": "AlsaPlayer	GTK+	C	http://alsaplayer.org/ http://www.ohloh.net/p/alsaplayer
+{"name": "Aqualung	Aqualung	GTK+	C	http://aqualung.factorial.hu/home.html
+{"name": "Audacious	Audacious	GTK+	C	http://audacious-media-player.org/
+{"name": "Beep Media Player	GTK+	C	
+{"name": "Bluemindo	GTK+	Python	http://bluemindo.codingteam.net/ http://www.ohloh.net/p/bluemindo
+{"name": "Decibel Audio Player	GTK+	C++	A Fork of Bluemindo; http://decibel.silent-blade.org/ http://www.ohloh.net/p/decibel-audio-player
+{"name": "Muine	Mono	C#	can use GStreamer and xine
+{"name": "Pogo	GTK+	Python	a Fork of Decibel; https://launchpad.net/pogo http://www.ohloh.net/p/pogo
+{"name": "DeaDBeeF	GTK+	C	http://deadbeef.sourceforge.net/ http://www.ohloh.net/p/deadbeef
+{"name": "qmmp	qmmp	Qt	C++	http://www.ohloh.net/p/qmmp
+{"name": "XiXMusicPlayer	GTK2	Pascal	http://www.xixmusicplayer.org
+{"name": "XMMS		
+{"name": "Audio players with Database[edit]
 
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note
-CheeseTracker	Juan Linietsky (site)	Yes	Yes		No	Impulse Tracker clone
-MilkyTracker	(site)	Yes	Yes	Yes	Yes	Also runs on various other platforms including but not limited to Windows Mobile, PlayStation and AmigaOS 4.
-OpenMPT	Olivier Lapicque	No	No	No	Yes	released as free software in 2004
-Psycle		No	No	No	Yes	a tracker combined with modular capabilities
-SoundTracker		Yes	No	Yes	No	Fast Tracker clone
-Other[edit]
-Name	Creator	Linux?	Mac OS X?	Unix?	Windows?	Note
-Aria Maestosa	Auria	Yes	Yes	Yes	Yes	a multi-track MIDI sequencer
-Cythar Sequencer (website)	Monoplugs	Yes	Yes	Yes	Yes	A multi-track, polyphonic MIDI step sequencer
-Giada (website)	Monocasual	Yes	Yes	Yes	Yes	Loop machine, drum machine, sequencer, live sampler, plugin/effect host for live performances.
-Gnaural		Yes	Yes	Yes	Yes	Binaural beat and pink noise generator
-GNU LilyPond	Han-Wen Nienhuys and Jan Nieuwenhuizen	Yes	Yes	Yes	Yes	a music engraving program
-Hydrogen		Yes	Yes	Partial	Partial	an advanced drum machine
-Impro-Visor	Bob Keller	Yes	Yes	Yes	Yes	lead sheet notation, jazz improvisation, auto-accompaniment
-orDrumbox		Yes	Yes	Yes	Yes	a Java based drum machine
-Kangas Sound Editor (website)	Kangasound	Yes	Yes	Unknown	Yes	Synthesizer, mixing, sound effects, music composition and production
-libsndfile		Yes	Yes	Yes	Yes	library for reading and writing many sound formats
-Levelator	The Conversations Network	Yes	Yes	No	Yes	Tool that uses a compressor, normalizer and limiter to normalize volume levels in audio recordings of public talks.
+{"name": "Amarok	Amarok	Qt	C++	MySQL		
+{"name": "aTunes	aTunes	Java	
+{"name": "Banshee	Banshee	GTK+	C#	SQLite	
+{"name": "Clementine	Clementine	Qt	C++	SQLite3	
+{"name": "Exaile	Exaile	GTK+	Python	Berkeley DB	
+{"name": "Gmusicbrowser	GTK+	Perl		http://gmusicbrowser.org/ http://www.ohloh.net/p/gmusicbrowser
+{"name": "Guayadeque	Guayadeque	wxWidgets	C++, C	wxSQLite3	http://guayadeque.org/ http://www.ohloh.net/p/guayadeque
+{"name": "JuK	Qt	C++		
+{"name": "Jajuk	Java		http://www.jajuk.info/index.php/Main_Page http://www.ohloh.net/p/5944
+{"name": "Listen	GTK+	Python		https://packages.debian.org/squeeze/listen
+{"name": "Musique	Qt	C++		http://flavio.tordini.org/musique http://www.ohloh.net/p/musique
+{"name": "Nightingale	Nightingale	XULRunner	C++	SQLite?	fork of Songbird, with Linux support
+{"name": "Evince	Pragha	GTK+	C	SQLite	http://pragha.wikispaces.com/ http://www.ohloh.net/p/pragha
+{"name": "Quod Libet	Quod Libet	GTK+	Python	 ???	https://code.google.com/p/quodlibet/ https://www.openhub.net/p/quodlibet
+{"name": "Rhythmbox	Rhythmbox	GTK+	C	rhythmdb	not GNU Data Access
+{"name": "Tomahawk	Tomahawk	Qt	C++	SQLite	http://www.tomahawk-player.org/ https://github.com/tomahawk-player/tomahawk http://www.ohloh.net/p/tomahawk
+{"name": "Songbird	Songbird	XULRunner	C++	SQLite?	support for Linux was dropped
+{"name": "Mixxx
+
+{"name": "http://flavio.tordini.org/minitube http://www.ohloh.net/p/minitunes
+{"name": "http://www.ohloh.net/p/minitube
+{"name": "Programming languages[edit]
+
+{"name": "Csound	Csound community, Barry Vercoe	Yes	Yes	No?	Yes		LGPL
+{"name": "SuperCollider	SuperCollider community, James McCartney	Yes	Yes	Yes?	Yes		GPL
+{"name": "ChucK	Ge Wang, Perry Cook	Yes	Yes	No?	Yes		GPL
+{"name": "Nyquist	Computer Music Project at Carnegie Mellon University, Roger B. Dannenberg	Yes	Yes	Yes	Yes		
+{"name": "Pure Data	Pd Community, Miller Puckette	Yes	Yes	Yes	Yes		BSD-like
+{"name": "Radio broadcasting[edit]
+
+{"name": "Airtime	Sourcefabric	Yes	No		No	Successor to Campcaster
+{"name": "Airtime website
+{"name": "ARAS	Erasmo Alonso	Yes	No		No	ARAS website
+{"name": "Campcaster	Sourcefabric	Yes	No		No	
+{"name": "OpenBroadcaster	OpenBroadcaster	Yes	No		No	OpenBroadcaster website
+{"name": "RadioDJ	Marius Vaida	No	No		Yes	RadioDJ website
+{"name": "Rivendell	Paravel Systems	Yes	No		Partial	Rivendell website
+{"name": "Recording and editing[edit]
+
+{"name": "Ardour	Paul Davis	Yes	Yes	Yes	No	multi-track audio recorder
+{"name": "Audacity	Dominic Mazzoni	Yes	Yes	Yes	Yes	multi-track audio recorder
+{"name": "Calf Studio Gear	Krzysztof Foltman et al. (site)	Yes	Yes	Yes	Yes?	mixer
+{"name": "cutmp3	Jochen Puchalla	Yes	Yes	Yes	Yes limited support through Cygwin	lossless MP3 splitter
+{"name": "Ecasound		Yes	Yes	Yes	Yes limited support through Cygwin	audio recorder
+{"name": "Eisenkraut	Hanns Holger Rutz (site)	Yes	Yes	Yes	Yes	connects to SuperCollider
+{"name": "harmonySEQ	Rafal Cieslak (site)	Yes	No		No	MIDI sequencer
+{"name": "Jokosher	Jokosher community	Yes	No		Yes	multi-track audio editor
+{"name": "LMMS	Tobias Doerffel	Yes	Yes as of 0.4.0 with Qt4		Yes	Free cross-platform alternative to commercial programs like FL Studio®, which allow you to produce music with your computer.
+{"name": "Intended as a replacement for Cubase-like software (DAW)
+{"name": "MusE		Yes	No		No	MIDI sequencer
+{"name": "Qtractor		Yes	No		No	A non-destructive multi-track audio and MIDI Workstation (DAW)
+{"name": "ReZound	Davy Durham	Yes	No	No	No	Graphical audio file editor
+{"name": "Rosegarden		Yes	No		No	MIDI sequencer and multi-track recorder
+{"name": "SoX		Yes	Yes	Yes	Yes	command-line multi-track audio editor/processor
+{"name": "Sweep	Conrad Parker	Yes	No	Yes	No	
+{"name": "Traverso DAW	Remon Sijrier (site)	Yes	Yes		Yes	multi-track audio recorder and editor
+{"name": "WaveSurfer	Centre for Speech Technology at KTH	Yes	Yes	Yes	Yes	
+{"name": "WavoSaur	(site)	No	No	No	Yes	Lightweight multi-channel audio recorder/editor with VST effects support.
+{"name": "Softsynths[edit]
+
+{"name": "FluidSynth		Yes	Yes	Yes	Yes	SoundFont player / renderer	LGPL
+{"name": "TiMidity++		Yes	Yes	Yes	Yes		GPL
+{"name": "ZynAddSubFX		Yes	Yes		Yes	Mac OS X version is limited	GPL
+{"name": "[1] Lm3jo	Abadie joris	Yes				acoustic modeling	
+{"name": "Streaming[edit]
+
+{"name": "Icecast		Yes		Yes	Yes	a broadcast server, serves audio signals to clients over the HTTP protocol
+{"name": "PeerCast		Yes	Yes		Yes	a peercasting tool
+{"name": "Firefly Media Server		Yes	Yes		Yes	streams music to DAAP clients like iTunes and Rhythmbox
+{"name": "VideoLAN		Yes	Yes	Yes	Yes	media and server programs for video and audio streaming
+{"name": "Technologies[edit]
+
+{"name": "Advanced Linux Sound Architecture (ALSA)		Yes				a sound card management system in the Linux kernel
+{"name": "DSSI		Yes				a plugin architecture for software synthesizers
+{"name": "GStreamer		Yes	No	Yes	Yes	a graph-based multimedia framework
+{"name": "JACK Audio Connection Kit (JACK)	JACK Team, Paul Davis	Yes	Yes (JACK OS X)		Yes (jackdmp)	a sound server
+{"name": "Linux Audio Developers Simple Plugin API (LADSPA)		Yes				a plugin architecture for digital signal processing
+{"name": "Open Sound System		Yes		Yes		a standard interface for making and capturing sound in Unix operating systems
+{"name": "PulseAudio		Yes	Yes	Yes(Solaris, FreeBSD, NetBSD)	Yes	a sound server
+{"name": "Trackers[edit]
+
+
+{"name": "CheeseTracker	Juan Linietsky (site)	Yes	Yes		No	Impulse Tracker clone
+{"name": "MilkyTracker	(site)	Yes	Yes	Yes	Yes	Also runs on various other platforms including but not limited to Windows Mobile, PlayStation and AmigaOS 4.
+{"name": "OpenMPT	Olivier Lapicque	No	No	No	Yes	released as free software in 2004
+{"name": "Psycle		No	No	No	Yes	a tracker combined with modular capabilities
+{"name": "SoundTracker		Yes	No	Yes	No	Fast Tracker clone
+{"name": "Other[edit]
+
+{"name": "Aria Maestosa	Auria	Yes	Yes	Yes	Yes	a multi-track MIDI sequencer
+{"name": "Cythar Sequencer (website)	Monoplugs	Yes	Yes	Yes	Yes	A multi-track, polyphonic MIDI step sequencer
+{"name": "Giada (website)	Monocasual	Yes	Yes	Yes	Yes	Loop machine, drum machine, sequencer, live sampler, plugin/effect host for live performances.
+{"name": "Gnaural		Yes	Yes	Yes	Yes	Binaural beat and pink noise generator
+{"name": "GNU LilyPond	Han-Wen Nienhuys and Jan Nieuwenhuizen	Yes	Yes	Yes	Yes	a music engraving program
+{"name": "Hydrogen		Yes	Yes	Partial	Partial	an advanced drum machine
+{"name": "Impro-Visor	Bob Keller	Yes	Yes	Yes	Yes	lead sheet notation, jazz improvisation, auto-accompaniment
+{"name": "orDrumbox		Yes	Yes	Yes	Yes	a Java based drum machine
+{"name": "Kangas Sound Editor (website)	Kangasound	Yes	Yes	Unknown	Yes	Synthesizer, mixing, sound effects, music composition and production
+{"name": "libsndfile		Yes	Yes	Yes	Yes	library for reading and writing many sound formats
+{"name": "Levelator	The Conversations Network	Yes	Yes	No	Yes	Tool that uses a compressor, normalizer and limiter to normalize volume levels in audio recordings of public talks.
 
         },
         {"name": "CD/USB-writing software"
-          A
-AcetoneISO
-B
-Brasero (software)
-C
-Cdrdao
-Cdrkit
-Cdrtools
-D
-DeVeDe
-Dvd+rw-tools
-G
-GnomeBaker
-I
-InfraRecorder
-ISO Master
-I cont.
-ISO Recorder Power Toy
-K
-K3b
-L
-Libburnia
-X
-X-CD-Roast
+        
+{"name": "AcetoneISO
+{"name": "Brasero (software)
+{"name": "Cdrdao
+{"name": "Cdrkit
+{"name": "Cdrtools
+{"name": "DeVeDe
+{"name": "Dvd+rw-tools
+{"name": "GnomeBaker
+{"name": "InfraRecorder
+{"name": "ISO Master cont.
+{"name": "ISO Recorder Power Toy
+{"name": "K3b
+{"name": "Libburnia
+{"name": "X-CD-Roast
         },
         {"name": "Flash animation"
-          Pencil Animation (for animations)
-SWFTools (for scripting)
+          {"name": "Pencil Animation (for animations)
+{"name": "SWFTools (for scripting)
 
         },
         {"name": "Graphics"
-          2
-2Geom
-A
-Apophysis (software)
-Asymptote (vector graphics language)
-AutoREALM
-AVLinux
-C
-Calligra Suite
-CloudCompare
-CombineZ
-Create Project
-D
-DrQueue
-E
-EGL (API)
-Embroidermodder
-Enlightenment Foundation Libraries
-F
-FITS Liberator
-FlashDP
-Fusionviewer
-G
-GIMP
-G cont.
-GOCR
-GPhoto
-Graphics Layout Engine
-GraphicsMagick
-H
-Hugin (software)
-I
-ImageMagick
-Inkscape
-Interactive Digital Photomontage
-L
-Little CMS
-Lphoto
-M
-MeshLab
-MilkDrop
-N
-Netpbm
-O
-OpenEXR
-OptiPNG
-OsiriX
-P
-Paintbrush (software)
-P cont.
-Panorama Tools
-BlueMarine
-Pinta (software)
-Pngcrush
-R
-Rawstudio
-RawTherapee
-S
-Scrot
-Seashore (software)
-Skencil
-Synfig
-T
-TISFAT Zero
-Toonloop
-U
-UFRaw
-X
-X Image Extension
-X Window System
-Xara Xtreme LX
+        
+{"name": "2Geom
+{"name": "Apophysis (software)
+{"name": "Asymptote (vector graphics language)
+{"name": "AutoREALM
+{"name": "AVLinux
+{"name": "Calligra Suite
+{"name": "CloudCompare
+{"name": "CombineZ
+{"name": "Create Project
+{"name": "DrQueue
+{"name": "EGL (API)
+{"name": "Embroidermodder
+{"name": "Enlightenment Foundation Libraries
+{"name": "FITS Liberator
+{"name": "FlashDP
+{"name": "Fusionviewer
+{"name": "GIMP
+{"name": "GOCR
+{"name": "GPhoto
+{"name": "Graphics Layout Engine
+{"name": "GraphicsMagick
+{"name": "Hugin (software)
+{"name": "ImageMagick
+{"name": "Inkscape
+{"name": "Interactive Digital Photomontage
+{"name": "Little CMS
+{"name": "Lphoto
+{"name": "MeshLab
+{"name": "MilkDrop
+{"name": "Netpbm
+{"name": "OpenEXR
+{"name": "OptiPNG
+{"name": "OsiriX
+{"name": "Paintbrush (software)
+{"name": "Panorama Tools
+{"name": "BlueMarine
+{"name": "Pinta (software)
+{"name": "Pngcrush
+{"name": "Rawstudio
+{"name": "RawTherapee
+{"name": "Scrot
+{"name": "Seashore (software)
+{"name": "Skencil
+{"name": "Synfig
+{"name": "TISFAT Zero
+{"name": "Toonloop
+{"name": "UFRaw
+{"name": "X Image Extension
+{"name": "X Window System
+{"name": "Xara Xtreme LX
         },
         {"name": "Image galleries"
-          A
-Album Shaper
-C
-Coppermine Photo Gallery
-G
-Gallery Project
-M
-MediaGoblin
-O
-Openclipart
-P
-Phoca Gallery
-PhpGraphy
-Piwigo
-P cont.
-Plogger
-R
-ResourceSpace
-T
-TinyWebGallery
+        
+{"name": "Album Shaper
+{"name": "Coppermine Photo Gallery
+{"name": "Gallery Project
+{"name": "MediaGoblin
+{"name": "Openclipart
+{"name": "Phoca Gallery
+{"name": "PhpGraphy
+{"name": "Piwigo
+{"name": "Plogger
+{"name": "ResourceSpace
+{"name": "TinyWebGallery
 
         },
         {"name": "Image viewers"
-          Eye of GNOME
-F-spot
-Geeqie
-Gthumb
-Gwenview
-Kphotoalbum
-Opticks
+          {"name": "Eye of GNOME
+{"name": "F-spot
+{"name": "Geeqie
+{"name": "Gthumb
+{"name": "Gwenview
+{"name": "Kphotoalbum
+{"name": "Opticks
         },
         {"name": "Multimedia codecs / containers / splitters"},
         {"name": "Television"
-          Aegisub
-Boxee
-Fxtv
-GeeXboX
-Kdetv
-LinHES
-LinuxMCE
-LinuxTV
-MediaPortal
-Mythbuntu
-MythDora
-MythTV
-Sabbu
-SubRip
-Tvtime
-Xawtv
-ZoneMinder
+          {"name": "Aegisub
+{"name": "Boxee
+{"name": "Fxtv
+{"name": "GeeXboX
+{"name": "Kdetv
+{"name": "LinHES
+{"name": "LinuxMCE
+{"name": "LinuxTV
+{"name": "MediaPortal
+{"name": "Mythbuntu
+{"name": "MythDora
+{"name": "MythTV
+{"name": "Sabbu
+{"name": "SubRip
+{"name": "Tvtime
+{"name": "Xawtv
+{"name": "ZoneMinder
         },
         {"name": "Video converters"
-          D
-Dr. DivX
-F
-FFmpeg
-G
-GPAC Project on Advanced Content
-H
-HandBrake
-L
-Libav
-Libdash
-M
-MEncoder
-O
-OggConvert
-S
-StaxRip
-T
-Transcode (software)
+        
+{"name": "Dr. DivX
+{"name": "FFmpeg
+{"name": "GPAC Project on Advanced Content
+{"name": "HandBrake
+{"name": "Libav
+{"name": "Libdash
+{"name": "MEncoder
+{"name": "OggConvert
+{"name": "StaxRip
+{"name": "Transcode (software)
         },
         {"name": "Video editing"
-          Avidemux
-AviSynth
-Blender
-Cinelerra
-DScaler
-DVD Flick
-Kaltura
-Kdenlive
-Kino
-LiVES
-OpenShot Video Editor
-Pitivi
-VirtualDub
-VirtualDubMod
-VideoLAN Movie Creator — VLMC is a non-linear editing software for video creation based on libVLC and running on Windows, Linux and Mac OS X.
+          {"name": "Avidemux
+{"name": "AviSynth
+{"name": "Blender
+{"name": "Cinelerra
+{"name": "DScaler
+{"name": "DVD Flick
+{"name": "Kaltura
+{"name": "Kdenlive
+{"name": "Kino
+{"name": "LiVES
+{"name": "OpenShot Video Editor
+{"name": "Pitivi
+{"name": "VirtualDub
+{"name": "VirtualDubMod
+{"name": "VideoLAN Movie Creator — VLMC is a non-linear editing software for video creation based on libVLC and running on Windows, Linux and Mac OS X.
         },
         {"name": "Video encoders"
-          Avidemux
-HandBrake
+          {"name": "Avidemux
+{"name": "HandBrake
         },
         {"name": "Video players"
-          VLC
-Media Player Classic
+          {"name": "VLC
+{"name": "Media Player Classic
         },
         {"name": "Other media packages"
-          Celtx — Media Pre-production Software
-Gnome Subtitles
+          {"name": "Celtx — Media Pre-production Software
+{"name": "Gnome Subtitles
         }
       ]
     },
@@ -2289,775 +2259,647 @@ Gnome Subtitles
       
         {"name": "Emulation"
           
-1964 (emulator)
-A
-AppleWin
-B
-Basilisk II
-Bnetd
-Bochs
-C
-ConEmu
-Cygwin
-D
-DOSBox
-F
-Fuse (emulator)
-G
-GNOME Boxes
-GNS3
-GXemul
-H
-Hatari (emulator)
-H cont.
-Hercules (emulator)
-Higan (emulator)
-J
-JPC (emulator)
-K
-Kernel-based Virtual Machine
-M
-Mac-on-Linux
-Mac-on-Mac
-Mupen64Plus
-O
-OpenEmulator
-OpenMSX
-P
-PCSX2
-PearPC
-Play!
-PPSSPP
-P cont.
-Previous (emulator)
-PvPGN
-Q
-QEMU
-R
-RPCS3
-S
-SheepShaver
-SIMH
-T
-TiEmu
-U
-UAE (emulator)
-V
-VICE
-VirtualBox
-VisualBoyAdvance
-X
-Xenia (emulator)
-Z
-ZSNES
+{"name": "1964 (emulator)
+{"name": "AppleWin
+{"name": "Basilisk II
+{"name": "Bnetd
+{"name": "Bochs
+{"name": "ConEmu
+{"name": "Cygwin
+{"name": "DOSBox
+{"name": "Fuse (emulator)
+{"name": "GNOME Boxes
+{"name": "GNS3
+{"name": "GXemul
+{"name": "Hatari (emulator)
+{"name": "Hercules (emulator)
+{"name": "Higan (emulator)
+{"name": "JPC (emulator)
+{"name": "Kernel-based Virtual Machine
+{"name": "Mac-on-Linux
+{"name": "Mac-on-Mac
+{"name": "Mupen64Plus
+{"name": "OpenEmulator
+{"name": "OpenMSX
+{"name": "PCSX2
+{"name": "PearPC
+{"name": "Play!
+{"name": "PPSSPP
+{"name": "Previous (emulator)
+{"name": "PvPGN
+{"name": "QEMU
+{"name": "RPCS3
+{"name": "SheepShaver
+{"name": "SIMH
+{"name": "TiEmu
+{"name": "UAE (emulator)
+{"name": "VICE
+{"name": "VirtualBox
+{"name": "VisualBoyAdvance
+{"name": "Xenia (emulator)
+{"name": "ZSNES
         },
-        {"name": "Virtualisation"B
-Bhyve
-C
-Chroot
-Cooperative Linux
-E
-EmbeddedXEN
-F
-Free Java implementations
-FreeBSD jail
-G
-GNOME Boxes
-K
-Kernel-based Virtual Machine
-L
-Lguest
-L cont.
-Libguestfs
-Libvirt
-Linux-VServer
-LXC
-LynxSecure
-M
-Marionnet
-O
-OpenJDK
-OpenVZ
-Q
-QEMU
-R
-ResidualVM
-S
-ScummVM
-U
-Ulteo Open Virtual Desktop
-User-mode Linux
-V
-Virtual Machine Manager
-VirtualBox
-X
-Xen
-XtratuM
-Z
-ZeroVM
+        {"name": "Virtualisation"
+{"name": "Bhyve
+{"name": "Chroot
+{"name": "Cooperative Linux
+{"name": "EmbeddedXEN
+{"name": "Free Java implementations
+{"name": "FreeBSD jail
+{"name": "GNOME Boxes
+{"name": "Kernel-based Virtual Machine
+{"name": "Lguest
+{"name": "Libguestfs
+{"name": "Libvirt
+{"name": "Linux-VServer
+{"name": "LXC
+{"name": "LynxSecure
+{"name": "Marionnet
+{"name": "OpenJDK
+{"name": "OpenVZ
+{"name": "QEMU
+{"name": "ResidualVM
+{"name": "ScummVM
+{"name": "Ulteo Open Virtual Desktop
+{"name": "User-mode Linux
+{"name": "Virtual Machine Manager
+{"name": "VirtualBox
+{"name": "Xen
+{"name": "XtratuM
+{"name": "ZeroVM
 }
-      3
-386BSD
-A
-Arch BSD
-Arch Hurd
-AROS Research Operating System
-AtheOS
-B
-BareMetal
-Berkeley Software Distribution
-BeRTOS
-Bluebottle OS
-C
-Caldera OpenDOS
-CapROS
-ChibiOS/RT
-Concurrent CP/M
-Concurrent CP/M-68K
-Concurrent CP/M-86
-Contiki
-Cosmos (operating system)
-CP/M
-CP/M-86
-CP/M 8-16
-CP/M Plus
-CP/M-68K
-CP/M-80
-CP/M-8000
-CP/M-86 Plus
-CP/M-86/80
-D
-Darwin (operating system)
-DexOS
-DragonFly BSD
-DuinOS
-E
-ECos
-EmuTOS
-Es (operating system)
-E cont.
-Ethernut
-F
-FMI/OS
-Free-DOS
-FreeDOS
-FreeRTOS
-G
-GeckOS
-GNU
-GNU variants
-H
-Haiku (operating system)
-HDOS
-HelenOS
-House (operating system)
-I
-ILIOS
-J
-JX (operating system)
-K
-K42
-KolibriOS
-L
-LINX (IPC)
-LiteOS
-LSE/OS
-LUnix
-M
-Managed Operation System Alliance
-MenuetOS
-MINIX
-MINIX 3
-Minix-vmd
-MiNT
-MonaOS
-Movitz
-MP/M
-MP/M 8-16
-MP/M II
-MP/M-286
-MP/M-80
-MP/M-86
-M cont.
-MS/8
-Multics
-N
-Nano-RK
-Nemesis (operating system)
-O
-Oberon (operating system)
-OpenDOS
-OS/VX
-P
-PD-DOS
-Personal CP/M
-Personal CP/M-80
-Personal CP/M-86
-Phantom OS
-Phoenix-RTOS
-Pintos
-Prex
-Q
-QP (framework)
-R
-ReactOS
-Robot Operating System
-S
-Sanos
-SHARE Operating System
-SharpOS (operating system)
-Soft Hard Real-Time Kernel
-SPIN (operating system)
-Syllable Desktop
-SymbOS
-T
-Tinix
-Trix (operating system)
-TUD:OS
-V
-VA Kernel
-Version 6 Unix
-Version 7 Unix
-VSTa
-W
-Whitix
-X
-Xv6
+    
+{"name": "386BSD
+{"name": "Arch BSD
+{"name": "Arch Hurd
+{"name": "AROS Research Operating System
+{"name": "AtheOS
+{"name": "BareMetal
+{"name": "Berkeley Software Distribution
+{"name": "BeRTOS
+{"name": "Bluebottle OS
+{"name": "Caldera OpenDOS
+{"name": "CapROS
+{"name": "ChibiOS/RT
+{"name": "Concurrent CP/M
+{"name": "Concurrent CP/M-68K
+{"name": "Concurrent CP/M-86
+{"name": "Contiki
+{"name": "Cosmos (operating system)
+{"name": "CP/M
+{"name": "CP/M-86
+{"name": "CP/M 8-16
+{"name": "CP/M Plus
+{"name": "CP/M-68K
+{"name": "CP/M-80
+{"name": "CP/M-8000
+{"name": "CP/M-86 Plus
+{"name": "CP/M-86/80
+{"name": "Darwin (operating system)
+{"name": "DexOS
+{"name": "DragonFly BSD
+{"name": "DuinOS
+{"name": "ECos
+{"name": "EmuTOS
+{"name": "Es (operating system)
+{"name": "Ethernut
+{"name": "FMI/OS
+{"name": "Free-DOS
+{"name": "FreeDOS
+{"name": "FreeRTOS
+{"name": "GeckOS
+{"name": "GNU
+{"name": "GNU variants
+{"name": "Haiku (operating system)
+{"name": "HDOS
+{"name": "HelenOS
+{"name": "House (operating system)
+{"name": "ILIOS
+{"name": "JX (operating system)
+{"name": "K42
+{"name": "KolibriOS
+{"name": "LINX (IPC)
+{"name": "LiteOS
+{"name": "LSE/OS
+{"name": "LUnix
+{"name": "Managed Operation System Alliance
+{"name": "MenuetOS
+{"name": "MINIX
+{"name": "MINIX 3
+{"name": "Minix-vmd
+{"name": "MiNT
+{"name": "MonaOS
+{"name": "Movitz
+{"name": "MP/M
+{"name": "MP/M 8-16
+{"name": "MP/M II
+{"name": "MP/M-286
+{"name": "MP/M-80
+{"name": "MP/M-86
+{"name": "MS/8
+{"name": "Multics
+{"name": "Nano-RK
+{"name": "Nemesis (operating system)
+{"name": "Oberon (operating system)
+{"name": "OpenDOS
+{"name": "OS/VX
+{"name": "PD-DOS
+{"name": "Personal CP/M
+{"name": "Personal CP/M-80
+{"name": "Personal CP/M-86
+{"name": "Phantom OS
+{"name": "Phoenix-RTOS
+{"name": "Pintos
+{"name": "Prex
+{"name": "QP (framework)
+{"name": "ReactOS
+{"name": "Robot Operating System
+{"name": "Sanos
+{"name": "SHARE Operating System
+{"name": "SharpOS (operating system)
+{"name": "Soft Hard Real-Time Kernel
+{"name": "SPIN (operating system)
+{"name": "Syllable Desktop
+{"name": "SymbOS
+{"name": "Tinix
+{"name": "Trix (operating system)
+{"name": "TUD:OS
+{"name": "VA Kernel
+{"name": "Version 6 Unix
+{"name": "Version 7 Unix
+{"name": "VSTa
+{"name": "Whitix
+{"name": "Xv6
 ]
     },
     {"name": "Password management"
-      KeePass
-Password Safe
-Mitro
+      {"name": "KeePass
+{"name": "Password Safe
+{"name": "Mitro
 
     },
     {"name": "Personal information managers"
-      Chandler — developed by the OSAF.
-KAddressBook
-Kontact
-KOrganizer
-Mozilla Calendar — A Mozilla-based, multiplatform calendar program.
-Novell Evolution
-OpenSync (software)
-Project.net — Commercial Project Management
-TeamLab — Platform for project management and collaboration
+      {"name": "Chandler — developed by the OSAF.
+{"name": "KAddressBook
+{"name": "Kontact
+{"name": "KOrganizer
+{"name": "Mozilla Calendar — A Mozilla-based, multiplatform calendar program.
+{"name": "Novell Evolution
+{"name": "OpenSync (software)
+{"name": "Project.net — Commercial Project Management
+{"name": "TeamLab — Platform for project management and collaboration
     },
     {"name": "Programming language support", "children":
       [
         {"name": "Bug trackers"
-          Bugzilla
-Mantis
-Mindquarry
-Redmine
-Trac
+          {"name": "Bugzilla
+{"name": "Mantis
+{"name": "Mindquarry
+{"name": "Redmine
+{"name": "Trac
         },
         {"name": "Code generators"
-          Bison
-CodeSynthesis XSD — XML Data Binding compiler for C++
-CodeSynthesis XSD/e — Validating XML parser/serializer and C++ XML Data Binding generator for mobile and embedded systems
-Flex lexical analyser
-Kodos
-Open Scene Graph — 3D graphics application programming interface
-OpenSCDP — Open Smart Card Development Platform
-phpCodeGenie
-SableCC — parser generator for Java and .Net
-SWIG — Simplified Wrapper and Interface Generator for several languages
-^txt2regex$
-xmlbeansxx — XML Data Binding code generator for C++
-YAKINDU Statechart Tools statechart code generator for C++ and Java
+          {"name": "Bison
+{"name": "CodeSynthesis XSD — XML Data Binding compiler for C++
+{"name": "CodeSynthesis XSD/e — Validating XML parser/serializer and C++ XML Data Binding generator for mobile and embedded systems
+{"name": "Flex lexical analyser
+{"name": "Kodos
+{"name": "Open Scene Graph — 3D graphics application programming interface
+{"name": "OpenSCDP — Open Smart Card Development Platform
+{"name": "phpCodeGenie
+{"name": "SableCC — parser generator for Java and .Net
+{"name": "SWIG — Simplified Wrapper and Interface Generator for several languages
+{"name": "^txt2regex$
+{"name": "xmlbeansxx — XML Data Binding code generator for C++
+{"name": "YAKINDU Statechart Tools statechart code generator for C++ and Java
         },
         {"name": "Configuration software"
-          Autoconf
-Automake
-CMake
+          {"name": "Autoconf
+{"name": "Automake
+{"name": "CMake
 
         },
         {"name": "Debuggers (for testing and trouble-shooting)"
-          GNU Debugger — "works for many programming languages [...]"
-Memtest86 — Stress-tests RAM on x86 machines
-Xnee — Record and replay tests
+          {"name": "GNU Debugger — works for many programming languages [...]"
+{"name": "Memtest86 — Stress-tests RAM on x86 machines
+{"name": "Xnee — Record and replay tests
         },
         {"name": "Integrated development environments"
           A
-Android Studio
-Anjuta
-Apache Flex
-AppFlower
-Aptana
+{"name": "Android Studio
+{"name": "Anjuta
+{"name": "Apache Flex
+{"name": "AppFlower
+{"name": "Aptana
 B
-Basic For Qt
-Bluefish (software)
-BlueJ
+{"name": "Basic For Qt
+{"name": "Bluefish (software)
+{"name": "BlueJ
 C
-Cameleon (software)
-Climacs
-Cloud9 IDE
-Code::Blocks
-CodeLite
-CWEB
+{"name": "Cameleon (software)
+{"name": "Climacs
+{"name": "Cloud9 IDE
+{"name": "Code::Blocks
+{"name": "CodeLite
+{"name": "CWEB
 D
-Dev-C++
-Dev-Pascal
-DJGCC
-DJGPP
-DogmaModeler
+{"name": "Dev-C++
+{"name": "Dev-Pascal
+{"name": "DJGCC
+{"name": "DJGPP
+{"name": "DogmaModeler
 E
-EasyEclipse
-Eclipse (software)
-EiffelStudio
-Emacs
-Eric Python IDE
+{"name": "EasyEclipse
+{"name": "Eclipse (software)
+{"name": "EiffelStudio
+{"name": "Emacs
+{"name": "Eric Python IDE
 F
-FlashDevelop
-Fresh (IDE)
+{"name": "FlashDevelop
+{"name": "Fresh (IDE)
 G
-Gambas
-Geany
-General Architecture for Text Engineering
-GNAT Programming Studio
-GNAVI
-GNU Emacs
-GNU MIX Development Kit
-Greenfoot
+{"name": "Gambas
+{"name": "Geany
+{"name": "General Architecture for Text Engineering
+{"name": "GNAT Programming Studio
+{"name": "GNAVI
+{"name": "GNU Emacs
+{"name": "GNU MIX Development Kit
+{"name": "Greenfoot
 H
-HBasic
+{"name": "HBasic
 I
-IcyOwl
-IDLE (Python)
-IntelliJ IDEA
+{"name": "IcyOwl
+{"name": "IDLE (Python)
+{"name": "IntelliJ IDEA
 J
-JUDO (computer programming environment)
+{"name": "JUDO (computer programming environment)
 K
-KDevelop
-Komodo Edit
-Kuzya
+{"name": "KDevelop
+{"name": "Komodo Edit
+{"name": "Kuzya
 L
-Lava (programming language)
-Lazarus (IDE)
+{"name": "Lava (programming language)
+{"name": "Lazarus (IDE)
 M
-MCU 8051 IDE
-Megido (Free Pascal)
-MonoDevelop
+{"name": "MCU 8051 IDE
+{"name": "Megido (Free Pascal)
+{"name": "MonoDevelop
 N
-NeOn Toolkit
-NetBeans
-Ninja-IDE
-Nodeclipse
+{"name": "NeOn Toolkit
+{"name": "NetBeans
+{"name": "Ninja-IDE
+{"name": "Nodeclipse
 O
-OntoWiki
+{"name": "OntoWiki
 P
-Padre (software)
-Photran
-PHPEclipse
-PIDA
-Protégé (software)
-PyDev
-PyScripter
+{"name": "Padre (software)
+{"name": "Photran
+{"name": "PHPEclipse
+{"name": "PIDA
+{"name": "Protégé (software)
+{"name": "PyDev
+{"name": "PyScripter
 Q
-QDevelop
-Qt Creator
-Quanta Plus
+{"name": "QDevelop
+{"name": "Qt Creator
+{"name": "Quanta Plus
 R
-RadRails
+{"name": "RadRails
 S
-SharpDevelop
-SLIME
-SmallBASIC
-Spyder (software)
-Stani's Python Editor
+{"name": "SharpDevelop
+{"name": "SLIME
+{"name": "SmallBASIC
+{"name": "Spyder (software)
+{"name": "Stani's Python Editor
 T
-TIGCC
+{"name": "TIGCC
 U
-Ultimate++
+{"name": "Ultimate++
 W
-WaveMaker
-WideStudio
-WxDev-C++
+{"name": "WaveMaker
+{"name": "WideStudio
+{"name": "WxDev-C++
 Y
-YAKINDU Statechart Tools
+{"name": "YAKINDU Statechart Tools
 Z
-ZeroBrane Studio
-ZGameEditor
+{"name": "ZeroBrane Studio
+{"name": "ZGameEditor
         },
         {"name": "Version control systems"
-          A
-Aegis (management software)
-GNU arch
-ArX (revision control)
-B
-GNU Bazaar
-Bonsai (software)
-C
-Cervisia
-Codeville
-Cogito (software)
-Concurrent Versions System
-C cont.
-CVSNT
-D
-Darcs
-Distributed Concurrent Versions System
-Distributed revision control
-F
-Fossil (software)
-G
-Git (software)
-H
-Hgsubversion
-M
-Mercurial
-Monotone (software)
-O
-OpenGrok
-Q
-QVCS
-R
-Revision Control System
-S
-Source Code Control System
-Apache Subversion
-SVK
-T
-TortoiseCVS
-TortoiseHg
-V
-Vesta (Software configuration management)
+{"name": "Aegis (management software)
+{"name": "GNU arch
+{"name": "ArX (revision control)
+{"name": "GNU Bazaar
+{"name": "Bonsai (software)
+{"name": "Cervisia
+{"name": "Codeville
+{"name": "Cogito (software)
+{"name": "Concurrent Versions System
+{"name": "CVSNT
+{"name": "Darcs
+{"name": "Distributed Concurrent Versions System
+{"name": "Distributed revision control
+{"name": "Fossil (software)
+{"name": "Git (software)
+{"name": "Hgsubversion
+{"name": "Mercurial
+{"name": "Monotone (software)
+{"name": "OpenGrok
+{"name": "QVCS
+{"name": "Revision Control System
+{"name": "Source Code Control System
+{"name": "Apache Subversion
+{"name": "SVK
+{"name": "TortoiseCVS
+{"name": "TortoiseHg
+{"name": "Vesta (Software configuration management)
         }
       ]
     },
     {"name": "Screensavers"
-      Boinc
-Electric Sheep
-XScreenSaver
+      {"name": "Boinc
+{"name": "Electric Sheep
+{"name": "XScreenSaver
     },
     {"name": "Security", "children":
       [
         {"name": "Anti-virus"
-          ClamAV
-ClamWin
-Gateway Anti-Virus
-Lynis
+         {"name": " ClamAV
+{"name": "ClamWin
+{"name": "Gateway Anti-Virus
+{"name": "Lynis
         },
         {"name": "Data loss prevention"
-          MyDLP
+          {"name": "MyDLP
         },
         {"name": "Data recovery","children":
           [
-            dvdisaster
-Foremost
-PhotoRec
-TestDisk
+            {"name": "dvdisaster
+{"name": "Foremost
+{"name": "PhotoRec
+{"name": "TestDisk
           ]
         },
         {"name": "Forensics"
-          The Coroner's Toolkit
-The Sleuth Kit
+          {"name": "The Coroner's Toolkit
+{"name": "The Sleuth Kit
         },
         {"name": "Disk erasing"
-          DBAN
-srm
+         {"name": " DBAN
+{"name": "srm
         },
         {"name": "Encryption","children":
           [
-            GnuPG
-GnuTLS
-KGPG
-OpenSSL
-Seahorse
+            {"name": "GnuPG
+{"name": "GnuTLS
+{"name": "KGPG
+{"name": "OpenSSL
+{"name": "Seahorse
 
           ]
         },
         {"name": "Disk encryption"
-          CrossCrypt
-FreeOTFE and FreeOTFE Explorer
-eCryptfs
+         {"name": "CrossCrypt
+{"name": "FreeOTFE and FreeOTFE Explorer
+{"name": "eCryptfs
 
         },
         {"name": "Firewall"
-          Coyote Linux
-Firestarter
-IPCop
-IPFilter
-IPFire
-ipfw
-Iptables
-M0n0wall
-PeerGuardian
-PF
-pfSense
-Rope
-Shorewall
-SmoothWall
-Untangle
-Vyatta
+          {"name": "Coyote Linux
+{"name": "Firestarter
+{"name": "IPCop
+{"name": "IPFilter
+{"name": "IPFire
+{"name": "ipfw
+{"name": "Iptables
+{"name": "M0n0wall
+{"name": "PeerGuardian
+{"name": "PF
+{"name": "pfSense
+{"name": "Rope
+{"name": "Shorewall
+{"name": "SmoothWall
+{"name": "Untangle
+{"name": "Vyatta
         },
         {"name": "Network and security monitoring"
-          A
-Admon
-Argus (monitoring software)
-Arping
-Arpwatch
-B
-Big Sister (software)
-C
-Cacti (software)
-CFEngine
-Check MK
-Collectd
-Conserver
-D
-DSniff
-E
-EtherApe
-F
-FreeNATS
-G
-Ganglia (software)
-Ganymede (software)
-I
-Icinga
-Ipsectrace
-J
-Justniffer
-M
-M23 software distribution system
-Mausezahn
-Multi Router Traffic Grapher
-Munin (software)
-N
-N2rrd
-Nagios
-Nconf
-N cont.
-NeDi
-Net-SNMP
-Netcat
-Netdisco
-Netsniff-ng
-Network Console on Acid
-Network Security Toolkit
-Network weathermap
-NetXMS
-Ngrep
-Nmap
-NMIS
-O
-Observium
-OpenNMS
-Opsi
-Opsview
-P
-Packet Sender
-PacketFence
-Packetsquare
-Pandora FMS
-Paping
-Pcap
-Pinba
-Ping (networking utility)
-Plink
-P cont.
-Prefix WhoIs
-R
-RANCID (software)
-Rrd4j
-RRDtool
-S
-Sguil
-Shinken (software)
-SNMPTT
-Snoop (software)
-Subterfuge
-Synctool
-T
-TclMon
-TCP Gender Changer
-Tcpdump
-Tcptrace
-Thresh (software)
-Traceroute
-W
-W3af
-WarVOX
-Wireshark
-X
-Xplico
-Xymon
-Z
-Zabbix
-Zenoss
-Zentyal
+        
+{"name": "Admon
+{"name": "Argus (monitoring software)
+{"name": "Arping
+{"name": "Arpwatch
+{"name": "Big Sister (software)
+{"name": "Cacti (software)
+{"name": "CFEngine
+{"name": "Check MK
+{"name": "Collectd
+{"name": "Conserver
+{"name": "DSniff
+{"name": "EtherApe
+{"name": "FreeNATS
+{"name": "Ganglia (software)
+{"name": "Ganymede (software)
+{"name": "Icinga
+{"name": "Ipsectrace
+{"name": "Justniffer
+{"name": "M23 software distribution system
+{"name": "Mausezahn
+{"name": "Multi Router Traffic Grapher
+{"name": "Munin (software)
+{"name": "N2rrd
+{"name": "Nagios
+{"name": "Nconf
+{"name": "NeDi
+{"name": "Net-SNMP
+{"name": "Netcat
+{"name": "Netdisco
+{"name": "Netsniff-ng
+{"name": "Network Console on Acid
+{"name": "Network Security Toolkit
+{"name": "Network weathermap
+{"name": "NetXMS
+{"name": "Ngrep
+{"name": "Nmap
+{"name": "NMIS
+{"name": "Observium
+{"name": "OpenNMS
+{"name": "Opsi
+{"name": "Opsview
+{"name": "Packet Sender
+{"name": "PacketFence
+{"name": "Packetsquare
+{"name": "Pandora FMS
+{"name": "Paping
+{"name": "Pcap
+{"name": "Pinba
+{"name": "Ping (networking utility)
+{"name": "Plink
+{"name": "Prefix WhoIs
+{"name": "RANCID (software)
+{"name": "Rrd4j
+{"name": "RRDtool
+{"name": "Sguil
+{"name": "Shinken (software)
+{"name": "SNMPTT
+{"name": "Snoop (software)
+{"name": "Subterfuge
+{"name": "Synctool
+{"name": "TclMon
+{"name": "TCP Gender Changer
+{"name": "Tcpdump
+{"name": "Tcptrace
+{"name": "Thresh (software)
+{"name": "Traceroute
+{"name": "W3af
+{"name": "WarVOX
+{"name": "Wireshark
+{"name": "Xplico
+{"name": "Xymon
+{"name": "Zabbix
+{"name": "Zenoss
+{"name": "Zentyal
         },
         {"name": "Secure Shell (ssh)"
-          Cyberduck — Mac OS X and Windows client (since version 4.0)
-Lsh — server and client (supporting SRP and Kerberos authentication)
-OpenSSH — client/server
-PuTTY — client only
+          {"name": "Cyberduck — Mac OS X and Windows client (since version 4.0)
+{"name": "Lsh — server and client (supporting SRP and Kerberos authentication)
+{"name": "OpenSSH — client/server
+{"name": "PuTTY — client only
         },
         {"name": "Other security programs"
-          A
-ACARM-ng
-Aircrack-ng
-Tails (operating system)
-Apache Shiro
-Armitage (computing)
-Arptables
-Autopsy (software)
-B
-Bro (software)
-Buck-security
-C
-Central Authentication Service
-Chntpw
-Clam AntiVirus
-ClamWin
-Cloudvpn
-Cryptlib
-Cryptmount
-Cryptocat
-D
-DaveGrohl (software)
-DenyHosts
-Digital Forensics Framework
-DiskCryptor
-Distributed Access Control System
-Dropbear (software)
-DSploit
-F
-Fail2ban
-FireHOL
-FLAIM
-FreeOTFE
-FreeS/WAN
-G
-Gateway Anti-Virus
-GnuTLS
-Gpg4win
-GPGTools
-H
-Hash Code cracker
-H cont.
-HijackThis
-HTTP Switchboard
-I
-Immunix
-Ipchains
-IPCop
-IPFire
-J
-Java Anon Proxy
-John the Ripper
-K
-Ksplice
-L
-Libgcrypt
-LibreSSL
-Libreswan
-Lsh
-Lynis
-M
-MatrixSSL
-Metasploit Project
-MyDLP
-N
-Nessus (software)
-Netfilter
-Nettle (cryptographic library)
-Nikto Web Scanner
-NoScript
-NotScripts
-NuFW
-O
-Off-the-Record Messaging
-Online Armor Personal Firewall
-Open Source Tripwire
-OpenConnect
-OpenDJ
-OpenDS
-OpenPAM
-OpenPuff
-OpenSSH
-OpenSSL
-O cont.
-Openswan
-OpenVAS
-OpenVPN
-Ophcrack
-OSSEC
-P
-PolarSSL
-Prey (software)
-Pwdump
-S
-Sagan (software)
-Selective file dumper
-The Sleuth Kit
-Snort (software)
-SSL-Explorer: Community Edition
-Stealthy
-Stockade (software)
-StrongSwan
-Stunnel
-Suricata (software)
-SystemRescueCD
-T
-TCP Wrapper
-TextSecure
-Thresh (software)
-TorChat
-U
-Uncomplicated Firewall
-UT-VPN
-V
-Dacloud.me
-VPNBook
-VTun
-Vyatta
-VyOS
-W
-W3af
-WarVOX
-X
-X-Wrt
-Z
-Zentyal
+        
+{"name": "ACARM-ng
+{"name": "Aircrack-ng
+{"name": "Tails (operating system)
+{"name": "Apache Shiro
+{"name": "Armitage (computing)
+{"name": "Arptables
+{"name": "Autopsy (software)
+{"name": "Bro (software)
+{"name": "Buck-security
+{"name": "Central Authentication Service
+{"name": "Chntpw
+{"name": "Clam AntiVirus
+{"name": "ClamWin
+{"name": "Cloudvpn
+{"name": "Cryptlib
+{"name": "Cryptmount
+{"name": "Cryptocat
+{"name": "DaveGrohl (software)
+{"name": "DenyHosts
+{"name": "Digital Forensics Framework
+{"name": "DiskCryptor
+{"name": "Distributed Access Control System
+{"name": "Dropbear (software)
+{"name": "DSploit
+{"name": "Fail2ban
+{"name": "FireHOL
+{"name": "FLAIM
+{"name": "FreeOTFE
+{"name": "FreeS/WAN
+{"name": "Gateway Anti-Virus
+{"name": "GnuTLS
+{"name": "Gpg4win
+{"name": "GPGTools
+{"name": "Hash Code cracker
+{"name": "HijackThis
+{"name": "HTTP Switchboard
+{"name": "Immunix
+{"name": "Ipchains
+{"name": "IPCop
+{"name": "IPFire
+{"name": "Java Anon Proxy
+{"name": "John the Ripper
+{"name": "Ksplice
+{"name": "Libgcrypt
+{"name": "LibreSSL
+{"name": "Libreswan
+{"name": "Lsh
+{"name": "Lynis
+{"name": "MatrixSSL
+{"name": "Metasploit Project
+{"name": "MyDLP
+{"name": "Nessus (software)
+{"name": "Netfilter
+{"name": "Nettle (cryptographic library)
+{"name": "Nikto Web Scanner
+{"name": "NoScript
+{"name": "NotScripts
+{"name": "NuFW
+{"name": "Off-the-Record Messaging
+{"name": "Online Armor Personal Firewall
+{"name": "Open Source Tripwire
+{"name": "OpenConnect
+{"name": "OpenDJ
+{"name": "OpenDS
+{"name": "OpenPAM
+{"name": "OpenPuff
+{"name": "OpenSSH
+{"name": "OpenSSL
+{"name": "Openswan
+{"name": "OpenVAS
+{"name": "OpenVPN
+{"name": "Ophcrack
+{"name": "OSSEC
+{"name": "PolarSSL
+{"name": "Prey (software)
+{"name": "Pwdump
+{"name": "Sagan (software)
+{"name": "Selective file dumper
+{"name": "The Sleuth Kit
+{"name": "Snort (software)
+{"name": "SSL-Explorer: Community Edition
+{"name": "Stealthy
+{"name": "Stockade (software)
+{"name": "StrongSwan
+{"name": "Stunnel
+{"name": "Suricata (software)
+{"name": "SystemRescueCD
+{"name": "TCP Wrapper
+{"name": "TextSecure
+{"name": "Thresh (software)
+{"name": "TorChat
+{"name": "Uncomplicated Firewall
+{"name": "UT-VPN
+{"name": "Dacloud.me
+{"name": "VPNBook
+{"name": "VTun
+{"name": "Vyatta
+{"name": "VyOS
+{"name": "W3af
+{"name": "WarVOX
+{"name": "X-Wrt
+{"name": "Zentyal
         }
       ]
     },
     {"name": "Theology", "children":
       [
         {"name": "Bible study tools"
-          BibleDesktop — For Cross-platform
-BibleTime — For Linux using KDE
-Go Bible — For Java Mobile Phones
-jSword — For Java
-MacSword — For Mac OS X
-Marcion — For Linux and Windows, using Qt UI Framework and embedded MySql server
-openlp.org — Worship presentation software for churches to display songs, bibles, movies etc.
-SwordBible — For Windows
-The SWORD Project for Windows — For Windows
-Xiphos The_SWORD_Project — For Linux using GNOME
+          {"name": "BibleDesktop — For Cross-platform
+{"name": "BibleTime — For Linux using KDE
+{"name": "Go Bible — For Java Mobile Phones
+{"name": "jSword — For Java
+{"name": "MacSword — For Mac OS X
+{"name": "Marcion — For Linux and Windows, using Qt UI Framework and embedded MySql server
+{"name": "openlp.org — Worship presentation software for churches to display songs, bibles, movies etc.
+{"name": "SwordBible — For Windows
+{"name": "The SWORD Project for Windows — For Windows
+{"name": "Xiphos The_SWORD_Project — For Linux using GNOME
         }
       ]
     },
     {"name": "Typesetting"
-      F
-FIGlet
-FreeType
-G
-Graphite (SIL)
-G cont.
-Groff (software)
-I
-IText
-L
-LaTeX
-L cont.
-Lout (software)
-S
-Scribus
-T
-Troff
+    
+{"name": "FIGlet
+{"name": "FreeType
+{"name": "Graphite (SIL)
+{"name": "Groff (software)
+{"name": "IText
+{"name": "LaTeX
+{"name": "Lout (software)
+{"name": "Scribus
+{"name": "Troff
     }
   ]
 }
