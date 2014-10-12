@@ -2087,7 +2087,7 @@
             },
             {"name": "Media player#Video players", "children":
                 [  
-                    {"name": "VLC"},
+                    {"name": "VLC media player"},
                     {"name": "Media Player Classic"}
                 ]
             },
