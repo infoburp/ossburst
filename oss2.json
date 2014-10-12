@@ -584,644 +584,529 @@
     {"name": "Networking and Internet", "children":
       [
         {"name": "Advertising", "children":
-      [
-          {"name": "OpenX
+          [
+            {"name": "OpenX"}
+          ]
         },
         {"name": "Communication-related", "children":
-      [
-          {"name": "Asterisk — Telephony and VoIP server
-{"name": "Ekiga — Video conferencing application for GNOME and Microsoft Windows
-{"name": "FreePBX — Front-end and advanced PBX configuration for Asterisk
-{"name": "FreeSWITCH — Telephony platform
-{"name": "Jitsi — Java VoIP and Instant Messaging client
-{"name": "QuteCom — Free Voice, Video and IM client application
-{"name": "Enterprise Communications System sipXecs — SIP Communications Server
-{"name": "Slrn — a newsreader
-{"name": "Twinkle — VOIP softphone
+          [
+            {"name": "Asterisk — Telephony and VoIP server"},
+            {"name": "Ekiga — Video conferencing application for GNOME and Microsoft Windows"},
+            {"name": "FreePBX — Front-end and advanced PBX configuration for Asterisk"},
+            {"name": "FreeSWITCH — Telephony platform"},
+            {"name": "Jitsi — Java VoIP and Instant Messaging client"},
+            {"name": "QuteCom — Free Voice, Video and IM client application"},
+            {"name": "Enterprise Communications System sipXecs — SIP Communications Server"},
+            {"name": "Slrn — a newsreader"},
+            {"name": "Twinkle — VOIP softphone"}
+          ]
         },
         {"name": "E-mail", "children":
-      [
-{"name": "AfterLogic WebMail Lite
-{"name": "Agorum core
-{"name": "Alpine (email client)
-{"name": "Amavis
-{"name": "Anti-Spam SMTP Proxy
-{"name": "Balsa (email client)
-{"name": "Bogofilter
-{"name": "Citadel/UX
-{"name": "Claws Mail
-{"name": "Cronos II
-{"name": "Dada Mail
-{"name": "DSPAM
-{"name": "Enigmail
-{"name": "Evolution (software)
-{"name": "Exim
-{"name": "Fetchmail
-{"name": "FreePOPs
-{"name": "FUDforum
-{"name": "Getmail
-{"name": "GNUMail
-{"name": "Gnus
-G cont.
-{"name": "Gnuzilla
-{"name": "GPGMail
-{"name": "Group-Office
-{"name": "GroupServer
-{"name": "Hula (software)
-{"name": "Hypermail
-{"name": "IlohaMail
-{"name": "Internet Messaging Program
-{"name": "K-9 Mail
-{"name": "Kolab
-{"name": "Libremail
-{"name": "MailScanner
-{"name": "Mailx
-{"name": "MH Message Handling System
-{"name": "MIMEDefang
-{"name": "Modest (email client)
-{"name": "Movemail
-{"name": "Mozilla Mail & Newsgroups
-{"name": "Mozilla Thunderbird
-{"name": "Mutt (email client)
-{"name": "NeoMail
-{"name": "OfflineIMAP
-{"name": "Open-Xchange
-{"name": "POPFile
-{"name": "Qpopper
-{"name": "Roundcube
-{"name": "Scalix
-{"name": "Smail
-{"name": "SpamAssassin
-{"name": "Spicebird
-{"name": "SquirrelMail
-{"name": "Sylpheed
-{"name": "Sympa
-{"name": "Trojitá
-{"name": "Uebimiau
-{"name": "UW IMAP
-{"name": "Vpopmail
-{"name": "Xuheki
-{"name": "YAM (Yet Another Mailer)
-{"name": "YPOPs!
-{"name": "Zarafa (software)
-{"name": "Zimbra
+          [
+            {"name": "AfterLogic WebMail Lite"},
+            {"name": "Agorum core"},
+            {"name": "Alpine (email client)"},
+            {"name": "Amavis"},
+            {"name": "Anti-Spam SMTP Proxy"},
+            {"name": "Balsa (email client)"},
+            {"name": "Bogofilter"},
+            {"name": "Citadel/UX"},
+            {"name": "Claws Mail"},
+            {"name": "Cronos II"},
+            {"name": "Dada Mail"},
+            {"name": "DSPAM"},
+            {"name": "Enigmail"},
+            {"name": "Evolution (software)"},
+            {"name": "Exim"},
+            {"name": "Fetchmail"},
+            {"name": "FreePOPs"},
+            {"name": "FUDforum"},
+            {"name": "Getmail"},
+            {"name": "GNUMail"},
+            {"name": "Gnus"},
+            {"name": "Gnuzilla"},
+            {"name": "GPGMail"},
+            {"name": "Group-Office"},
+            {"name": "GroupServer"},
+            {"name": "Hula (software)"},
+            {"name": "Hypermail"},
+            {"name": "IlohaMail"},
+            {"name": "Internet Messaging Program"},
+            {"name": "K-9 Mail"},
+            {"name": "Kolab"},
+            {"name": "Libremail"},
+            {"name": "MailScanner"},
+            {"name": "Mailx"},
+            {"name": "MH Message Handling System"},
+            {"name": "MIMEDefang"},
+            {"name": "Modest (email client)"},
+            {"name": "Movemail"},
+            {"name": "Mozilla Mail & Newsgroups"},
+            {"name": "Mozilla Thunderbird"},
+            {"name": "Mutt (email client)"},
+            {"name": "NeoMail"},
+            {"name": "OfflineIMAP"},
+            {"name": "Open-Xchange"},
+            {"name": "POPFile"},
+            {"name": "Qpopper"},
+            {"name": "Roundcube"},
+            {"name": "Scalix"},
+            {"name": "Smail"},
+            {"name": "SpamAssassin"},
+            {"name": "Spicebird"},
+            {"name": "SquirrelMail"},
+            {"name": "Sylpheed"},
+            {"name": "Sympa"},
+            {"name": "Trojitá"},
+            {"name": "Uebimiau
+            {"name": "UW IMAP"},
+            {"name": "Vpopmail"},
+            {"name": "Xuheki"},
+            {"name": "YAM (Yet Another Mailer)"},
+            {"name": "YPOPs!"},
+            {"name": "Zarafa (software)"},
+            {"name": "Zimbra"}
+          ]
         },
         {"name": "File transfer", "children":
-      [
-          C
-{"name": "CwRsync
-F
-{"name": "FileZilla
-{"name": "FreeNAS
-{"name": "Freenet
-I
-{"name": "Infinit
-M
-{"name": "Mnet (peer-to-peer network)
-N
-{"name": "NAS4Free
-O
-{"name": "Openfiler
-{"name": "OpenMediaVault
-P
-{"name": "ProFTPD
-{"name": "Pure-FTPd
-R
-{"name": "Rsync
-S
-{"name": "Samba (software)
-V
-{"name": "Vfs acl xattr
-{"name": "Vsftpd
-W
-{"name": "Waarp
-{"name": "WinSCP
-{"name": "WU-FTPD
+          [
+            {"name": "CwRsync"},
+            {"name": "FileZilla"},
+            {"name": "FreeNAS"},
+            {"name": "Freenet"},
+            {"name": "Infinit"},
+            {"name": "Mnet (peer-to-peer network)"},
+            {"name": "NAS4Free"},
+            {"name": "Openfiler"},
+            {"name": "OpenMediaVault"},
+            {"name": "ProFTPD"},
+            {"name": "Pure-FTPd"},
+            {"name": "Rsync"},
+            {"name": "Samba (software)"},
+            {"name": "Vfs acl xattr"},
+            {"name": "Vsftpd"},
+            {"name": "Waarp"},
+            {"name": "WinSCP"},
+            {"name": "WU-FTPD"}
+          ]
         },
         {"name": "Instant messaging", "children":
-      [
-          A
-{"name": "Adium
-{"name": "AMSN
-{"name": "Ayttm
-B
-{"name": "BitlBee
-{"name": "Bombus (software)
-{"name": "Bombusmod
-C
-{"name": "Centericq
-{"name": "Climm
-{"name": "Coccinella (software)
-{"name": "Cryptocat
-E
-{"name": "Ekiga
-{"name": "Emesene
-{"name": "Empathy (software)
-F
-{"name": "Fama IM
-{"name": "Finch (software)
-F cont.
-{"name": "Fire (instant messaging client)
-G
-{"name": "Gajim
-I
-{"name": "Instantbird
-J
-{"name": "JabberMixClient
-{"name": "Jimm
-{"name": "Jitsi
-K
-{"name": "Kadu (software)
-{"name": "Kopete
-M
-{"name": "Marabunta
-{"name": "Miranda IM
-N
-{"name": "Naim (software)
-P
-{"name": "Pidgin (software)
-{"name": "Profanity (instant messaging client)
-{"name": "Psi (instant messaging client)
-Q
-{"name": "QuteCom
-R
-{"name": "RetroShare
-S
-{"name": "SFLphone
-T
-{"name": "Tapioca (framework)
-{"name": "KDE Telepathy
-{"name": "Telepathy (software)
-{"name": "TextSecure
-{"name": "Tkabber
-{"name": "Tmsnc
-{"name": "TNT (instant messenger)
-{"name": "TorChat
-W
-{"name": "WASTE
-{"name": "Wengo
-Z
-{"name": "Zephyr (protocol)
+          [
+            {"name": "Adium"},
+            {"name": "AMSN"},
+            {"name": "Ayttm"},
+            {"name": "BitlBee"},
+            {"name": "Bombus (software)"},
+            {"name": "Bombusmod"},
+            {"name": "Centericq"},
+            {"name": "Climm"},
+            {"name": "Coccinella (software)"},
+            {"name": "Cryptocat"},
+            {"name": "Ekiga"},
+            {"name": "Emesene"},
+            {"name": "Empathy (software)"},
+            {"name": "Fama IM"},
+            {"name": "Finch (software)
+            {"name": "Fire (instant messaging client)"},
+            {"name": "Gajim"},
+            {"name": "Instantbird"},
+            {"name": "JabberMixClient"},
+            {"name": "Jimm"},
+            {"name": "Jitsi"},
+            {"name": "Kadu (software)"},
+            {"name": "Kopete"},
+            {"name": "Marabunta"},
+            {"name": "Miranda IM"},
+            {"name": "Naim (software)"},
+            {"name": "Pidgin (software)"},
+            {"name": "Profanity (instant messaging client)"},
+            {"name": "Psi (instant messaging client)"},
+            {"name": "QuteCom"},
+            {"name": "RetroShare"},
+            {"name": "SFLphone"},
+            {"name": "Tapioca (framework)"},
+            {"name": "KDE Telepathy"},
+            {"name": "Telepathy (software)"},
+            {"name": "TextSecure"},
+            {"name": "Tkabber"},
+            {"name": "Tmsnc"},
+            {"name": "TNT (instant messenger)"},
+            {"name": "TorChat"},
+            {"name": "WASTE"},
+            {"name": "Wengo"},
+            {"name": "Zephyr (protocol)"}
+          ]
         },
         {"name": "IRC Clients", "children":
-      [
-          
-{"name": "Ayttm
-B
-{"name": "Bersirc
-{"name": "BitchX
-C
-{"name": "Centericq
-{"name": "CGI:IRC
-{"name": "ChatZilla
-{"name": "Colloquy (software)
-E
-{"name": "Empathy (software)
-{"name": "ERC (software)
-F
-{"name": "Finch (software)
-{"name": "Fire (instant messaging client)
-H
-{"name": "HexChat
-I
-{"name": "Ii (IRC client)
-{"name": "Instantbird
-{"name": "IrcII
-{"name": "Irssi
-K
-{"name": "Konversation
-{"name": "Kopete
-{"name": "KVIrc
-L
-{"name": "LeafChat
-{"name": "LeetIRC
-M
-{"name": "Miranda IM
-N
-{"name": "Naim (software)
-{"name": "Nettalk (IRC client)
-O
-{"name": "Orion (IRC client)
-P
-{"name": "Pidgin (software)
-{"name": "PJIRC
-R
-{"name": "Rcirc
-S
-{"name": "Shareaza
-{"name": "Smuxi
-T
-{"name": "KDE Telepathy
-V
-{"name": "Visual IRC
-W
-{"name": "WeeChat
-{"name": "WLIrc
-X
-{"name": "XChat
+          [
+            {"name": "Ayttm"},
+            {"name": "Bersirc"},
+            {"name": "BitchX"},
+            {"name": "Centericq"},
+            {"name": "CGI:IRC"},
+            {"name": "ChatZilla"},
+            {"name": "Colloquy (software)"},
+            {"name": "Empathy (software)"},
+            {"name": "ERC (software)"},
+            {"name": "Finch (software)"},
+            {"name": "Fire (instant messaging client)"},
+            {"name": "HexChat"},
+            {"name": "Ii (IRC client)"},
+            {"name": "Instantbird"},
+            {"name": "IrcII"},
+            {"name": "Irssi"},
+            {"name": "Konversation"},
+            {"name": "Kopete"},
+            {"name": "KVIrc"},
+            {"name": "LeafChat"},
+            {"name": "LeetIRC"},
+            {"name": "Miranda IM"},
+            {"name": "Naim (software)"},
+            {"name": "Nettalk (IRC client)"},
+            {"name": "Orion (IRC client)"},
+            {"name": "Pidgin (software)"},
+            {"name": "PJIRC"},
+            {"name": "Rcirc"},
+            {"name": "Shareaza"},
+            {"name": "Smuxi"},
+            {"name": "KDE Telepathy"},
+            {"name": "Visual IRC"},
+            {"name": "WeeChat"},
+            {"name": "WLIrc"},
+            {"name": "XChat"}
+          ]
         },
         {"name": "Middleware", "children":
-      [
-          {"name": "Apache Axis2 — Web service framework (implementations are available in both Java & C)
-{"name": "Apache Geronimo
-{"name": "Bonita Open Solution(software) — a J2EE web application and java BPMN2 compliant engine
-{"name": "GlassFish Application Server
-{"name": "Jakarta Tomcat — a servlet container and standalone webserver
-{"name": "JBoss Application Server an application server
-{"name": "ObjectWeb JOnAS — Java Open Application Server, a J2EE application server
-{"name": "TAO (software) — C++ implementation of the OMG's CORBA standard
-
+          [
+            {"name": "Apache Axis2 — Web service framework (implementations are available in both Java & C)"},
+            {"name": "Apache Geronimo"},
+            {"name": "Bonita Open Solution(software) — a J2EE web application and java BPMN2 compliant engine"},
+            {"name": "GlassFish Application Server"},
+            {"name": "Jakarta Tomcat — a servlet container and standalone webserver"},
+            {"name": "JBoss Application Server an application server"},
+            {"name": "ObjectWeb JOnAS — Java Open Application Server, a J2EE application server"},
+            {"name": "TAO (software) — C++ implementation of the OMG's CORBA standard"}
+          ]
         },
         {"name": "RSS/Atom readers/aggregators", "children":
-      [
-          {"name": "Akregator — Platforms running KDE
-{"name": "Liferea — Platforms running GNOME
-{"name": "RSS Bandit — Windows - .NET
-{"name": "RSSOwl — Windows, Mac OS X, Solaris, Linux - Java SWT Eclipse
-{"name": "Sage (Mozilla Firefox extension)
+          [
+            {"name": "Akregator — Platforms running KDE"},
+            {"name": "Liferea — Platforms running GNOME"},
+            {"name": "RSS Bandit — Windows - .NET"},
+            {"name": "RSSOwl — Windows, Mac OS X, Solaris, Linux - Java SWT Eclipse"},
+            {"name": "Sage (Mozilla Firefox extension)"}
+          ]
         },
         {"name": "Peer-to-peer file sharing", "children":
-      [
-          A
-{"name": "AMule
-{"name": "Ares Galaxy
-C
-{"name": "Cabos
-D
-{"name": "DC++
-E
-{"name": "EMule
-F
-{"name": "FileScope
-{"name": "FlylinkDC++
-{"name": "FreeCast (software)
-{"name": "Freenet
-{"name": "FrostWire
-G
-{"name": "GiFT
-{"name": "GnucDNA
-{"name": "GNUnet
-{"name": "Gtk-gnutella
-I
-{"name": "IFolder
-{"name": "IMule
-J
-{"name": "JMule
-K
-{"name": "KCeasy
-{"name": "KMLDonkey
-L
-{"name": "LimeWire
-{"name": "LimeWire Pirate Edition
-M
-{"name": "Marabunta
-{"name": "MLDonkey
-{"name": "MorphXT
-P
-{"name": "PeerCast
-{"name": "Phex
-{"name": "Poisoned
-Q
-{"name": "QBittorrent
-R
-{"name": "RetroShare
-{"name": "RShare
-S
-{"name": "Shareaza
-{"name": "Sharelin
-{"name": "StealthNet
-T
-{"name": "Tahoe-LAFS
-{"name": "Tribler
-V
-{"name": "Valknut (software)
-{"name": "Virtuoso Universal Server
-W
-{"name": "WASTE
-X
-{"name": "XMule
-{"name": "Xtreme Mod
+          [
+            {"name": "AMule"},
+            {"name": "Ares Galaxy"},
+            {"name": "Cabos"},
+            {"name": "DC++"},
+            {"name": "EMule"},
+            {"name": "FileScope"},
+            {"name": "FlylinkDC++"},
+            {"name": "FreeCast (software)"},
+            {"name": "Freenet"},
+            {"name": "FrostWire"},
+            {"name": "GiFT"},
+            {"name": "GnucDNA"},
+            {"name": "GNUnet"},
+            {"name": "Gtk-gnutella"},
+            {"name": "IFolder"},
+            {"name": "IMule"},
+            {"name": "JMule"},
+            {"name": "KCeasy"},
+            {"name": "KMLDonkey"},
+            {"name": "LimeWire"},
+            {"name": "LimeWire Pirate Edition"},
+            {"name": "Marabunta"},
+            {"name": "MLDonkey"},
+            {"name": "MorphXT"},
+            {"name": "PeerCast"},
+            {"name": "Phex"},
+            {"name": "Poisoned"},
+            {"name": "QBittorrent"},
+            {"name": "RetroShare"},
+            {"name": "RShare"},
+            {"name": "Shareaza"},
+            {"name": "Sharelin"},
+            {"name": "StealthNet"},
+            {"name": "Tahoe-LAFS"},
+            {"name": "Tribler"},
+            {"name": "Valknut (software)"},
+            {"name": "Virtuoso Universal Server"},
+            {"name": "WASTE"},
+            {"name": "XMule"},
+            {"name": "Xtreme Mod"}
+          ]
         },
         {"name": "Portal Server", "children":
-      [
-          {"name": "Drupal
-{"name": "eXo Platform
-{"name": "Liferay
-{"name": "Oxwall — Community site software
-{"name": "Sun Java System Portal Server
-{"name": "uPortal
+          [
+            {"name": "Drupal"},
+            {"name": "eXo Platform"},
+            {"name": "Liferay"},
+            {"name": "Oxwall — Community site software"},
+            {"name": "Sun Java System Portal Server"},
+            {"name": "uPortal"},
+          ]
         },
         {"name": "Remote access and management", "children":
-      [
-          {"name": "FreeNX
-{"name": "OpenVPN
-{"name": "rdesktop
-{"name": "Synergy
-{"name": "VNC (RealVNC, TightVNC, UltraVNC)
-{"name": "FreeRDP
-{"name": "Remmina
-
+          [
+            {"name": "FreeNX"},
+            {"name": "OpenVPN"},
+            {"name": "rdesktop"},
+            {"name": "Synergy"},
+            {"name": "VNC (RealVNC, TightVNC, UltraVNC)"},
+            {"name": "FreeRDP"},
+            {"name": "Remmina"},
+          ]
         },
         {"name": "Routing software", "children":
-      [
-          B
-{"name": "Bird Internet routing daemon
-{"name": "BSD Router Project
-C
-{"name": "ClearOS
-{"name": "Coyote Linux
-F
-{"name": "Flash proxy
-{"name": "Fli4l
-{"name": "Floppyfw
-{"name": "FREESCO
-G
-{"name": "Gargoyle (router firmware)
-{"name": "GNU Zebra
-H
-{"name": "HyperWRT
-I
-{"name": "I2P
-{"name": "Intel Data Plane Development Kit
-I cont.
-{"name": "IPCop
-L
-{"name": "LEAF Project
-{"name": "LibreWRT
-{"name": "Linux Router Project
-{"name": "List of router and firewall distributions
-M
-{"name": "M0n0wall
-O
-{"name": "OpenAP
-{"name": "OpenBGPD
-{"name": "OpenOSPFD
-{"name": "OpenWrt
-P
-{"name": "PfSense
-Q
-{"name": "Quagga (software)
-{"name": "SmartRouter
-{"name": "SmoothWall
-{"name": "Stone (software)
-{"name": "Syndie
-T
-{"name": "Threenix
-{"name": "Turtle F2F
-V
-{"name": "Vyatta
-{"name": "VyOS
-W
-{"name": "WiFi-Box
-X
-{"name": "X-Wrt
-{"name": "XORP
-Z
-{"name": "Zentyal
-{"name": "Zeroshell
+          [
+            {"name": "Bird Internet routing daemon"},
+            {"name": "BSD Router Project"},
+            {"name": "ClearOS"},
+            {"name": "Coyote Linux"},
+            {"name": "Flash proxy"},
+            {"name": "Fli4l"},
+            {"name": "Floppyfw"},
+            {"name": "FREESCO"},
+            {"name": "Gargoyle (router firmware)"},
+            {"name": "GNU Zebra"},
+            {"name": "HyperWRT"},
+            {"name": "I2P"},
+            {"name": "Intel Data Plane Development Kit"},
+            {"name": "IPCop"},
+            {"name": "LEAF Project"},
+            {"name": "LibreWRT"},
+            {"name": "Linux Router Project"},
+            {"name": "List of router and firewall distributions"},
+            {"name": "M0n0wall"},
+            {"name": "OpenAP"},
+            {"name": "OpenBGPD"},
+            {"name": "OpenOSPFD"},
+            {"name": "OpenWrt"},
+            {"name": "PfSense"},
+            {"name": "Quagga (software)"},
+            {"name": "SmartRouter"},
+            {"name": "SmoothWall"},
+            {"name": "Stone (software)"},
+            {"name": "Syndie"},
+            {"name": "Threenix"},
+            {"name": "Turtle F2F"},
+            {"name": "Vyatta"},
+            {"name": "VyOS"},
+            {"name": "WiFi-Box"},
+            {"name": "X-Wrt"},
+            {"name": "XORP"},
+            {"name": "Zentyal"},
+            {"name": "Zeroshell"}
+          ]
         },
         {"name": "Web browsers", "children":
-      [
-          A
-{"name": "Abaco (web browser)
-{"name": "Amaya (web editor)
-{"name": "Arachne (web browser)
-{"name": "Arena (web browser)
-{"name": "Arora (web browser)
-{"name": "AWeb
-B
-{"name": "Beonex Communicator
-C
-{"name": "Camino
-Charon (web browser)
-Chromium (web browser)
-Classilla
-Conkeror
-Contiki
-D
-Dillo
-Dooble
-E
-ELinks
-F
-Firefox
-Flock (web browser)
-G
-Galeon
-Ghostzilla
-G cont.
-GNU IceCat
-Gnuzilla
-Grail (web browser)
-I
-Iceweasel
-J
-Java Embedding Plugin
-K
-K-Meleon
-Kazehakase
-Konqueror
-L
-Line Mode Browser
-Links (web browser)
-Lynx (web browser)
-M
-Midori (web browser)
-Minimo
-Mothra (web browser)
-Mozilla Corporation software rebranded by the Debian project
-N
-NetSurf
-Nightingale (software)
-O
-Origyn Web Browser
-P
-Pale Moon (web browser)
-Plucker
-Q
-QtWeb
-QupZilla
-R
-Rekonq
-S
-SeaMonkey
-Shiira
-Songbird (software)
-Surf (web browser)
-Swiftweasel
-T
-TenFourFox
-TkWWW
-U
-Uzbl
-W
-Emacs/W3
-W3m
-Waterfox
-Web (web browser)
-WorldWideWeb
-X
-X-Smiles
-Xombrero
+          [
+            {"name": "Abaco (web browser)"},
+            {"name": "Amaya (web editor)"},
+            {"name": "Arachne (web browser)"},
+            {"name": "Arena (web browser)"},
+            {"name": "Arora (web browser)"},
+            {"name": "AWeb"},
+            {"name": "Beonex Communicator"},
+            {"name": "Camino"},
+            {"name": "Charon (web browser)"},
+            {"name": "Chromium (web browser)"},
+            {"name": "Classilla"},
+            {"name": "Conkeror"},
+            {"name": "Contiki"},
+            {"name": "Dillo"},
+            {"name": "Dooble"},
+            {"name": "ELinks"},
+            {"name": "Firefox"},
+            {"name": "Flock (web browser)"},
+            {"name": "Galeon"},
+            {"name": "Ghostzilla"},
+            {"name": "GNU IceCat"},
+            {"name": "Gnuzilla"},
+            {"name": "Grail (web browser)"},
+            {"name": "Iceweasel"},
+            {"name": "Java Embedding Plugin"},
+            {"name": "K-Meleon"},
+            {"name": "Kazehakase"},
+            {"name": "Konqueror"},
+            {"name": "Line Mode Browser"},
+            {"name": "Links (web browser)"},
+            {"name": "Lynx (web browser)"},
+            {"name": "Midori (web browser)"},
+            {"name": "Minimo"},
+            {"name": "Mothra (web browser)"},
+            {"name": "Mozilla Corporation software rebranded by the Debian project"},
+            {"name": "NetSurf"},
+            {"name": "Nightingale (software)"},
+            {"name": "Origyn Web Browser"},
+            {"name": "Pale Moon (web browser)"},
+            {"name": "Plucker"},
+            {"name": "QtWeb"},
+            {"name": "QupZilla"},
+            {"name": "Rekonq"},
+            {"name": "SeaMonkey"},
+            {"name": "Shiira"},
+            {"name": "Songbird (software)"},
+            {"name": "Surf (web browser)"},
+            {"name": "Swiftweasel"},
+            {"name": "TenFourFox"},
+            {"name": "TkWWW"},
+            {"name": "Uzbl"},
+            {"name": "Emacs/W3"},
+            {"name": "W3m"},
+            {"name": "Waterfox"},
+            {"name": "Web (web browser)"},
+            {"name": "WorldWideWeb"},
+            {"name": "X-Smiles"},
+            {"name": "Xombrero"}
+          ]
         },
         {"name": "Webcam", "children":
-      [
-          Cheese
+          [
+            {"name": "Cheese"}
+          ]
         },
         {"name": "Webgrabber", "children":
-      [
-          cURL
-HTTrack
-Wget
+          [
+            {"name": "cURL"},
+            {"name": "HTTrack"},
+            {"name": "Wget"}
+          ]
         },
         {"name": "Web-related", "children":
-      [
-          Apache Cocoon — a web application framework
-Apache — the most popular web server
-AWStats — a log file parser and analyzer
-BookmarkSync — a tool for browsers
-Cherokee — Speedy, feature rich HTTP Server
-curl-loader — a powerful HTTP/HTTPS/FTP/FTPS loading and testing open-source tool
-Hiawatha — Secure, high performance and easy-to-configure HTTP Server
-HTTP File Server — a user friendly file server software with a drag and drop interface
-lighttpd — Resource sparing but also fast and full featured HTTP Server
-nginx — lightweight, high performance web server/reverse proxy and e-mail (IMAP/POP3) proxy
-NetKernel — an internet application server
-Piwik — a web analytics system
-Qcodo — a PHP5 framework
-Railo — CFML Application Server
-Squid (software) — web proxy cache
-XAMPP — a package of web applications including Apache and MySQL
-Zope — a web application server
+          [
+            {"name": "Apache Cocoon — a web application framework"},
+            {"name": "Apache — the most popular web server"},
+            {"name": "AWStats — a log file parser and analyzer"},
+            {"name": "BookmarkSync — a tool for browsers"},
+            {"name": "Cherokee — Speedy, feature rich HTTP Server"},
+            {"name": "curl-loader — a powerful HTTP/HTTPS/FTP/FTPS loading and testing open-source tool"},
+            {"name": "Hiawatha — Secure, high performance and easy-to-configure HTTP Server"},
+            {"name": "HTTP File Server — a user friendly file server software with a drag and drop interface"},
+            {"name": "lighttpd — Resource sparing but also fast and full featured HTTP Server"},
+            {"name": "nginx — lightweight, high performance web server/reverse proxy and e-mail (IMAP/POP3) proxy"},
+            {"name": "NetKernel — an internet application server"},
+            {"name": "Piwik — a web analytics system"},
+            {"name": "Qcodo — a PHP5 framework"},
+            {"name": "Railo — CFML Application Server"},
+            {"name": "Squid (software) — web proxy cache"},
+            {"name": "XAMPP — a package of web applications including Apache and MySQL"},
+            {"name": "Zope — a web application server"}
+          ]
         },
         {"name": "Other networking programs", "children":
-      [
-          JXplorer — a LDAP client
-OpenLDAP — a LDAP server
-openVXI — a VoiceXML interpreter
-YaCy — P2P-based search engine
+          [
+            {"name": "JXplorer — a LDAP client"},
+            {"name": "OpenLDAP — a LDAP server"},
+            {"name": "openVXI — a VoiceXML interpreter"},
+            {"name": "YaCy — P2P-based search engine"}
+          ]
         }
       ]
     },
     {"name": "Educational", "children":
       [
         {"name": "Educational suites", "children":
-      [
-          ATutor — a web-based Learning Content Management System (LCMS)
-Chamilo — a web-based e-learning and content management system
-DoceboLMS
-eFront — an icon-based learning management system
-FlightPath - academic advising software for universities
-GCompris
-Gnaural — Brainwave entrainment software
-IUP Portfolio
-ILIAS — a web-based learning management system (LMS)
-Moodle
-Omeka
-openSIS — a web-based Student Information and School Management system
-Sakai Project — a web-based learning management system
-SWAD - a web-based learning management system
-Tux Paint — a paint application for 3–12 year olds
+          [
+            {"name": "ATutor — a web-based Learning Content Management System (LCMS)"},
+            {"name": "Chamilo — a web-based e-learning and content management system"},
+            {"name": "DoceboLMS"},
+            {"name": "eFront — an icon-based learning management system"},
+            {"name": "FlightPath - academic advising software for universities"},
+            {"name": "GCompris"},
+            {"name": "Gnaural — Brainwave entrainment software"},
+            {"name": "IUP Portfolio"},
+            {"name": "ILIAS — a web-based learning management system (LMS)"},
+            {"name": "Moodle"},
+            {"name": "Omeka"},
+            {"name": "openSIS — a web-based Student Information and School Management system"},
+            {"name": "Sakai Project — a web-based learning management system"},
+            {"name": "SWAD - a web-based learning management system"},
+            {"name": "Tux Paint — a paint application for 3–12 year olds"}
+          ]
         },
         {"name": "Geography", "children":
-      [
-          KGeography
+          [
+            {"name": "KGeography"}
+          ]
         },
         {"name": "Learning support", "children":
-      [
-          C
-Chamilo
-E
-Edu-sharing
-ELML
-F
-Fle3
-F cont.
-FlightPath (software)
-G
-GCompris
-L
-LAMS
-LON-CAPA
-M
-Moodle
-S
-SWAD (software)
-T
-TCExam
-X
-XBlock
+          [
+            {"name": "Chamilo"},
+            {"name": "Edu-sharing"},
+            {"name": "ELML"},
+            {"name": "Fle3"},
+            {"name": "FlightPath (software)"},
+            {"name": "GCompris"},
+            {"name": "LAMS"},
+            {"name": "LON-CAPA"},
+            {"name": "Moodle"},
+            {"name": "SWAD (software)"},
+            {"name": "TCExam"},
+            {"name": "XBlock"}
+          ]
         },
         {"name": "Language", "children":
-      [
-          Kiten
-KVerbos
+          [
+            {"name": "Kiten"},
+            {"name": "KVerbos"}
+          ]
         },
         {"name": "Typing", "children":
-      [
-          KTouch
-Tux Typing
+          [
+            {"name": "KTouch"},
+            {"name": "Tux Typing"}
+          ]
         },
         {"name": "Other educational programs", "children":
-      [
-          KEduca
+          [
+            {"name": "KEduca"}
+          ]
         }
       ]
     },
     {"name": "File managers", "children":
       [
-      7
-7-Zip
-A
-Advanced Renamer
-Wikipedia talk:Articles for creation/Double Commander
-B
-B1 Free Archiver
-D
-Dired
-Dolphin (file manager)
-DOS Navigator
-E
-EmelFM2
-F
-Far Manager
-File System Visualizer
-G
-Gentoo (file manager)
-GNOME Commander
-G cont.
-GPRename
-K
-KGB Archiver
-Konqueror
-KRename
-Krusader
-M
-Métamorphose (renamer)
-Midnight Commander
-Mtools
-MuCommander
-N
-GNOME Files
-Nemo (file manager)
-O
-OpenTracker
-P
-PCMan File Manager
-PeaZip
-R
-Ranger (file manager)
-ROX Desktop
-S
-SpaceFM
-T
-Thunar
-Tkdesk
-Tracker (file manager)
-X
-Xfe
-Xfm (file manager)
-Xnc
+        {"name": "7-Zip"},
+        {"name": "Advanced Renamer"},
+        {"name": "B1 Free Archiver"},
+        {"name": "Dired"},
+        {"name": "Dolphin (file manager)"},
+        {"name": "DOS Navigator"},
+        {"name": "EmelFM2"},
+        {"name": "Far Manager"},
+        {"name": "File System Visualizer"},
+        {"name": "Gentoo (file manager)"},
+        {"name": "GNOME Commander"},
+        {"name": "GPRename"},
+        {"name": "KGB Archiver"},
+        {"name": "Konqueror"},
+        {"name": "KRename"},
+        {"name": "Krusader"},
+        {"name": "Métamorphose (renamer)"},
+        {"name": "Midnight Commander"},
+        {"name": "Mtools"},
+        {"name": "MuCommander"},
+        {"name": "GNOME Files"},
+        {"name": "Nemo (file manager)"},
+        {"name": "OpenTracker"},
+        {"name": "PCMan File Manager"},
+        {"name": "PeaZip"},
+        {"name": "Ranger (file manager)"},
+        {"name": "ROX Desktop"},
+        {"name": "SpaceFM"},
+        {"name": "Thunar"},
+        {"name": "Tkdesk"},
+        {"name": "Tracker (file manager)"},
+        {"name": "Xfe"},
+        {"name": "Xfm (file manager)"},
+        {"name": "Xnc"}
+      ]
     },
     {"name": "Games", "children":
       [
@@ -1230,157 +1115,157 @@ Xnc
             {"name": "WINE"}
           ]
         },
-        {"name": "0 A.D.	2010	2014	RTS	GPLv2	CC-BY-SA	3D	Historical, cross-platform RTS, using an original engine named Pyrogenesis. Game source-code released July 10, 2009.[1]
-{"name": "2048	2014	2014	Puzzle	MIT	MIT	2D	A popular sliding block puzzle game.
-{"name": "Advanced Strategic Command	1999	2013	TBТ	GPL	GPL	2D	Turn-based tactical war game, clone of Battle Isle and Nectaris.
-{"name": "Andy's Super Great Park	2012	2013	Shoot'em up	GPLv2	CC-by-sa	?	
-{"name": "Adventure	1976		Text adventure	Public domain[2]	Public domain	Text	The original text adventure game by Crowther / Woods.
-{"name": "Ancient Beast	2012	2013	TBТ	AGPL	CC-BY-SA	?	Turn based tactical strategy browser game played against other people. Inspired by HoMM3.
-{"name": "Angband	1990	2012	Roguelike	GPL	GPL	Text	
-{"name": "Ardentryst	2009	2009	2D side-scrolling	GPL[3]	GPL	?	An action/RPG side-scroller focused not just on fighting, but on story and character development. Strategy as well as reflexes will be needed to overcome the game. The game is set in another world.
-{"name": "Armagetron Advanced	2001	2011	Racing	GPL	GPL	3D	A multiplayer, 3D Tron lightcycle racing game.
-{"name": "AstroMenace	2007	2012	Arcade	GPL	GPL	3D	A top-scrolling space shooter.
-{"name": "Battle for Wesnoth	2005	2013	TBТ	GPL	GPL	2D	Turn-based tactical strategy game with RPG elements. Includes single-player campaign and skirmish modes as well as multiplayer.
-{"name": "Battle City	2003	2013	Vehicular combat game	GPL	GPL	?	An online multiplayer game starting by either building a city or applying for a job in a city built by someone else. The objective is to defend the city meanwhile attempting to destroy the enemy cities. Game source released on December 12, 2003. Programmed in C/C++ using DirectX.
-{"name": "Beyond the Titanic	1986		Text adventure	GPL	GPL	Text	Game source released on March 20, 2009.
-{"name": "Biniax	2005	2012	Puzzle	Zlib License	Zlib License	2D	
-{"name": "Bitfighter	2008	2014	Arcade	GPLv2	GPLv2	2D	Spaced-based multi-player shooter with fast, arcade-like action. Descendant of Zap! by Garage Games.[4]
-{"name": "Blades of Exile	1997	2011	RPG	GPL	GPL	2D	Was originally a commercial product of Spiderweb Software.
-{"name": "Blob Wars: Blob And Conquer	2008	2009	Action-adventure	GPLv2	GPLv2, cc-by-sa, other open source	3D	3D sequel to Blob Wars: Metal Blob Solid.
-{"name": "Blob Wars: Metal Blob Solid	2003	2009	Platformer	GPL	GPL	2D
-{"name": "BomberClone	2010	2010	Action	GPL	GPL	2D	Clone of Atomic Bomberman. - Homepage
-{"name": "Bombermaaan	2007	2008	Action	GPL	GPL	2D	Clone of Bomberman. - Homepage
-{"name": "Bos Wars	2004	2013	RTS	GPL	GPL	Isometric 2D	2D RTS running on a modified version of the Stratagus engine.
-{"name": "British Bingo	2011	2012	Card	GPL	GPL	?	Uses 9x3 boards.
-{"name": "BZFlag	1997	2012	Tank FPS	LGPL	LGPL	?	
-{"name": "Cataclysm: Dark Days Ahead	2013	2013	RPG/Roguelike	CC-BY-SA	CC-BY-SA	?	A post-apocalyptic, survival roguelike with an open-ended gameplay. Had a successful crowdfunding campaign on kickstarter.com in 22 June 2013.[5] Homepage
-{"name": "Chaotic Rage	2010	2014	TPS	GPLv2	GPLv2	3D	Originally a 2D top-view shooter, now 3D using OpenGL.[6]
-{"name": "Cheeseman the Game	2013	2013	Platformer	GPL	GPL	?	2D platformer based on SuperTux.
-{"name": "Chocolate Doom	2005	2012	FPS	GPL	GPL	?	Chocolate Doom is a source port of Doom that is designed to behave as closely as possible to the original DOS executable
-{"name": "Crack Attack	2002	2002	Puzzle	GPL	GPL	?	Puzzle game similar to the Super Nintendo classic game Tetris Attack.[7][8] — Homepage
-{"name": "Crimson Fields[9]	2006	2009	TBТ	GPL	GPL	?	Tactical war game in the tradition of Battle Isle.
-{"name": "Chromium B.S.U.	2000	2010	Arcade	Artistic	Artistic[10]	?	A fast paced, arcade-style, top-scrolling space shooter
-{"name": "Crossfire	1992	2012	MMORPG	GPL	GPL	?	Crossfire originally started as a Gauntlet clone[11] developed by Frank Tore Johansen at the University of Oslo, Norway.[12]
-{"name": "Dead Meat	2001	2001	Action	GPL	GPL	?	Clone of Bomberman. — Homepage
-{"name": "Doolfy's Brain Surgery	2001	2011	RPG	GPL[13]	GPL	?	A surgery based photography game.
-{"name": "Dungeon Crawl Stone Soup	2006	2013	Roguelike	GPL	CC0	?	An open-source fork of the 1997 game Linley's Dungeon Crawl.
-{"name": "Eat The Whistle	1998	2008	Simulation	GPLv2	GPLv2	?	A football simulation game. Released under the GPL in 2002.
-{"name": "Emilia Pinball	2000	2004	Pinball	GPLv2	GPLv2	3D	A pinball simulation game.
-{"name": "Enigma	2003	2013	Puzzle	GPL	GPL	?	Oxyd clone.
-{"name": "Epic Inventor	2013	2013	Platformer	GPL	GPL	2D	Sandbox Patform Game. Like Minecraft
-{"name": "Fish Fillets NG	2004	2010	Puzzle	GPL	GPL	?	Released commercially as Fish Fillets in 1998. Source released in 2002 under the GPL.
-{"name": "FLARE	2010	2013	Action RPG	GPL	GPL and CC-BY-SA 3.0	?	Hack and slash inspired by Diablo.
-{"name": "FlightGear	1997	2014	Flight Sim	GPL	GPL	3D	Microsoft Flight Simulator inspired clone.
-{"name": "Freeciv	1996	2014	TBS	GPL	GPL	Isometric 2D	Civilization II clone.
-{"name": "FreeCol	2003	2013	TBS	GPL	GPL	Isometric 2D	Sid Meier's Colonization clone.
-{"name": "Freedoom	1993 (2001)	2014	FPS	BSD	BSD[14]	?	Doom content/resource clone.
-{"name": "Freedroid	2008	2011	RPG	GPL	GPL	Isometric 2D	Two games:
-{"name": "1. FreedroidRPG - FreedroidRPG is an isometric role playing game.
-{"name": "2. FreedroidClassic - FreedroidClassic is a clone of the game "Paradroid" which was released on Commodore 64 in 1985.
-{"name": "FreeOrion	2004	2014	TBТ	GPL	GPL	?	Master of Orion Clone. Community-developed 4X turn-based galactic empire strategy game with interactive 3D combat.
-{"name": "FreeVial	2008	2013	Quiz	GPL	GPL	?	Trivial Pursuit Clone.
-{"name": "Frets on Fire	2006	2008	Music	GPL	GPL	3D	Guitar Hero clone.
-{"name": "Frets on Fire X	2008	2009	Music	GPLv2	GPLv2	3D	Frets on Fire fork.
-{"name": "Frozen Bubble	2002	2008	Puzzle	GPLv2	GPLv2	2D	Puzzle Bobble clone.
-{"name": "Gang Garrison 2	2008	2010	Shooter	GPL	GPL	?	A retro "demake" of Team Fortress 2.
-{"name": "Glest	2004	2008	RTS	GPL	CC-BY-SA	3D	3D RTS game with two factions, A.I. and same-platform networking support. Development ceased in 2008. Two forks exist, named MegaGlest and Glest Advanced Engine.
-{"name": "Globulation 2	2008	2009	RTS	GPLv3	GPLv3	2D	Currently[when?] in open beta.
-{"name": "GLtron	2003	2003	Racing	GPL	GPL	3D	Based on the light cycle portion of the film Tron.
-{"name": "GNOME Games	1998	2010	Various	GPL	GPL	?	A collection of games accompanying the rest of the GNOME desktop environment.
-{"name": "GNU Chess	1984	2011	TBS	GPL	GPL	2D	
-{"name": "GNU FreeDink	1997	2012	RPG	GPLv3	zlib, other free licenses[15]	?	Port from the Dink Smallwood game with free sound replacements
-{"name": "GNU Go	1999	2009	TBS	GPL	GPL	?	
-{"name": "Green Mahjong	2014 [16]	2014	Puzzle	GPLv3	CC-BY-NC-SA	2D	Solitaire Mahjong
-{"name": "Gunroar	2004[17]		FPS	Simplified BSD	Simplified BSD	?	A futuristic vertical shooter.
-{"name": "Gusanos	2004	2005	Shoot 'em up	GPL	GPL	?	Clone of Liero.
-{"name": "Haxima/Nazghul	2004	2010	Roguelike	GPLv3	GPLv3	2D	Ultima-like game engine (2D tile graphics) and game. Homepage
-{"name": "Hedgewars	2007	2014	Artillery game	GPLv2	GPLv2	2D	Worms clone.
-{"name": "Iter Vehemens ad Necem	2001	2005	roguelike dungeon crawler[18]	GPLv2[19]	GPLv2	?	One of the game's specialties is the body parts system: the player can lose and regain limbs which have individual health points and strength.
-{"name": "KDEGames	1997[20] 1998[21]	2009	Various*	GPLv2	GPLv2		*Collection of games provided with the official release of KDE.
-{"name": "Kernel Panic			RTS	GPL	GPL	?	Real time strategy game powered by the Spring engine.
-{"name": "Kiki the nano bot	2003	2007	Puzzle	Public domain	Public domain	?	Mixture of Sokoban and Kula World.
-{"name": "Kobo Deluxe	1995	2007	Shoot'em up	GPL	GPL	?	An enhanced version of the scrolling game XKobo.
-{"name": "Kroz	1987		Maze	GPL	GPL	?	Game source released on March 20, 2009.
-{"name": "The Legend of Edgar	2009	2014	2D platform game	GPL	various	2D	A 2D platform game with a persistent world.
-{"name": "Lincity	1999	2004	City-building game	GPL	GPL	?	SimCity clone.
-{"name": "LinCity-NG	2005	2009	City-building game	GPL	GPL	?	Lincity fork.
-{"name": "Linley's Dungeon Crawl	1997	2005	Roguelike	LGPL	LGPL	?	Roguelike game.
-{"name": "Liquid War	1995	2008	Maze games	GPL	GPL	2D	2D game in which you control particles and move them to defeat the opposing side.
-{"name": "M.A.X.R. (Mechanized Assault and eXploration Reloaded)	2007	2012	TBS	GPL	GPL and GFDL	?	Remake of M.A.X.
-{"name": "The Mana World	2004	2014	MMORPG	GPL	CC-BY-SA, GPL	2D	The Mana World (TMW) is a serious effort to create an innovative free and open source MMORPG. Art & Content are done in a 16-bit style reminiscent of early RPGS from the 90's.
-{"name": "MegaGlest	2010	2014	RTS	GPL	CC-BY-SA	3D	Cross-platform 3D RTS for up to eight players (can be A.I. controlled) on seven factions. MegaGlest is a fork of Glest.
-{"name": "MegaMek	2005	2009	TBТ	GPL	GPL	?	Simulates the Classic BattleTech board game.
-{"name": "Micropolis	1989 (as SimCity)
-{"name": "2008 (as Micropolis)	2008	City-building game	GPLv3[22]	GPLv3	?	Open-source release of SimCity. Also known as OLPC SimCity.[23]
-{"name": "Microwar	2000	2009	Arcade	BSD	BSD	?	A 'Space Invaders' style arcade game, in the cruel world of micro-computer industry.
-{"name": "Minetest	2010	2014	First-person, sandbox	LGPL	LGPL	3D	An infinite-world block sandbox game and a game engine, inspired by Minecraft and similar games. - Homepage
-{"name": "Moria	1983	1999	RPG/Roguelike	GPL[24]	GPL	2D	
-{"name": "NetHack	1987	2003	RPG/Roguelike	Nethack GPL	Nethack GPL	Text	
-{"name": "Netrek	1988	2011	Shoot 'em up	MIT	MIT	2D	Successor to 1986's Xtrek, Netrek was first played in 1988. It was the third Internet game, the first Internet team game, and as of 2011 is the oldest Internet game still actively played.
-{"name": "Neverball	2005	2009	Platformer	GPL	GPL	3D	Also includes additional game Neverputt.
-{"name": "Nexuiz	2005	2009	FPS	GPL	GPL	3D	Forked into Xonotic following a commercial licensing agreement by a minority of the development team.
-{"name": "Oolite	2006	2014	Space Sim	GPLv2	GPLv2	3D	Elite Clone
-{"name": "OpenArena	2005	2012	FPS	GPLv2	GPLv2	3D	Quake III Clone
-{"name": "OpenClonk	2010	2014	Action, RTS, Platform	ISC	CC-BY	2D	Successor of the Clonk shareware series
-{"name": "OpenCity	2003	2008	City-building game	GPL	GPL	3D	SimCity Clone.
-{"name": "Omega	2008	2014	Space RTS	AGPL	GPL	3D	Universe Simulator / Space Engine / inspired by Homeworld series — Project
-{"name": "OpenHexagon	2013	2013	Arcade	AFL 3.0[25]	AFL 3.0	?	Super Hexagon Clone.[26]
-{"name": "OpenTTD	2005	2014	Business Sim	GPLv2	GPLv2	2D	An open-source clone of 'Transport Tycoon Deluxe'
-{"name": "Paintown	2005	2013	fighting	BSD	CC and Public Domain	2D	Clone of M.U.G.E.N game engine that allows the creation of fighting games with little or no programming experience.
-{"name": "Pathological	2003	2003	Puzzle	GPL	GPL	2D	Inspired by Logical by Rainbow Arts.
-{"name": "Paku paku	2011	2011	Arcade game	Public Domain	Public Domain	?	Authentic Pac Man clone, uses a CGA 160x100x16 mode, released as Public domain.[27]
-{"name": "Pingus	1998	2011	Puzzle	GPL	GPL	2D	Lemmings clone.
-{"name": "Pioneer	2006	2014	Space sim	GPLv3	CC-BY-SA	3D	Inspired by Frontier: Elite 2
-{"name": "PokerTH	2006	2014	Card	GPL	GPL	2D	
-{"name": "PySol	2001[28]	2009	Card games, Patience	GPLv3	Public domain and GPLv3	2D	
-{"name": "Red Eclipse	2011	2014	FPS	zlib	CC-BY-SA / CC-BY [29]	3D	Cube 2: Sauerbraten engine.
-{"name": "Rigs of Rods	2007	2012	Vehicle Sim	GPLv3	GPLv3	3D	Rigs of Rods was initially created as an off-road truck simulator, but has developed into a versatile physics sandbox.
-{"name": "Rocks'n'Diamonds	1995		Puzzle	GPLv2	GPLv2	2D	A scrolling tile-based computer puzzle game that can be described as a combined Boulder Dash, Supaplex, Emerald Mine, and Sokoban clone.
-{"name": "Ryzom	2004	2010	MMORPG	AGPL	CC-BY-SA	3D	All textures and effects, 3D models, animations, characters and clothing (no music or sounds) are under CC-BY-SA.
-{"name": "Scorched 3D	2001	2012	Artillery game	GPL	GPL	3D	Clone of Scorched Earth (video game)
-{"name": "Secret Maryo Chronicles	2003	2009	Platformer	GPLv3	GPLv3	2D	2D platformer inspired by the Super Mario series.
-{"name": "Sintel The Game	2012	2012	RPG	GPL	CC-BY, GPL	3D	A game based on the Blender Foundation movie, Sintel.
-{"name": "Simutrans	1997	2013	Business Sim	Artistic	Artistic	2D	Similar to Transport Tycoon and its open-source clone, OpenTTD. The player must build a profitable transportation system.
-{"name": "Smash Battle	2008	2009	Platformer	GPLv3	CC	2D	Smash Battle is a Retro 8-bit style platform shooter, inspired by the battle mini-game from Super Mario Bros. 3.[30]
-{"name": "StepMania	2005(?)	2013	Rhythm game	MIT[31]	MIT	2D and 3D	A DDR clone, the player must hit buttons or keys in time with the music.
-{"name": "Sokoban	1982	2006	Transport Puzzle	GPL	GPL	2D	A puzzle game in which the player pushes boxes around in a room, trying to get them to specific locations. Clones: Sokoban YASC - JSoko
-{"name": "Solarwolf			Arcade	LGPL	LGPL	2D	Clone of Solar Fox for the Atari 2600. A 2-D action game where the player must collect the blocks on every level while avoiding various obstacles.
-{"name": "Sopwith	1984		Shoot 'em up	GPL	GPL	?	The C and x86 assembly source code to Sopwith was released in 2000,[32] at first under a non-commercial use license, but later under the GNU GPL at the request of fans.[33]
-{"name": "Space Station 13	2003	2013	RPG	GPLv3+	CC-BY-SA	2D	A multiplayer, 2D, sprite and tile based role playing game.
-{"name": "SpaceZero	2010	2013	RTS	GPLv3+	GPLv3+	2D	A 2D Real Time Strategy space combat game.
-{"name": "Speed Dreams	2010	2012	Sim racing	GPLv2+	FAL	?	Forked from TORCS in late 2008.
-{"name": "Supernova	1987		Text adventure	GPL	GPL	?	Game source released on March 20, 2009.
-{"name": "SuperTux	2003	2013	Platformer	GPL	GPL	2D	2D platformer inspired by the Super Mario series.
-{"name": "SuperTuxKart	2006	2013	Racing	GPL	GPL	3D	Arcade racing game similar to Mario Kart.
-{"name": "Teeworlds	2007	2013	Platformer	zlib	CC-BY-SA 3.0 (except font)	2D	2D side-scrolling shooter.
-{"name": "Tenés Empanadas Graciela	1996		TBS	GPLv2	GPLv2	?	Based on the boardgame Risk.
-{"name": "The Bub's Brothers	2003	2007	Platformer	MIT	MIT	?	Bubble Bobble clone
-{"name": "Thousand Parsec	2002	2009	TBS	GPL, LGPL		?	Framework/Engine for turn based space empire building games.
-{"name": "Tile World	2002	2006	Puzzle	GPL	GPL	?	Clone of Chip's Challenge
-{"name": "Torus Trooper	2004	2004	Scroller	BSD	BSD		A fast paced shoot-em-up with wireframe graphics.
-{"name": "TORCS	1997	2013	Racing	GPL	Free Art License / Proprietary	3D	Some car models are non-free, but there is a DFSG-compliant version which doesn't include them.
-{"name": "Tremulous	2006	2009	FPS	GPL	CC-BY-SA[34]	3D	Alien VS human base building, defending, and attacking opposite team.
-{"name": "TripleA	2002	2013	TBS	GPL	GPL	2D	A turn based strategy game inspired by Axis & Allies and board game engine. Development is ongoing.
-{"name": "Tux Racer	2000	2009	Racing	GPL	GPL	3D	
-{"name": "Tux, of Math Command	2001	2011	Educational game	GPL	GPL		2D
-{"name": "UFO: Alien Invasion	2006	2014	TBТ	GPL	GPL, CC BY-SA	3D	Inspired by the XCOM-series, but with 3D-combats on surface of the earth.
-{"name": "UltraStar Deluxe	2007	2010	Music	GPL	GPL, CC	2D	SingStar clone.
-{"name": "Unknown Horizons	2008	2013	City-building game	GPL	GPL, CC, OFL	Isometric 2D	Genre-mix of city-building game and real-time strategy game, inspired by the Anno series.
-{"name": "Unvanquished	2012	2014	FPS	GPL	CC-BY-SA	?	Team-based first person shooter with strong RTS elements, derived from the Tremulous project. - Homepage
-{"name": "Vega Strike	2008	2012	Space Sim	GPL	GPL	3D	Elite clone and space simulator engine.
-{"name": "VoltAir	2014	2014	Platformer	Apache License	Apache License	2D	Single and local multiplayer mobile game built on Qt and LiquidFun.
-{"name": "WarMUX	2002	2010	Artillery game	GPL	GPL	2D	Worms clone.
-{"name": "Warzone 2100	?	?	RTS	GPLv2	CC-BY-SA	3D	?
-{"name": "Widelands	2002	2014	RTS	GPL	GPL	?	Widelands is a RTS clone of The Settlers II.
-{"name": "Word Whiz	1988		Educational game	GPL	GPL	?	Game source released on March 20, 2009.
-{"name": "WorldForge	1998	2011	MMORPG	GPL	GPL	3D	An open-source framework for massively multiplayer online role-playing games. Homepage
-{"name": "Xbattle	1991	1996	RTS	Custom copyleft.[35]		2D	
-{"name": "Xconq	1987	2005	TBS	GPL	GPL	?	4X strategy game engine.
-{"name": "XEvil	1994	2003	Platformer	GPL		2D	Fast paced side-scrolling action game.
-{"name": "Xonotic	2010	2013	FPS	GPL	GPL	3D	A fork and direct successor of the game Nexuiz.
-{"name": "XPilot	1992		Arcade	GPL	GPL	2D	A multiplayer Asteroids-like game.
-{"name": "X-Moto	2005	2012	Platformer	GPL	GPL	2D	Elasto Mania Clone.
-{"name": "Yo Frankie!	2008		Action-adventure	GPL/LGPL	CC-BY 3.0	3D	
+        {"name": "0 A.D.	2010	2014	RTS	GPLv2	CC-BY-SA	3D	Historical, cross-platform RTS, using an original engine named Pyrogenesis. Game source-code released July 10, 2009.[1]"},
+        {"name": "2048	2014	2014	Puzzle	MIT	MIT	2D	A popular sliding block puzzle game."},
+        {"name": "Advanced Strategic Command	1999	2013	TBТ	GPL	GPL	2D	Turn-based tactical war game, clone of Battle Isle and Nectaris."},
+        {"name": "Andy's Super Great Park	2012	2013	Shoot'em up	GPLv2	CC-by-sa	?	"},
+        {"name": "Adventure	1976		Text adventure	Public domain[2]	Public domain	Text	The original text adventure game by Crowther / Woods."},
+        {"name": "Ancient Beast	2012	2013	TBТ	AGPL	CC-BY-SA	?	Turn based tactical strategy browser game played against other people. Inspired by HoMM3."},
+        {"name": "Angband	1990	2012	Roguelike	GPL	GPL	Text	"},
+        {"name": "Ardentryst	2009	2009	2D side-scrolling	GPL[3]	GPL	?	An action/RPG side-scroller focused not just on fighting, but on story and character development. Strategy as well as reflexes will be needed to overcome the game. The game is set in another world."},
+        {"name": "Armagetron Advanced	2001	2011	Racing	GPL	GPL	3D	A multiplayer, 3D Tron lightcycle racing game."},
+        {"name": "AstroMenace	2007	2012	Arcade	GPL	GPL	3D	A top-scrolling space shooter."},
+        {"name": "Battle for Wesnoth	2005	2013	TBТ	GPL	GPL	2D	Turn-based tactical strategy game with RPG elements. Includes single-player campaign and skirmish modes as well as multiplayer."},
+        {"name": "Battle City	2003	2013	Vehicular combat game	GPL	GPL	?	An online multiplayer game starting by either building a city or applying for a job in a city built by someone else. The objective is to defend the city meanwhile attempting to destroy the enemy cities. Game source released on December 12, 2003. Programmed in C/C++ using DirectX."},
+        {"name": "Beyond the Titanic	1986		Text adventure	GPL	GPL	Text	Game source released on March 20, 2009."},
+        {"name": "Biniax	2005	2012	Puzzle	Zlib License	Zlib License	2D	"},
+        {"name": "Bitfighter	2008	2014	Arcade	GPLv2	GPLv2	2D	Spaced-based multi-player shooter with fast, arcade-like action. Descendant of Zap! by Garage Games.[4]"},
+        {"name": "Blades of Exile	1997	2011	RPG	GPL	GPL	2D	Was originally a commercial product of Spiderweb Software."},
+        {"name": "Blob Wars: Blob And Conquer	2008	2009	Action-adventure	GPLv2	GPLv2, cc-by-sa, other open source	3D	3D sequel to Blob Wars: Metal Blob Solid."},
+        {"name": "Blob Wars: Metal Blob Solid	2003	2009	Platformer	GPL	GPL	2D"},
+        {"name": "BomberClone	2010	2010	Action	GPL	GPL	2D	Clone of Atomic Bomberman. - Homepage"},
+        {"name": "Bombermaaan	2007	2008	Action	GPL	GPL	2D	Clone of Bomberman. - Homepage"},
+        {"name": "Bos Wars	2004	2013	RTS	GPL	GPL	Isometric 2D	2D RTS running on a modified version of the Stratagus engine."},
+        {"name": "British Bingo	2011	2012	Card	GPL	GPL	?	Uses 9x3 boards."},
+        {"name": "BZFlag	1997	2012	Tank FPS	LGPL	LGPL	?	"},
+        {"name": "Cataclysm: Dark Days Ahead	2013	2013	RPG/Roguelike	CC-BY-SA	CC-BY-SA	?	A post-apocalyptic, survival roguelike with an open-ended gameplay. Had a successful crowdfunding campaign on kickstarter.com in 22 June 2013.[5] Homepage"},
+        {"name": "Chaotic Rage	2010	2014	TPS	GPLv2	GPLv2	3D	Originally a 2D top-view shooter, now 3D using OpenGL.[6]"},
+        {"name": "Cheeseman the Game	2013	2013	Platformer	GPL	GPL	?	2D platformer based on SuperTux."},
+        {"name": "Chocolate Doom	2005	2012	FPS	GPL	GPL	?	Chocolate Doom is a source port of Doom that is designed to behave as closely as possible to the original DOS executable"},
+        {"name": "Crack Attack	2002	2002	Puzzle	GPL	GPL	?	Puzzle game similar to the Super Nintendo classic game Tetris Attack.[7][8] — Homepage"},
+        {"name": "Crimson Fields[9]	2006	2009	TBТ	GPL	GPL	?	Tactical war game in the tradition of Battle Isle."},
+        {"name": "Chromium B.S.U.	2000	2010	Arcade	Artistic	Artistic[10]	?	A fast paced, arcade-style, top-scrolling space shooter"},
+        {"name": "Crossfire	1992	2012	MMORPG	GPL	GPL	?	Crossfire originally started as a Gauntlet clone[11] developed by Frank Tore Johansen at the University of Oslo, Norway.[12]"},
+        {"name": "Dead Meat	2001	2001	Action	GPL	GPL	?	Clone of Bomberman. — Homepage"},
+        {"name": "Doolfy's Brain Surgery	2001	2011	RPG	GPL[13]	GPL	?	A surgery based photography game."},
+        {"name": "Dungeon Crawl Stone Soup	2006	2013	Roguelike	GPL	CC0	?	An open-source fork of the 1997 game Linley's Dungeon Crawl."},
+        {"name": "Eat The Whistle	1998	2008	Simulation	GPLv2	GPLv2	?	A football simulation game. Released under the GPL in 2002."},
+        {"name": "Emilia Pinball	2000	2004	Pinball	GPLv2	GPLv2	3D	A pinball simulation game."},
+        {"name": "Enigma	2003	2013	Puzzle	GPL	GPL	?	Oxyd clone."},
+        {"name": "Epic Inventor	2013	2013	Platformer	GPL	GPL	2D	Sandbox Patform Game. Like Minecraft"},
+        {"name": "Fish Fillets NG	2004	2010	Puzzle	GPL	GPL	?	Released commercially as Fish Fillets in 1998. Source released in 2002 under the GPL."},
+        {"name": "FLARE	2010	2013	Action RPG	GPL	GPL and CC-BY-SA 3.0	?	Hack and slash inspired by Diablo."},
+        {"name": "FlightGear	1997	2014	Flight Sim	GPL	GPL	3D	Microsoft Flight Simulator inspired clone."},
+        {"name": "Freeciv	1996	2014	TBS	GPL	GPL	Isometric 2D	Civilization II clone."},
+        {"name": "FreeCol	2003	2013	TBS	GPL	GPL	Isometric 2D	Sid Meier's Colonization clone."},
+        {"name": "Freedoom	1993 (2001)	2014	FPS	BSD	BSD[14]	?	Doom content/resource clone."},
+        {"name": "Freedroid	2008	2011	RPG	GPL	GPL	Isometric 2D	Two games:"},
+        {"name": "1. FreedroidRPG - FreedroidRPG is an isometric role playing game."},
+        {"name": "2. FreedroidClassic - FreedroidClassic is a clone of the game "Paradroid" which was released on Commodore 64 in 1985."},
+        {"name": "FreeOrion	2004	2014	TBТ	GPL	GPL	?	Master of Orion Clone. Community-developed 4X turn-based galactic empire strategy game with interactive 3D combat."},
+        {"name": "FreeVial	2008	2013	Quiz	GPL	GPL	?	Trivial Pursuit Clone."},
+        {"name": "Frets on Fire	2006	2008	Music	GPL	GPL	3D	Guitar Hero clone."},
+        {"name": "Frets on Fire X	2008	2009	Music	GPLv2	GPLv2	3D	Frets on Fire fork."},
+        {"name": "Frozen Bubble	2002	2008	Puzzle	GPLv2	GPLv2	2D	Puzzle Bobble clone."},
+        {"name": "Gang Garrison 2	2008	2010	Shooter	GPL	GPL	?	A retro "demake" of Team Fortress 2."},
+        {"name": "Glest	2004	2008	RTS	GPL	CC-BY-SA	3D	3D RTS game with two factions, A.I. and same-platform networking support. Development ceased in 2008. Two forks exist, named MegaGlest and Glest Advanced Engine."},
+        {"name": "Globulation 2	2008	2009	RTS	GPLv3	GPLv3	2D	Currently[when?] in open beta."},
+        {"name": "GLtron	2003	2003	Racing	GPL	GPL	3D	Based on the light cycle portion of the film Tron."},
+        {"name": "GNOME Games	1998	2010	Various	GPL	GPL	?	A collection of games accompanying the rest of the GNOME desktop environment."},
+        {"name": "GNU Chess	1984	2011	TBS	GPL	GPL	2D	"},
+        {"name": "GNU FreeDink	1997	2012	RPG	GPLv3	zlib, other free licenses[15]	?	Port from the Dink Smallwood game with free sound replacements"},
+        {"name": "GNU Go	1999	2009	TBS	GPL	GPL	?	"},
+        {"name": "Green Mahjong	2014 [16]	2014	Puzzle	GPLv3	CC-BY-NC-SA	2D	Solitaire Mahjong"},
+        {"name": "Gunroar	2004[17]		FPS	Simplified BSD	Simplified BSD	?	A futuristic vertical shooter."},
+        {"name": "Gusanos	2004	2005	Shoot 'em up	GPL	GPL	?	Clone of Liero."},
+        {"name": "Haxima/Nazghul	2004	2010	Roguelike	GPLv3	GPLv3	2D	Ultima-like game engine (2D tile graphics) and game. Homepage"},
+        {"name": "Hedgewars	2007	2014	Artillery game	GPLv2	GPLv2	2D	Worms clone."},
+        {"name": "Iter Vehemens ad Necem	2001	2005	roguelike dungeon crawler[18]	GPLv2[19]	GPLv2	?	One of the game's specialties is the body parts system: the player can lose and regain limbs which have individual health points and strength."},
+        {"name": "KDEGames	1997[20] 1998[21]	2009	Various*	GPLv2	GPLv2		*Collection of games provided with the official release of KDE."},
+        {"name": "Kernel Panic			RTS	GPL	GPL	?	Real time strategy game powered by the Spring engine."},
+        {"name": "Kiki the nano bot	2003	2007	Puzzle	Public domain	Public domain	?	Mixture of Sokoban and Kula World."},
+        {"name": "Kobo Deluxe	1995	2007	Shoot'em up	GPL	GPL	?	An enhanced version of the scrolling game XKobo."},
+        {"name": "Kroz	1987		Maze	GPL	GPL	?	Game source released on March 20, 2009."},
+        {"name": "The Legend of Edgar	2009	2014	2D platform game	GPL	various	2D	A 2D platform game with a persistent world."},
+        {"name": "Lincity	1999	2004	City-building game	GPL	GPL	?	SimCity clone."},
+        {"name": "LinCity-NG	2005	2009	City-building game	GPL	GPL	?	Lincity fork."},
+        {"name": "Linley's Dungeon Crawl	1997	2005	Roguelike	LGPL	LGPL	?	Roguelike game."},
+        {"name": "Liquid War	1995	2008	Maze games	GPL	GPL	2D	2D game in which you control particles and move them to defeat the opposing side."},
+        {"name": "M.A.X.R. (Mechanized Assault and eXploration Reloaded)	2007	2012	TBS	GPL	GPL and GFDL	?	Remake of M.A.X."},
+        {"name": "The Mana World	2004	2014	MMORPG	GPL	CC-BY-SA, GPL	2D	The Mana World (TMW) is a serious effort to create an innovative free and open source MMORPG. Art & Content are done in a 16-bit style reminiscent of early RPGS from the 90's."},
+        {"name": "MegaGlest	2010	2014	RTS	GPL	CC-BY-SA	3D	Cross-platform 3D RTS for up to eight players (can be A.I. controlled) on seven factions. MegaGlest is a fork of Glest."},
+        {"name": "MegaMek	2005	2009	TBТ	GPL	GPL	?	Simulates the Classic BattleTech board game."},
+        {"name": "Micropolis	1989 (as SimCity)"},
+        {"name": "2008 (as Micropolis)	2008	City-building game	GPLv3[22]	GPLv3	?	Open-source release of SimCity. Also known as OLPC SimCity.[23]"},
+        {"name": "Microwar	2000	2009	Arcade	BSD	BSD	?	A 'Space Invaders' style arcade game, in the cruel world of micro-computer industry."},
+        {"name": "Minetest	2010	2014	First-person, sandbox	LGPL	LGPL	3D	An infinite-world block sandbox game and a game engine, inspired by Minecraft and similar games. - Homepage"},
+        {"name": "Moria	1983	1999	RPG/Roguelike	GPL[24]	GPL	2D	"},
+        {"name": "NetHack	1987	2003	RPG/Roguelike	Nethack GPL	Nethack GPL	Text"},	
+        {"name": "Netrek	1988	2011	Shoot 'em up	MIT	MIT	2D	Successor to 1986's Xtrek, Netrek was first played in 1988. It was the third Internet game, the first Internet team game, and as of 2011 is the oldest Internet game still actively played."},
+        {"name": "Neverball	2005	2009	Platformer	GPL	GPL	3D	Also includes additional game Neverputt."},
+        {"name": "Nexuiz	2005	2009	FPS	GPL	GPL	3D	Forked into Xonotic following a commercial licensing agreement by a minority of the development team."},
+        {"name": "Oolite	2006	2014	Space Sim	GPLv2	GPLv2	3D	Elite Clone"},
+        {"name": "OpenArena	2005	2012	FPS	GPLv2	GPLv2	3D	Quake III Clone"},
+        {"name": "OpenClonk	2010	2014	Action, RTS, Platform	ISC	CC-BY	2D	Successor of the Clonk shareware series"},
+        {"name": "OpenCity	2003	2008	City-building game	GPL	GPL	3D	SimCity Clone."},
+        {"name": "Omega	2008	2014	Space RTS	AGPL	GPL	3D	Universe Simulator / Space Engine / inspired by Homeworld series — Project"},
+        {"name": "OpenHexagon	2013	2013	Arcade	AFL 3.0[25]	AFL 3.0	?	Super Hexagon Clone.[26]"},
+        {"name": "OpenTTD	2005	2014	Business Sim	GPLv2	GPLv2	2D	An open-source clone of 'Transport Tycoon Deluxe'"},
+        {"name": "Paintown	2005	2013	fighting	BSD	CC and Public Domain	2D	Clone of M.U.G.E.N game engine that allows the creation of fighting games with little or no programming experience."},
+        {"name": "Pathological	2003	2003	Puzzle	GPL	GPL	2D	Inspired by Logical by Rainbow Arts."},
+        {"name": "Paku paku	2011	2011	Arcade game	Public Domain	Public Domain	?	Authentic Pac Man clone, uses a CGA 160x100x16 mode, released as Public domain.[27]"},
+        {"name": "Pingus	1998	2011	Puzzle	GPL	GPL	2D	Lemmings clone."},
+        {"name": "Pioneer	2006	2014	Space sim	GPLv3	CC-BY-SA	3D	Inspired by Frontier: Elite 2"},
+        {"name": "PokerTH	2006	2014	Card	GPL	GPL	2D	"},
+        {"name": "PySol	2001[28]	2009	Card games, Patience	GPLv3	Public domain and GPLv3	2D	"},
+        {"name": "Red Eclipse	2011	2014	FPS	zlib	CC-BY-SA / CC-BY [29]	3D	Cube 2: Sauerbraten engine."},
+        {"name": "Rigs of Rods	2007	2012	Vehicle Sim	GPLv3	GPLv3	3D	Rigs of Rods was initially created as an off-road truck simulator, but has developed into a versatile physics sandbox."},
+        {"name": "Rocks'n'Diamonds	1995		Puzzle	GPLv2	GPLv2	2D	A scrolling tile-based computer puzzle game that can be described as a combined Boulder Dash, Supaplex, Emerald Mine, and Sokoban clone."},
+        {"name": "Ryzom	2004	2010	MMORPG	AGPL	CC-BY-SA	3D	All textures and effects, 3D models, animations, characters and clothing (no music or sounds) are under CC-BY-SA."},
+        {"name": "Scorched 3D	2001	2012	Artillery game	GPL	GPL	3D	Clone of Scorched Earth (video game)"},
+        {"name": "Secret Maryo Chronicles	2003	2009	Platformer	GPLv3	GPLv3	2D	2D platformer inspired by the Super Mario series."},
+        {"name": "Sintel The Game	2012	2012	RPG	GPL	CC-BY, GPL	3D	A game based on the Blender Foundation movie, Sintel."},
+        {"name": "Simutrans	1997	2013	Business Sim	Artistic	Artistic	2D	Similar to Transport Tycoon and its open-source clone, OpenTTD. The player must build a profitable transportation system."},
+        {"name": "Smash Battle	2008	2009	Platformer	GPLv3	CC	2D	Smash Battle is a Retro 8-bit style platform shooter, inspired by the battle mini-game from Super Mario Bros. 3.[30]"},
+        {"name": "StepMania	2005(?)	2013	Rhythm game	MIT[31]	MIT	2D and 3D	A DDR clone, the player must hit buttons or keys in time with the music."},
+        {"name": "Sokoban	1982	2006	Transport Puzzle	GPL	GPL	2D	A puzzle game in which the player pushes boxes around in a room, trying to get them to specific locations. Clones: Sokoban YASC - JSoko"},
+        {"name": "Solarwolf			Arcade	LGPL	LGPL	2D	Clone of Solar Fox for the Atari 2600. A 2-D action game where the player must collect the blocks on every level while avoiding various obstacles."},
+        {"name": "Sopwith	1984		Shoot 'em up	GPL	GPL	?	The C and x86 assembly source code to Sopwith was released in 2000,[32] at first under a non-commercial use license, but later under the GNU GPL at the request of fans.[33]"},
+        {"name": "Space Station 13	2003	2013	RPG	GPLv3+	CC-BY-SA	2D	A multiplayer, 2D, sprite and tile based role playing game."},
+        {"name": "SpaceZero	2010	2013	RTS	GPLv3+	GPLv3+	2D	A 2D Real Time Strategy space combat game."},
+        {"name": "Speed Dreams	2010	2012	Sim racing	GPLv2+	FAL	?	Forked from TORCS in late 2008."},
+        {"name": "Supernova	1987		Text adventure	GPL	GPL	?	Game source released on March 20, 2009."},
+        {"name": "SuperTux	2003	2013	Platformer	GPL	GPL	2D	2D platformer inspired by the Super Mario series."},
+        {"name": "SuperTuxKart	2006	2013	Racing	GPL	GPL	3D	Arcade racing game similar to Mario Kart."},
+        {"name": "Teeworlds	2007	2013	Platformer	zlib	CC-BY-SA 3.0 (except font)	2D	2D side-scrolling shooter."},
+        {"name": "Tenés Empanadas Graciela	1996		TBS	GPLv2	GPLv2	?	Based on the boardgame Risk."},
+        {"name": "The Bub's Brothers	2003	2007	Platformer	MIT	MIT	?	Bubble Bobble clone"},
+        {"name": "Thousand Parsec	2002	2009	TBS	GPL, LGPL		?	Framework/Engine for turn based space empire building games."},
+        {"name": "Tile World	2002	2006	Puzzle	GPL	GPL	?	Clone of Chip's Challenge"},
+        {"name": "Torus Trooper	2004	2004	Scroller	BSD	BSD		A fast paced shoot-em-up with wireframe graphics."},
+        {"name": "TORCS	1997	2013	Racing	GPL	Free Art License / Proprietary	3D	Some car models are non-free, but there is a DFSG-compliant version which doesn't include them."},
+        {"name": "Tremulous	2006	2009	FPS	GPL	CC-BY-SA[34]	3D	Alien VS human base building, defending, and attacking opposite team."},
+        {"name": "TripleA	2002	2013	TBS	GPL	GPL	2D	A turn based strategy game inspired by Axis & Allies and board game engine. Development is ongoing."},
+        {"name": "Tux Racer	2000	2009	Racing	GPL	GPL	3D	"},
+        {"name": "Tux, of Math Command	2001	2011	Educational game	GPL	GPL		2D"},
+        {"name": "UFO: Alien Invasion	2006	2014	TBТ	GPL	GPL, CC BY-SA	3D	Inspired by the XCOM-series, but with 3D-combats on surface of the earth."},
+        {"name": "UltraStar Deluxe	2007	2010	Music	GPL	GPL, CC	2D	SingStar clone."},
+        {"name": "Unknown Horizons	2008	2013	City-building game	GPL	GPL, CC, OFL	Isometric 2D	Genre-mix of city-building game and real-time strategy game, inspired by the Anno series."},
+        {"name": "Unvanquished	2012	2014	FPS	GPL	CC-BY-SA	?	Team-based first person shooter with strong RTS elements, derived from the Tremulous project. - Homepage"},
+        {"name": "Vega Strike	2008	2012	Space Sim	GPL	GPL	3D	Elite clone and space simulator engine."},
+        {"name": "VoltAir	2014	2014	Platformer	Apache License	Apache License	2D	Single and local multiplayer mobile game built on Qt and LiquidFun."},
+        {"name": "WarMUX	2002	2010	Artillery game	GPL	GPL	2D	Worms clone."},
+        {"name": "Warzone 2100	?	?	RTS	GPLv2	CC-BY-SA	3D	?"},
+        {"name": "Widelands	2002	2014	RTS	GPL	GPL	?	Widelands is a RTS clone of The Settlers II."},
+        {"name": "Word Whiz	1988		Educational game	GPL	GPL	?	Game source released on March 20, 2009."},
+        {"name": "WorldForge	1998	2011	MMORPG	GPL	GPL	3D	An open-source framework for massively multiplayer online role-playing games. Homepage"},
+        {"name": "Xbattle	1991	1996	RTS	Custom copyleft.[35]		2D	"},
+        {"name": "Xconq	1987	2005	TBS	GPL	GPL	?	4X strategy game engine."},
+        {"name": "XEvil	1994	2003	Platformer	GPL		2D	Fast paced side-scrolling action game."},
+        {"name": "Xonotic	2010	2013	FPS	GPL	GPL	3D	A fork and direct successor of the game Nexuiz."},
+        {"name": "XPilot	1992		Arcade	GPL	GPL	2D	A multiplayer Asteroids-like game."},
+        {"name": "X-Moto	2005	2012	Platformer	GPL	GPL	2D	Elasto Mania Clone."},
+        {"name": "Yo Frankie!	2008		Action-adventure	GPL/LGPL	CC-BY 3.0	3D	"}
       ]
     },
     {"name": "Genealogy"
