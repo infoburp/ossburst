@@ -30,8 +30,8 @@ color:white;
 <script src="http://d3js.org/d3.v3.min.js"></script>
 <script>
 
-var width = 1024,
-    height = 800;
+var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0),
+    height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
     
 var i = 0,
     duration = 750,
