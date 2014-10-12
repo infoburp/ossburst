@@ -178,10 +178,15 @@ function click(d) {
 
 $(document).ready(function(){
     
-    $('#article').wikiblurb();
-    
+    $('#article').wikiblurb({
+	wikiURL: "http://fallout.wikia.com/",
+	apiPath: '',
+	section: 0,
+	page: 'Fallout',
+	removeLinks: false,	    
+	type: 'text',
+	customSelector: ''
+    });
 });
 
 </script>
-
-  
