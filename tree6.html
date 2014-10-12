@@ -42,7 +42,7 @@ overflow-x: hidden;
 <script>
 
 var width = Math.max(document.documentElement.clientWidth, window.innerWidth || 0),
-    height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0);
+    height = Math.max(document.documentElement.clientHeight, window.innerHeight || 0)*2;
     
 var i = 0,
     duration = 750,
@@ -75,8 +75,6 @@ d3.json("oss3.json", function(error, flare) {
   root.children.forEach(collapse);
   update(root);
 });
-
-d3.select(self.frameElement).style("height", "800px");
 
 function update(source) {
 
