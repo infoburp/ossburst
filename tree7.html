@@ -158,15 +158,7 @@ function click(d) {
   } else {
     d.children = d._children;
     d._children = null;
-    $('#article').wikiblurb({
-  	wikiURL: "http://en.wikipedia.org/",
-  	apiPath: 'w',
-  	section: 0,
-  	page: d.name,
-  	removeLinks: false,	    
-  	type: 'all',
-  	customSelector: ''
-    });
+
   }
   update(d);
 }
