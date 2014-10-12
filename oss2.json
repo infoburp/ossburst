@@ -1377,6 +1377,8 @@
                 {"name": "XFree86"},
                 {"name": "Xynth"}
             ]
+        }
+        ]
     },
     {"name": "Groupware", "children":
         [
@@ -2304,152 +2306,150 @@
                     {"name": "Redmine"},
                     {"name": "Trac"}
                 ]
+            },
+            {"name": "Code generators", "children":
+                [
+                    {"name": "Bison"},
+                    {"name": "CodeSynthesis XSD — XML Data Binding compiler for C++"},
+                    {"name": "CodeSynthesis XSD/e — Validating XML parser/serializer and C++ XML Data Binding generator for mobile and embedded systems"},
+                    {"name": "Flex lexical analyser"},
+                    {"name": "Kodos"},
+                    {"name": "Open Scene Graph — 3D graphics application programming interface"},
+                    {"name": "OpenSCDP — Open Smart Card Development Platform"},
+                    {"name": "phpCodeGenie"},
+                    {"name": "SableCC — parser generator for Java and .Net"},
+                    {"name": "SWIG — Simplified Wrapper and Interface Generator for several languages"},
+                    {"name": "^txt2regex$"},
+                    {"name": "xmlbeansxx — XML Data Binding code generator for C++"},
+                    {"name": "YAKINDU Statechart Tools statechart code generator for C++ and Java"}
+                ]
+            },
+            {"name": "Configuration software", "children":
+                [
+                    {"name": "Autoconf"},
+                    {"name": "Automake"},
+                    {"name": "CMake"}
+                ]
+            },
+            {"name": "Debuggers (for testing and trouble-shooting)", "children":
+                [
+                    {"name": "GNU Debugger — works for many programming languages [...]"},
+                    {"name": "Memtest86 — Stress-tests RAM on x86 machines"},
+                    {"name": "Xnee — Record and replay tests"}
+                ]
+            },
+            {"name": "Integrated development environments", "children":
+                [
+                    {"name": "Android Studio"},
+                    {"name": "Anjuta"},
+                    {"name": "Apache Flex"},
+                    {"name": "AppFlower"},
+                    {"name": "Aptana"},
+                    {"name": "Basic For Qt"},
+                    {"name": "Bluefish (software)"},
+                    {"name": "BlueJ"},
+                    {"name": "Cameleon (software)"},
+                    {"name": "Climacs"},
+                    {"name": "Cloud9 IDE"},
+                    {"name": "Code::Blocks"},
+                    {"name": "CodeLite"},
+                    {"name": "CWEB"},
+                    {"name": "Dev-C++"},
+                    {"name": "Dev-Pascal"},
+                    {"name": "DJGCC"},
+                    {"name": "DJGPP"},
+                    {"name": "DogmaModeler"},
+                    {"name": "EasyEclipse"},
+                    {"name": "Eclipse (software)"},
+                    {"name": "EiffelStudio"},
+                    {"name": "Emacs"},
+                    {"name": "Eric Python IDE"},
+                    {"name": "FlashDevelop"},
+                    {"name": "Fresh (IDE)"},
+                    {"name": "Gambas"},
+                    {"name": "Geany"},
+                    {"name": "General Architecture for Text Engineering"},
+                    {"name": "GNAT Programming Studio"},
+                    {"name": "GNAVI"},
+                    {"name": "GNU Emacs"},
+                    {"name": "GNU MIX Development Kit"},
+                    {"name": "Greenfoot"},
+                    {"name": "HBasic"},
+                    {"name": "IcyOwl"},
+                    {"name": "IDLE (Python)"},
+                    {"name": "IntelliJ IDEA"},
+                    {"name": "JUDO (computer programming environment)"},
+                    {"name": "KDevelop"},
+                    {"name": "Komodo Edit"},
+                    {"name": "Kuzya"},
+                    {"name": "Lava (programming language)"},
+                    {"name": "Lazarus (IDE)"},
+                    {"name": "MCU 8051 IDE"},
+                    {"name": "Megido (Free Pascal)"},
+                    {"name": "MonoDevelop"},
+                    {"name": "NeOn Toolkit"},
+                    {"name": "NetBeans"},
+                    {"name": "Ninja-IDE"},
+                    {"name": "Nodeclipse"},
+                    {"name": "OntoWiki"},
+                    {"name": "Padre (software)"},
+                    {"name": "Photran"},
+                    {"name": "PHPEclipse"},
+                    {"name": "PIDA"},
+                    {"name": "Protégé (software)"},
+                    {"name": "PyDev"},
+                    {"name": "PyScripter"},
+                    {"name": "QDevelop"},
+                    {"name": "Qt Creator"},
+                    {"name": "Quanta Plus"},
+                    {"name": "RadRails"},
+                    {"name": "SharpDevelop"},
+                    {"name": "SLIME"},
+                    {"name": "SmallBASIC"},
+                    {"name": "Spyder (software)"},
+                    {"name": "Stani's Python Editor"},
+                    {"name": "TIGCC"},
+                    {"name": "Ultimate++"},
+                    {"name": "WaveMaker"},
+                    {"name": "WideStudio"},
+                    {"name": "WxDev-C++"},
+                    {"name": "YAKINDU Statechart Tools"},
+                    {"name": "ZeroBrane Studio"},
+                    {"name": "ZGameEditor"}
+                ]
+            },
+            {"name": "Version control systems", "children":
+                [
+                    {"name": "Aegis (management software)"},
+                    {"name": "GNU arch"},
+                    {"name": "ArX (revision control)"},
+                    {"name": "GNU Bazaar"},
+                    {"name": "Bonsai (software)"},
+                    {"name": "Cervisia"},
+                    {"name": "Codeville"},
+                    {"name": "Cogito (software)"},
+                    {"name": "Concurrent Versions System"},
+                    {"name": "CVSNT"},
+                    {"name": "Darcs"},
+                    {"name": "Distributed Concurrent Versions System"},
+                    {"name": "Distributed revision control"},
+                    {"name": "Fossil (software)"},
+                    {"name": "Git (software)"},
+                    {"name": "Hgsubversion"},
+                    {"name": "Mercurial"},
+                    {"name": "Monotone (software)"},
+                    {"name": "OpenGrok"},
+                    {"name": "QVCS"},
+                    {"name": "Revision Control System"},
+                    {"name": "Source Code Control System"},
+                    {"name": "Apache Subversion"},
+                    {"name": "SVK"},
+                    {"name": "TortoiseCVS"},
+                    {"name": "TortoiseHg"},
+                    {"name": "Vesta (Software configuration management)"}
+                ]
             }
         ]
-    },
-        {"name": "Code generators", "children":
-            [
-                {"name": "Bison"},
-                {"name": "CodeSynthesis XSD — XML Data Binding compiler for C++"},
-                {"name": "CodeSynthesis XSD/e — Validating XML parser/serializer and C++ XML Data Binding generator for mobile and embedded systems"},
-                {"name": "Flex lexical analyser"},
-                {"name": "Kodos"},
-                {"name": "Open Scene Graph — 3D graphics application programming interface"},
-                {"name": "OpenSCDP — Open Smart Card Development Platform"},
-                {"name": "phpCodeGenie"},
-                {"name": "SableCC — parser generator for Java and .Net"},
-                {"name": "SWIG — Simplified Wrapper and Interface Generator for several languages"},
-                {"name": "^txt2regex$"},
-                {"name": "xmlbeansxx — XML Data Binding code generator for C++"},
-                {"name": "YAKINDU Statechart Tools statechart code generator for C++ and Java"}
-            ]
-        },
-        {"name": "Configuration software", "children":
-            [
-                {"name": "Autoconf"},
-                {"name": "Automake"},
-                {"name": "CMake"}
-            ]
-        },
-        {"name": "Debuggers (for testing and trouble-shooting)", "children":
-            [
-                {"name": "GNU Debugger — works for many programming languages [...]"},
-                {"name": "Memtest86 — Stress-tests RAM on x86 machines"},
-                {"name": "Xnee — Record and replay tests"}
-            ]
-        },
-        {"name": "Integrated development environments", "children":
-            [
-                {"name": "Android Studio"},
-                {"name": "Anjuta"},
-                {"name": "Apache Flex"},
-                {"name": "AppFlower"},
-                {"name": "Aptana"},
-                {"name": "Basic For Qt"},
-                {"name": "Bluefish (software)"},
-                {"name": "BlueJ"},
-                {"name": "Cameleon (software)"},
-                {"name": "Climacs"},
-                {"name": "Cloud9 IDE"},
-                {"name": "Code::Blocks"},
-                {"name": "CodeLite"},
-                {"name": "CWEB"},
-                {"name": "Dev-C++"},
-                {"name": "Dev-Pascal"},
-                {"name": "DJGCC"},
-                {"name": "DJGPP"},
-                {"name": "DogmaModeler"},
-                {"name": "EasyEclipse"},
-                {"name": "Eclipse (software)"},
-                {"name": "EiffelStudio"},
-                {"name": "Emacs"},
-                {"name": "Eric Python IDE"},
-                {"name": "FlashDevelop"},
-                {"name": "Fresh (IDE)"},
-                {"name": "Gambas"},
-                {"name": "Geany"},
-                {"name": "General Architecture for Text Engineering"},
-                {"name": "GNAT Programming Studio"},
-                {"name": "GNAVI"},
-                {"name": "GNU Emacs"},
-                {"name": "GNU MIX Development Kit"},
-                {"name": "Greenfoot"},
-                {"name": "HBasic"},
-                {"name": "IcyOwl"},
-                {"name": "IDLE (Python)"},
-                {"name": "IntelliJ IDEA"},
-                {"name": "JUDO (computer programming environment)"},
-                {"name": "KDevelop"},
-                {"name": "Komodo Edit"},
-                {"name": "Kuzya"},
-                {"name": "Lava (programming language)"},
-                {"name": "Lazarus (IDE)"},
-                {"name": "MCU 8051 IDE"},
-                {"name": "Megido (Free Pascal)"},
-                {"name": "MonoDevelop"},
-                {"name": "NeOn Toolkit"},
-                {"name": "NetBeans"},
-                {"name": "Ninja-IDE"},
-                {"name": "Nodeclipse"},
-                {"name": "OntoWiki"},
-                {"name": "Padre (software)"},
-                {"name": "Photran"},
-                {"name": "PHPEclipse"},
-                {"name": "PIDA"},
-                {"name": "Protégé (software)"},
-                {"name": "PyDev"},
-                {"name": "PyScripter"},
-                {"name": "QDevelop"},
-                {"name": "Qt Creator"},
-                {"name": "Quanta Plus"},
-                {"name": "RadRails"},
-                {"name": "SharpDevelop"},
-                {"name": "SLIME"},
-                {"name": "SmallBASIC"},
-                {"name": "Spyder (software)"},
-                {"name": "Stani's Python Editor"},
-                {"name": "TIGCC"},
-                {"name": "Ultimate++"},
-                {"name": "WaveMaker"},
-                {"name": "WideStudio"},
-                {"name": "WxDev-C++"},
-                {"name": "YAKINDU Statechart Tools"},
-                {"name": "ZeroBrane Studio"},
-                {"name": "ZGameEditor"}
-            ]
-        },
-        {"name": "Version control systems", "children":
-            [
-                {"name": "Aegis (management software)"},
-                {"name": "GNU arch"},
-                {"name": "ArX (revision control)"},
-                {"name": "GNU Bazaar"},
-                {"name": "Bonsai (software)"},
-                {"name": "Cervisia"},
-                {"name": "Codeville"},
-                {"name": "Cogito (software)"},
-                {"name": "Concurrent Versions System"},
-                {"name": "CVSNT"},
-                {"name": "Darcs"},
-                {"name": "Distributed Concurrent Versions System"},
-                {"name": "Distributed revision control"},
-                {"name": "Fossil (software)"},
-                {"name": "Git (software)"},
-                {"name": "Hgsubversion"},
-                {"name": "Mercurial"},
-                {"name": "Monotone (software)"},
-                {"name": "OpenGrok"},
-                {"name": "QVCS"},
-                {"name": "Revision Control System"},
-                {"name": "Source Code Control System"},
-                {"name": "Apache Subversion"},
-                {"name": "SVK"},
-                {"name": "TortoiseCVS"},
-                {"name": "TortoiseHg"},
-                {"name": "Vesta (Software configuration management)"}
-            ]
-        }
-      ]
     },
     {"name": "Screensavers", "children":
         [
@@ -2756,3 +2756,4 @@
     }
   ]
 }
+
