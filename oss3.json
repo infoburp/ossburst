@@ -37,7 +37,7 @@
         },
         {"name": "Computer-aided design", "children": 
           [
-            {"name": "Electronic design automation (EDA)", "children":
+            {"name": "Electronic design automation", "children":
               [
                 {"name": "ChipVault"},
                 {"name": "Electric (software)"},
@@ -90,9 +90,9 @@
           ]},
         {"name": "Computer simulation", "children":
               [
-                {"name": "Blender"},
+                {"name": "Blender (software)"},
                 {"name": "SimPy"},
-                {"name": "flightgear"}
+                {"name": "FlightGear"}
               ]
         },
         {"name": "Finance", "children":
@@ -136,15 +136,15 @@
             {"name": "NewGenLib"},
             {"name": "OpenBiblio"},
             {"name": "PMB"},
-            {"name": "refbase — Web-based institutional repository and reference management software"}
+            {"name": "refbase"}
           ]
         },
         {"name": "Image editor", "children":
           [
-            {"name": "Darktable - Digital image workflow management, including RAW processing."},
-            {"name": "digiKam - Integrated photography toolkit including editing capabilities."},
-            {"name": "GIMP — GNU Image Manipulation Program"},
-            {"name": "Inkscape - An Open Source vector graphics editor."}
+            {"name": "Darktable"},
+            {"name": "digiKam"},
+            {"name": "GIMP"},
+            {"name": "Inkscape"}
           ]
         },
         {"name": "Mathematics"},
@@ -156,7 +156,7 @@
             {"name": "Anduril"},
             {"name": "AutoDock"},
             {"name": "Biochemical Algorithms Library (BALL)"},
-            {"name": "Bioclipse Visual platform for chemo- and bioinformatics based on the Eclipse Rich Client Platform (RCP)."},
+            {"name": "Bioclipse"},
             {"name": "Bioconductor"},
             {"name": "BioJava"},
             {"name": "BioJS"},
@@ -490,7 +490,7 @@
         {"name": "Data mining", "children":
           [
             {"name": "Environment for DeveLoping KDD-Applications Supported by Index-Structures (ELKI)"},
-            {"name": "SCaViS — Java-based data analysis framework"},
+            {"name": "SCaViS"},
             {"name": "Konstanz Information Miner (KNIME)"},
             {"name": "OpenNN"},
             {"name": "Orange (software)"},
